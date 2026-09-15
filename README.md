@@ -151,7 +151,10 @@ Fig. 3 come from the reference decoder's internal predictions, which are not par
 
 ## License
 
-MIT, see [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE). The two images in `assets/` that carry the meter character are
+BioRender content and are not covered by it, see [NOTICE](NOTICE).
+
+Figure credits: `assets/logo.png` and `assets/pipeline.png`. Created in BioRender. Lin, S. (2026).
 
 ## Citation
 
