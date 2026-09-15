@@ -1,0 +1,29 @@
+{
+  "rungs": [
+    {
+      "name": "P0_free",
+      "description": "free description",
+      "prompt": "Describe the recording quality of this audio."
+    },
+    {
+      "name": "P1_numeric",
+      "description": "a request for numbers",
+      "prompt": "Describe the recording quality of this audio. Give numeric values where you can."
+    },
+    {
+      "name": "P2_named",
+      "description": "the quantities named with units",
+      "prompt": "Report these measured quantities for this recording: the signal-to-noise ratio in dB, the speech-to-reverberation modulation energy ratio, the fundamental frequency mean in Hz, the fundamental frequency standard deviation in Hz, the speaking rate in syllables per second, the number of pauses, the pause rate per minute, the jitter in percent, the shimmer in percent, and the harmonics-to-noise ratio in dB. Give a number for each."
+    },
+    {
+      "name": "P3_template",
+      "description": "a template",
+      "prompt": "Complete each sentence with a number, using this exact wording. The SNR is ___ dB. The SRMR is ___. The F0 mean is ___ Hz. The F0 SD is ___ Hz. The speaking rate is ___ syllables per second. The recording contains ___ pauses. The pause rate is ___ per minute. The jitter is ___ percent. The shimmer is ___ percent. The HNR is ___ dB."
+    },
+    {
+      "name": "P4_fewshot",
+      "description": "a worked example",
+      "prompt": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+    }
+  ]
+}

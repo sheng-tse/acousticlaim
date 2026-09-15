@@ -1,0 +1,2462 @@
+{
+ "system": "Audio-Flamingo-3",
+ "model_id": "nvidia/audio-flamingo-3-hf",
+ "corpus": "librimix",
+ "seed": 5,
+ "n_clips": 120,
+ "max_new_tokens": 160,
+ "results": {
+  "Audio-Flamingo-3": {
+   "P0_free": {
+    "prompt": "Describe the recording quality of this audio.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "6829-68769-0010_1320-122612-0013",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "8463-287645-0009_5683-32866-0001",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "6930-76324-0025_1580-141083-0050",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "61-70968-0027_2094-142345-0005",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "4077-13754-0003_8455-210777-0006",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "3729-6852-0013_1284-1180-0001",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "1221-135766-0014_3729-6852-0011",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "8555-284449-0012_1580-141084-0004",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "1320-122617-0002_8455-210777-0028",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "1089-134691-0017_5142-36586-0004",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "The recording quality of this audio is low, with a lot of background noise and a muffled sound."
+     },
+     {
+      "stem": "61-70968-0000_8455-210777-0012",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "1188-133604-0017_5142-33396-0001",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "8230-279154-0031_237-126133-0016",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "237-134493-0017_4077-13754-0009",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "5639-40744-0012_8555-292519-0011",
+      "text": "The recording quality of this audio is slightly bad, with some background noise and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "4446-2271-0013_5683-32865-0004",
+      "text": "The recording quality of this audio is bad, with a noisy background and slight distortion."
+     },
+     {
+      "stem": "61-70968-0005_5105-28233-0000",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a slightly noisy distortion level."
+     },
+     {
+      "stem": "61-70968-0060_3575-170457-0037",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "1284-1181-0000_3570-5696-0008",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "1580-141083-0034_4507-16021-0017",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "7176-92135-0035_61-70968-0013",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "1221-135766-0014_7127-75946-0004",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "61-70970-0023_908-31957-0009",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "7729-102255-0007_7021-85628-0010",
+      "text": "The speech quality of this audio is slightly bad and it is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "2830-3980-0000_1284-1181-0005",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "4077-13754-0003_2961-961-0017",
+      "text": "The recording quality of this audio is great, with moderate volume, clean noise level, and very close-sounding reverberation."
+     },
+     {
+      "stem": "61-70968-0053_3729-6852-0020",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "4077-13751-0015_1284-1180-0029",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "1995-1826-0015_1320-122617-0037",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "6930-81414-0000_5683-32866-0007",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "2830-3980-0018_5105-28233-0003",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "61-70970-0029_5142-36377-0000",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "4077-13751-0012_7729-102255-0038",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "1580-141083-0008_7729-102255-0020",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "5683-32866-0020_1188-133604-0020",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "4992-23283-0016_61-70968-0004",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "2094-142345-0023_908-157963-0024",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "6930-76324-0017_4446-2275-0001",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "237-126133-0014_3729-6852-0037",
+      "text": "The recording quality of this audio is slightly bad, with some background noise and distortion."
+     },
+     {
+      "stem": "5639-40744-0005_260-123288-0024",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "5142-36377-0018_4970-29093-0010",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "2830-3980-0075_8463-294825-0003",
+      "text": "The recording quality of this audio is moderate."
+     },
+     {
+      "stem": "8230-279154-0007_8555-292519-0007",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "1580-141084-0015_5105-28233-0008",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "4992-41797-0014_3575-170457-0014",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "3729-6852-0025_1284-134647-0004",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "1284-1181-0007_1580-141084-0045",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "6930-75918-0001_3570-5694-0011",
+      "text": "The recording quality of this audio is moderate."
+     },
+     {
+      "stem": "8555-284447-0004_7176-92135-0001",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "6930-76324-0014_1284-1181-0012",
+      "text": "The recording quality of this audio is great, with a moderate volume and a clean, noise-free background."
+     },
+     {
+      "stem": "5142-33396-0037_5105-28240-0012",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "8463-294828-0009_3570-5694-0015",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "2830-3980-0051_7176-92135-0032",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "The recording quality of this audio is bad, with a noisy background and distant-sounding reverberation."
+     },
+     {
+      "stem": "4507-16021-0053_61-70968-0022",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "4077-13751-0011_7729-102255-0021",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "5683-32866-0011_4970-29095-0002",
+      "text": "The recording quality of this audio is low, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "1320-122617-0016_2961-960-0020",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "1580-141083-0022_4446-2273-0003",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a distant-sounding reverberation."
+     },
+     {
+      "stem": "908-157963-0023_61-70968-0049",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "8555-284447-0009_260-123440-0012",
+      "text": "The recording quality of this audio is great, with moderate volume and clean audio."
+     },
+     {
+      "stem": "4992-41806-0009_3570-5696-0001",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "8463-287645-0011_1284-1181-0010",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "8555-284449-0013_4992-23283-0013",
+      "text": "The recording quality of this audio is low, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "61-70970-0012_1995-1826-0000",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "672-122797-0060_237-134500-0015",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "121-121726-0009_1284-1181-0019",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "5683-32879-0014_8463-294828-0033",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "4992-23283-0005_6829-68769-0034",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "5683-32865-0008_2300-131720-0032",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "7127-75946-0016_1320-122617-0026",
+      "text": "The recording quality of this audio is bad, with a noisy background and distant-sounding reverberation."
+     },
+     {
+      "stem": "3729-6852-0037_8463-287645-0000",
+      "text": "The recording quality of this audio is low, with a lot of background noise and distortion."
+     },
+     {
+      "stem": "8555-284449-0013_2830-3980-0055",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "2961-961-0013_5105-28241-0017",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The recording quality of this audio is moderate."
+     },
+     {
+      "stem": "6829-68769-0028_5105-28240-0002",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "5142-33396-0064_8555-292519-0012",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "237-126133-0003_2830-3980-0028",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "672-122797-0058_2300-131720-0029",
+      "text": "The recording quality of this audio is great."
+     },
+     {
+      "stem": "4446-2273-0022_2094-142345-0057",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "1995-1836-0003_4992-41806-0011",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "1320-122617-0021_6829-68771-0018",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "8555-284447-0024_1320-122617-0026",
+      "text": "The recording quality of this audio is bad, with a noisy background and distant-sounding reverberation."
+     },
+     {
+      "stem": "5639-40744-0012_5683-32879-0021",
+      "text": "The recording quality of this audio is moderate."
+     },
+     {
+      "stem": "5683-32879-0013_121-127105-0003",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "8463-287645-0010_7021-85628-0011",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a distant-sounding reverberation."
+     },
+     {
+      "stem": "2830-3980-0054_237-134500-0034",
+      "text": "The recording quality of this audio is bad, with a noisy background and a distant-sounding reverberation."
+     },
+     {
+      "stem": "2961-960-0019_1320-122612-0007",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "8455-210777-0055_4970-29095-0002",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "260-123440-0005_8555-284447-0014",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a slightly noisy distortion level."
+     },
+     {
+      "stem": "1995-1826-0005_61-70970-0024",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "7127-75947-0040_237-126133-0002",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "1284-1181-0016_1188-133604-0031",
+      "text": "The recording quality of this audio is bad, with a noisy background and a distant-sounding reverberation."
+     },
+     {
+      "stem": "5683-32866-0006_8463-294828-0027",
+      "text": "The recording quality of this audio is bad, with a noisy background and a distant-sounding reverberation."
+     },
+     {
+      "stem": "2094-142345-0035_4507-16021-0022",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a slightly noisy distortion level."
+     },
+     {
+      "stem": "5105-28240-0005_6829-68769-0010",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "7176-92135-0022_1995-1837-0017",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "6930-75918-0019_1580-141083-0033",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "237-134493-0000_260-123286-0017",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "4507-16021-0016_1320-122617-0029",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "1580-141083-0041_672-122797-0021",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "7127-75947-0023_4077-13754-0007",
+      "text": "The recording quality of this audio is bad, with a noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "2961-960-0015_8555-284449-0001",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "4446-2275-0042_3570-5696-0004",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "5142-36377-0023_7021-85628-0027",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "The recording quality of this audio is low, with a lot of background noise and distortion."
+     },
+     {
+      "stem": "6829-68769-0022_672-122797-0064",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "2961-961-0006_1995-1837-0029",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "6829-68771-0023_260-123288-0026",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "2094-142345-0037_5105-28240-0016",
+      "text": "The recording quality of this audio is great, with moderate volume, clean noise level, and very close-sounding reverberation."
+     },
+     {
+      "stem": "5142-33396-0058_908-157963-0006",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "The recording quality of this audio is slightly bad, with some noise and distortion."
+     },
+     {
+      "stem": "6829-68769-0005_4970-29095-0036",
+      "text": "The recording quality of this audio is bad, with a noisy background and a distant-sounding reverberation."
+     },
+     {
+      "stem": "8455-210777-0062_2830-3980-0018",
+      "text": "The recording quality of this audio is slightly bad, with a slightly distant-sounding reverberation and a noisy distortion level."
+     },
+     {
+      "stem": "1320-122617-0005_3729-6852-0014",
+      "text": "The recording quality of this audio is bad, with a noisy background and a distant-sounding reverberation."
+     },
+     {
+      "stem": "7021-79730-0009_237-126133-0021",
+      "text": "The recording quality of this audio is low."
+     },
+     {
+      "stem": "237-134500-0015_1089-134691-0004",
+      "text": "The recording quality of this audio is low, with a lot of background noise and a distant-sounding reverberation."
+     }
+    ]
+   },
+   "P1_numeric": {
+    "prompt": "Describe the recording quality of this audio. Give numeric values where you can.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "6829-68769-0010_1320-122612-0013",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "8463-287645-0009_5683-32866-0001",
+      "text": "The recording quality of this audio is 7. The audio is clean, with no distortion, and has a moderate volume."
+     },
+     {
+      "stem": "6930-76324-0025_1580-141083-0050",
+      "text": "The recording quality of this audio is bad, with a moderate volume, slightly clean, slightly distant-sounding, noisy, and slightly bad speech quality."
+     },
+     {
+      "stem": "61-70968-0027_2094-142345-0005",
+      "text": "The recording quality of this audio is slightly bad, with a slightly noisy distortion level and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "4077-13754-0003_8455-210777-0006",
+      "text": "The recording quality of this audio is great, with a moderate volume, clean noise level, and very close-sounding reverberation."
+     },
+     {
+      "stem": "3729-6852-0013_1284-1180-0001",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "1221-135766-0014_3729-6852-0011",
+      "text": "The audio has a moderate volume, slightly clean, slightly distant-sounding, noisy, and bad speech quality."
+     },
+     {
+      "stem": "8555-284449-0012_1580-141084-0004",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "1320-122617-0002_8455-210777-0028",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "1089-134691-0017_5142-36586-0004",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with a slightly close-sounding reverberation and almost no noise."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a distant-sounding reverberation."
+     },
+     {
+      "stem": "61-70968-0000_8455-210777-0012",
+      "text": "The recording quality of this audio is bad, with a very low pitch, very monotone, and very noisy."
+     },
+     {
+      "stem": "1188-133604-0017_5142-33396-0001",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise."
+     },
+     {
+      "stem": "8230-279154-0031_237-126133-0016",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with almost no noise. The reverberation is slightly close-sounding."
+     },
+     {
+      "stem": "237-134493-0017_4077-13754-0009",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "5639-40744-0012_8555-292519-0011",
+      "text": "The recording quality of this audio is moderate. The audio is clean with no background noise. The reverberation is slightly close-sounding. The distortion level is almost non-existent."
+     },
+     {
+      "stem": "4446-2271-0013_5683-32865-0004",
+      "text": "The recording quality of this audio is slightly bad, with a slightly noisy distortion level and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "61-70968-0005_5105-28233-0000",
+      "text": "The audio has a moderate volume, slightly clean, slightly distant-sounding, noisy, and bad speech quality."
+     },
+     {
+      "stem": "61-70968-0060_3575-170457-0037",
+      "text": "The recording quality of this audio is moderate."
+     },
+     {
+      "stem": "1284-1181-0000_3570-5696-0008",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "1580-141083-0034_4507-16021-0017",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "7176-92135-0035_61-70968-0013",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "1221-135766-0014_7127-75946-0004",
+      "text": "The recording quality of this audio is bad, with a very low pitch, very monotone pitch variation, and very noisy distortion level."
+     },
+     {
+      "stem": "61-70970-0023_908-31957-0009",
+      "text": "The recording quality of this audio is bad, with a very low pitch, very monotone, very noisy, and very distant-sounding."
+     },
+     {
+      "stem": "7729-102255-0007_7021-85628-0010",
+      "text": "The recording quality of this audio is bad, with a moderate volume, slightly clean, slightly distant-sounding, noisy, and slightly bad speech quality."
+     },
+     {
+      "stem": "2830-3980-0000_1284-1181-0005",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "4077-13754-0003_2961-961-0017",
+      "text": "The recording quality of this audio is great with a moderate volume, slightly clean, slightly close-sounding, and almost no noise."
+     },
+     {
+      "stem": "61-70968-0053_3729-6852-0020",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "4077-13751-0015_1284-1180-0029",
+      "text": "The recording quality of this audio is bad, with a very noisy background and very distant-sounding reverberation."
+     },
+     {
+      "stem": "1995-1826-0015_1320-122617-0037",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "6930-81414-0000_5683-32866-0007",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "2830-3980-0018_5105-28233-0003",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "61-70970-0029_5142-36377-0000",
+      "text": "The recording quality of this audio is 5."
+     },
+     {
+      "stem": "4077-13751-0012_7729-102255-0038",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise."
+     },
+     {
+      "stem": "1580-141083-0008_7729-102255-0020",
+      "text": "The audio has a moderate volume, slightly clean, slightly distant-sounding, noisy, and bad speech quality."
+     },
+     {
+      "stem": "5683-32866-0020_1188-133604-0020",
+      "text": "The recording quality of this audio is moderate. The audio is clean with slight reverberation and noise."
+     },
+     {
+      "stem": "4992-23283-0016_61-70968-0004",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with almost no noise."
+     },
+     {
+      "stem": "2094-142345-0023_908-157963-0024",
+      "text": "The recording quality of this audio is bad, with a very low pitch, very monotone, very distant-sounding, very noisy, and very bad speech quality."
+     },
+     {
+      "stem": "6930-76324-0017_4446-2275-0001",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly close-sounding with slight noise."
+     },
+     {
+      "stem": "237-126133-0014_3729-6852-0037",
+      "text": "The recording quality of this audio is moderate, with a moderate volume, slightly clean, slightly distant-sounding, and almost no noise."
+     },
+     {
+      "stem": "5639-40744-0005_260-123288-0024",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "5142-36377-0018_4970-29093-0010",
+      "text": "The audio has a moderate volume, slightly clean, slightly distant-sounding, noisy, and bad speech quality."
+     },
+     {
+      "stem": "2830-3980-0075_8463-294825-0003",
+      "text": "The recording quality of this audio is moderate. The audio is clean, but there is a slight noise and reverberation."
+     },
+     {
+      "stem": "8230-279154-0007_8555-292519-0007",
+      "text": "The recording quality of this audio is bad, with a moderate volume, slightly clean, slightly distant-sounding, noisy, and slightly bad speech quality."
+     },
+     {
+      "stem": "1580-141084-0015_5105-28233-0008",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with almost no noise. The reverberation is slightly close-sounding."
+     },
+     {
+      "stem": "4992-41797-0014_3575-170457-0014",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "3729-6852-0025_1284-134647-0004",
+      "text": "The recording quality of this audio is moderate. The audio is clean, but there is a slight noise and reverberation."
+     },
+     {
+      "stem": "1284-1181-0007_1580-141084-0045",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "6930-75918-0001_3570-5694-0011",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a distant-sounding reverberation."
+     },
+     {
+      "stem": "8555-284447-0004_7176-92135-0001",
+      "text": "The recording quality of this audio is moderate, with a slight noise and reverberation. The speech quality is moderate, with some distortion and noise."
+     },
+     {
+      "stem": "6930-76324-0014_1284-1181-0012",
+      "text": "The recording quality of this audio is moderate. The audio is clear and easy to understand, but there is some background noise and the sound is not very crisp."
+     },
+     {
+      "stem": "5142-33396-0037_5105-28240-0012",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise."
+     },
+     {
+      "stem": "8463-294828-0009_3570-5694-0015",
+      "text": "The recording quality of this audio is bad."
+     },
+     {
+      "stem": "2830-3980-0051_7176-92135-0032",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "The audio has a moderate speech quality, is slightly clean, and has a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "4507-16021-0053_61-70968-0022",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise."
+     },
+     {
+      "stem": "4077-13751-0011_7729-102255-0021",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "The audio has a slightly bad speech quality, is slightly clean, and has a slightly noisy distortion level."
+     },
+     {
+      "stem": "5683-32866-0011_4970-29095-0002",
+      "text": "The recording quality of this audio is bad, with a very low pitch, very monotone, very distant-sounding, very noisy, and very bad speech quality."
+     },
+     {
+      "stem": "1320-122617-0016_2961-960-0020",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "1580-141083-0022_4446-2273-0003",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "908-157963-0023_61-70968-0049",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "8555-284447-0009_260-123440-0012",
+      "text": "The recording quality of this audio is moderate. The noise level is balanced in clarity, and the reverberation is slightly close-sounding."
+     },
+     {
+      "stem": "4992-41806-0009_3570-5696-0001",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "8463-287645-0011_1284-1181-0010",
+      "text": "The recording quality of this audio is bad. The speech is very distant-sounding, and there is a lot of background noise."
+     },
+     {
+      "stem": "8555-284449-0013_4992-23283-0013",
+      "text": "The recording quality of this audio is bad, with a high level of noise and distortion."
+     },
+     {
+      "stem": "61-70970-0012_1995-1826-0000",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with almost no noise."
+     },
+     {
+      "stem": "672-122797-0060_237-134500-0015",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "121-121726-0009_1284-1181-0019",
+      "text": "The recording quality of this audio is moderate. The speech is clear and easily understandable, but there is a slight background noise and reverberation."
+     },
+     {
+      "stem": "5683-32879-0014_8463-294828-0033",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "4992-23283-0005_6829-68769-0034",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly clean background."
+     },
+     {
+      "stem": "5683-32865-0008_2300-131720-0032",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "7127-75946-0016_1320-122617-0026",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "3729-6852-0037_8463-287645-0000",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a distant-sounding reverberation."
+     },
+     {
+      "stem": "8555-284449-0013_2830-3980-0055",
+      "text": "The speech quality of this audio is slightly bad, the noise level is slightly clean, and it has a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "2961-961-0013_5105-28241-0017",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise."
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a distant-sounding reverberation."
+     },
+     {
+      "stem": "6829-68769-0028_5105-28240-0002",
+      "text": "The audio has a moderate volume, slightly clean, slightly distant-sounding, noisy, and bad speech quality."
+     },
+     {
+      "stem": "5142-33396-0064_8555-292519-0012",
+      "text": "The recording quality of this audio is slightly bad, with a slightly noisy distortion level and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "237-126133-0003_2830-3980-0028",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise."
+     },
+     {
+      "stem": "672-122797-0058_2300-131720-0029",
+      "text": "The recording quality of this audio is moderate. The audio is clean, but there is a slight noise and reverberation."
+     },
+     {
+      "stem": "4446-2273-0022_2094-142345-0057",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "1995-1836-0003_4992-41806-0011",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a moderate volume."
+     },
+     {
+      "stem": "1320-122617-0021_6829-68771-0018",
+      "text": "The recording quality of this audio is bad, with a very low pitch, very monotone pitch variation, very distant-sounding reverberation, and noisy distortion level."
+     },
+     {
+      "stem": "8555-284447-0024_1320-122617-0026",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "5639-40744-0012_5683-32879-0021",
+      "text": "The recording quality of this audio is great."
+     },
+     {
+      "stem": "5683-32879-0013_121-127105-0003",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "8463-287645-0010_7021-85628-0011",
+      "text": "The recording quality of this audio is moderate. The audio is clean, but there is a slight noise and the sound is slightly distant-sounding."
+     },
+     {
+      "stem": "2830-3980-0054_237-134500-0034",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "2961-960-0019_1320-122612-0007",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with almost no noise."
+     },
+     {
+      "stem": "8455-210777-0055_4970-29095-0002",
+      "text": "The recording quality of this audio is bad, with a very noisy background and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "260-123440-0005_8555-284447-0014",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise and reverberation."
+     },
+     {
+      "stem": "1995-1826-0005_61-70970-0024",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "7127-75947-0040_237-126133-0002",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "1284-1181-0016_1188-133604-0031",
+      "text": "The recording quality of this audio is bad, with a moderate volume, slightly clean, slightly distant-sounding, noisy, and slightly bad speech quality."
+     },
+     {
+      "stem": "5683-32866-0006_8463-294828-0027",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "2094-142345-0035_4507-16021-0022",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise. The reverberation is slightly close-sounding."
+     },
+     {
+      "stem": "5105-28240-0005_6829-68769-0010",
+      "text": "The recording quality of this audio is moderate. The sound is clear and easy to understand, but there is some background noise and the sound is not very crisp."
+     },
+     {
+      "stem": "7176-92135-0022_1995-1837-0017",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with almost no noise. The reverberation is slightly close-sounding."
+     },
+     {
+      "stem": "6930-75918-0019_1580-141083-0033",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise. The reverberation is slightly close-sounding."
+     },
+     {
+      "stem": "237-134493-0000_260-123286-0017",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "4507-16021-0016_1320-122617-0029",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with slight noise."
+     },
+     {
+      "stem": "1580-141083-0041_672-122797-0021",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly clean with almost no noise."
+     },
+     {
+      "stem": "7127-75947-0023_4077-13754-0007",
+      "text": "The recording quality of this audio is bad, with a moderate volume, slightly clean, slightly distant-sounding, noisy, and slightly bad speech quality."
+     },
+     {
+      "stem": "2961-960-0015_8555-284449-0001",
+      "text": "The recording quality of this audio is slightly bad, with a slightly noisy distortion level and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "4446-2275-0042_3570-5696-0004",
+      "text": "The recording quality of this audio is slightly bad, with a slightly noisy distortion level and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "5142-36377-0023_7021-85628-0027",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a slightly distant-sounding reverberation."
+     },
+     {
+      "stem": "6829-68769-0022_672-122797-0064",
+      "text": "The audio has a moderate speech quality, moderate volume, and is slightly noisy with a slightly close-sounding reverberation."
+     },
+     {
+      "stem": "2961-961-0006_1995-1837-0029",
+      "text": "The audio has a moderate volume, slightly clean, slightly distant-sounding, noisy, and bad speech quality."
+     },
+     {
+      "stem": "6829-68771-0023_260-123288-0026",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "2094-142345-0037_5105-28240-0016",
+      "text": "The recording quality of this audio is bad, with a very noisy distortion level and a very distant-sounding reverberation."
+     },
+     {
+      "stem": "5142-33396-0058_908-157963-0006",
+      "text": "The recording quality of this audio is moderate, with a slight background noise and a clear but not high-quality sound."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "The recording quality of this audio is great, with moderate volume, slightly clean, slightly close-sounding, and almost no noise."
+     },
+     {
+      "stem": "6829-68769-0005_4970-29095-0036",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "8455-210777-0062_2830-3980-0018",
+      "text": "The recording quality of this audio is slightly bad, with a moderate volume, slightly clean, slightly distant-sounding, and noisy."
+     },
+     {
+      "stem": "1320-122617-0005_3729-6852-0014",
+      "text": "The recording quality of this audio is bad, with a moderate volume, slightly clean, slightly distant-sounding, noisy, and slightly bad speech quality."
+     },
+     {
+      "stem": "7021-79730-0009_237-126133-0021",
+      "text": "The recording quality of this audio is 7."
+     },
+     {
+      "stem": "237-134500-0015_1089-134691-0004",
+      "text": "The recording quality of this audio is moderate. The audio is clean with no background noise. The reverberation is slightly close-sounding. The distortion level is almost non-existent."
+     }
+    ]
+   },
+   "P2_named": {
+    "prompt": "Report these measured quantities for this recording: the signal-to-noise ratio in dB, the speech-to-reverberation modulation energy ratio, the fundamental frequency mean in Hz, the fundamental frequency standard deviation in Hz, the speaking rate in syllables per second, the number of pauses, the pause rate per minute, the jitter in percent, the shimmer in percent, and the harmonics-to-noise ratio in dB. Give a number for each.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "6829-68769-0010_1320-122612-0013",
+      "text": "The audio contains a circle of a few hundred feet in circumference."
+     },
+     {
+      "stem": "8463-287645-0009_5683-32866-0001",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 1%, the shimmer is 0.5%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "6930-76324-0025_1580-141083-0050",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "61-70968-0027_2094-142345-0005",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 0.5. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "4077-13754-0003_8455-210777-0006",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 0.5. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "3729-6852-0013_1284-1180-0001",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 100. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 15."
+     },
+     {
+      "stem": "1221-135766-0014_3729-6852-0011",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "8555-284449-0012_1580-141084-0004",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1320-122617-0002_8455-210777-0028",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1089-134691-0017_5142-36586-0004",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 10 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 5%, the shimmer is 2%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "61-70968-0000_8455-210777-0012",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1188-133604-0017_5142-33396-0001",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 2%, the shimmer is 1%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "8230-279154-0031_237-126133-0016",
+      "text": "The given information is not sufficient to provide a specific answer."
+     },
+     {
+      "stem": "237-134493-0017_4077-13754-0009",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 15."
+     },
+     {
+      "stem": "5639-40744-0012_8555-292519-0011",
+      "text": "The spoken content of the audio is YES I HAVE GOT A NEW ONE"
+     },
+     {
+      "stem": "4446-2271-0013_5683-32865-0004",
+      "text": "The signal-to-noise ratio is 12. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. There are 3 pauses. The pause rate per minute is 0.5. The jitter is 1%. The shimmer is 0.5%. The harmonics-to-noise ratio is 10."
+     },
+     {
+      "stem": "61-70968-0005_5105-28233-0000",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "61-70968-0060_3575-170457-0037",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1284-1181-0000_3570-5696-0008",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1580-141083-0034_4507-16021-0017",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "7176-92135-0035_61-70968-0013",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1221-135766-0014_7127-75946-0004",
+      "text": "The audio contains a speech signal with a signal-to-noise ratio of 10 dB, a speech-to-reverberation modulation energy ratio of 0.5, a fundamental frequency mean of 120 Hz, a fundamental frequency standard deviation of 2 Hz, a speaking rate of 4 syllables per second, a pause rate of 0.5 per minute, a jitter of 1%, a shimmer of 0.5%, and a harmonics-to-noise ratio of 20 dB."
+     },
+     {
+      "stem": "61-70970-0023_908-31957-0009",
+      "text": "The signal-to-noise ratio is 10 dB. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. There are 3 pauses. The pause rate per minute is 0.5. The jitter is 10%. The shimmer is 5%. The harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "7729-102255-0007_7021-85628-0010",
+      "text": "The spoken content of the audio is HIS RECEPTIBILITY BY THE WEST WERE BEING OBTAINED AND KEPT LEGALITY AND THE LIVES SPARKLED AND IN ITS TURN MASTERY TO THE FOURTH REPORT THESE MEASURE QUANTITIES FOR THIS RECORDING THE SIGNAL TO NOISE RATIO IN DECIBEL THE SPEECH TO REVERBERATION MODULATION ENERGY RATIO THE FUNDAMENTAL FREQUENCY MEAN IN HERTZ THE FUNDAMENTAL FREQUENCY STANDARD DEVIATION IN HERTZ THE SPEAKING RATE IN SYLLABLES PER SECOND THE NUMBER OF PAUSES THE PAUSE RATE PER MINUTE THE TREMBLE IN PERCENT THE SHIMMER IN PERCENT AND THE HARMONICS TO NOISE RATIO IN DECIB"
+     },
+     {
+      "stem": "2830-3980-0000_1284-1181-0005",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 2. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "4077-13754-0003_2961-961-0017",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.02. The fundamental frequency mean in Hz is 125. The fundamental frequency standard deviation in Hz is 1. The speaking rate in syllables per second is 4. The number of pauses is 1. The pause rate per minute is 0. The jitter in percent is 0. The shimmer in percent is 0. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "61-70968-0053_3729-6852-0020",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 0.5. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "4077-13751-0015_1284-1180-0029",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1995-1826-0015_1320-122617-0037",
+      "text": "the signal-to-noise ratio in dB, the speech-to-reverberation modulation energy ratio, the fundamental frequency mean in Hz, the fundamental frequency standard deviation in Hz, the speaking rate in syllables per second, the number of pauses, the pause rate per minute, the jitter in percent, the shimmer in percent, and the harmonics-to-noise ratio in dB."
+     },
+     {
+      "stem": "6930-81414-0000_5683-32866-0007",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 10 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 5%, the shimmer is 2%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "2830-3980-0018_5105-28233-0003",
+      "text": "The audio contains a report of measured quantities for a recording, including the signal-to-noise ratio in dB, the speech-to-reverberation modulation energy ratio, the fundamental frequency mean in Hz, the fundamental frequency standard deviation in Hz, the speaking rate in syllables per second, the number of pauses, the pause rate per minute, the jitter in percent, the shimmer in percent, and the harmonics-to-noise ratio in dB."
+     },
+     {
+      "stem": "61-70970-0029_5142-36377-0000",
+      "text": "The audio contains a voice saying 'the wife was behind the line with her voice'."
+     },
+     {
+      "stem": "4077-13751-0012_7729-102255-0038",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1580-141083-0008_7729-102255-0020",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "5683-32866-0020_1188-133604-0020",
+      "text": "The spoken content of the audio is FIVE"
+     },
+     {
+      "stem": "4992-23283-0016_61-70968-0004",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "2094-142345-0023_908-157963-0024",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 10 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 5%, the shimmer is 2%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "6930-76324-0017_4446-2275-0001",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "237-126133-0014_3729-6852-0037",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "5639-40744-0005_260-123288-0024",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 100. The fundamental frequency standard deviation in Hz is 1. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "5142-36377-0018_4970-29093-0010",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "2830-3980-0075_8463-294825-0003",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "8230-279154-0007_8555-292519-0007",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1580-141084-0015_5105-28233-0008",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "4992-41797-0014_3575-170457-0014",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "3729-6852-0025_1284-134647-0004",
+      "text": "The audio contains a speech with a signal-to-noise ratio of 10 dB, a speech-to-reverberation modulation energy ratio of 0.5, a fundamental frequency mean of 120 Hz, a fundamental frequency standard deviation of 10 Hz, a speaking rate of 4 syllables per second, a number of pauses of 5, a pause rate per minute of 100, a jitter of 5%, a shimmer of 2%, and a harmonics-to-noise ratio of 20 dB."
+     },
+     {
+      "stem": "1284-1181-0007_1580-141084-0045",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 15."
+     },
+     {
+      "stem": "6930-75918-0001_3570-5694-0011",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.8, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 2%, the shimmer is 1%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "8555-284447-0004_7176-92135-0001",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 2. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "6930-76324-0014_1284-1181-0012",
+      "text": "The audio contains a speech signal with a signal-to-noise ratio of 10 dB, a speech-to-reverberation modulation energy ratio of 0.5, a fundamental frequency mean of 120 Hz, a fundamental frequency standard deviation of 10 Hz, a speaking rate of 4 syllables per second, a number of pauses of 5, a pause rate per minute of 100, a jitter of 5%, a shimmer of 2%, and a harmonics-to-noise ratio of 20 dB."
+     },
+     {
+      "stem": "5142-33396-0037_5105-28240-0012",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 10."
+     },
+     {
+      "stem": "8463-294828-0009_3570-5694-0015",
+      "text": "The signal-to-noise ratio is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. The number of pauses is 3. The pause rate per minute is 100. The jitter is 5%. The shimmer is 2%. The harmonics-to-noise ratio is 10."
+     },
+     {
+      "stem": "2830-3980-0051_7176-92135-0032",
+      "text": "The spoken content of the audio is HOW YOU ARGUE ABOUT THE NATURE OF GOD"
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "4507-16021-0053_61-70968-0022",
+      "text": "The signal-to-noise ratio is 12. The speech-to-reverberation modulation energy ratio is 0.02. The fundamental frequency mean is 125. The fundamental frequency standard deviation is 1. The speaking rate is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter is 0. The shimmer is 0. The harmonics-to-noise ratio is 12."
+     },
+     {
+      "stem": "4077-13751-0011_7729-102255-0021",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 0.5%, the shimmer is 0.5%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "The signal-to-noise ratio in dB is 0. The speech-to-reverberation modulation energy ratio is 0. The fundamental frequency mean in Hz is 0. The fundamental frequency standard deviation in Hz is 0. The speaking rate in syllables per second is 0. The number of pauses is 0. The pause rate per minute is 0. The jitter in percent is 0. The shimmer in percent is 0. The harmonics-to-noise ratio in dB is 0."
+     },
+     {
+      "stem": "5683-32866-0011_4970-29095-0002",
+      "text": "The signal-to-noise ratio is 10 dB. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. There are 5 pauses. The pause rate per minute is 100. The jitter is 1%. The shimmer is 0.5%. The harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "1320-122617-0016_2961-960-0020",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1580-141083-0022_4446-2273-0003",
+      "text": "The signal-to-noise ratio is 10 dB. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. There are 3 pauses. The pause rate per minute is 0.5. The jitter is 1%. The shimmer is 0.5%. The harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "908-157963-0023_61-70968-0049",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "8555-284447-0009_260-123440-0012",
+      "text": "The audio contains a female voice speaking in a neutral tone at a moderate pace, listing technical audio parameters such as signal-to-noise ratio, speech-to-reverberation modulation energy ratio, fundamental frequency, speaking rate, and harmonics-to-noise ratio."
+     },
+     {
+      "stem": "4992-41806-0009_3570-5696-0001",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "8463-287645-0011_1284-1181-0010",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 10."
+     },
+     {
+      "stem": "8555-284449-0013_4992-23283-0013",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 10 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 2%, the shimmer is 1%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "61-70970-0012_1995-1826-0000",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "672-122797-0060_237-134500-0015",
+      "text": "The signal-to-noise ratio is 12. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. There are 3 pauses. The pause rate per minute is 100. The jitter is 5%. The shimmer is 2%. The harmonics-to-noise ratio is 10 dB."
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "121-121726-0009_1284-1181-0019",
+      "text": "The signal-to-noise ratio is 10 dB. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 10 Hz. The speaking rate is 4 syllables per second. There are 5 pauses. The pause rate per minute is 100. The jitter is 5%. The shimmer is 2%. The harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "5683-32879-0014_8463-294828-0033",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "4992-23283-0005_6829-68769-0034",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "5683-32865-0008_2300-131720-0032",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 15."
+     },
+     {
+      "stem": "7127-75946-0016_1320-122617-0026",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "3729-6852-0037_8463-287645-0000",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 2%, the shimmer is 1%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "8555-284449-0013_2830-3980-0055",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 10."
+     },
+     {
+      "stem": "2961-961-0013_5105-28241-0017",
+      "text": "after pondering a while he said if we were farther away"
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The signal-to-noise ratio is 12.3 dB, the speech-to-reverberation modulation energy ratio is 0.75, the fundamental frequency mean is 125.3 Hz, the fundamental frequency standard deviation is 2.1 Hz, the speaking rate is 4.5 syllables per second, the number of pauses is 3, the pause rate per minute is 0.5, the jitter is 1.2%, the shimmer is 0.8%, and the harmonics-to-noise ratio is 15.9 dB."
+     },
+     {
+      "stem": "6829-68769-0028_5105-28240-0002",
+      "text": "The spoken content of the audio is EXCLAIMED SERVADAC KEEPING HIS EYE UNMOVED AT HIS TELESCOPE"
+     },
+     {
+      "stem": "5142-33396-0064_8555-292519-0012",
+      "text": "The audio contains a male voice speaking in a neutral tone at a moderate pace, listing technical audio parameters such as signal-to-noise ratio, speech-to-reverberation modulation energy ratio, fundamental frequency, speaking rate, and harmonics-to-noise ratio."
+     },
+     {
+      "stem": "237-126133-0003_2830-3980-0028",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 15."
+     },
+     {
+      "stem": "672-122797-0058_2300-131720-0029",
+      "text": "The audio contains a male voice speaking in a neutral tone at a moderate pace, but the content is not related to the speech-aware caption."
+     },
+     {
+      "stem": "4446-2273-0022_2094-142345-0057",
+      "text": "the signal-to-noise ratio in dB: 10.0; the speech-to-reverberation modulation energy ratio: 0.0; the fundamental frequency mean in Hz: 125.0; the fundamental frequency standard deviation in Hz: 0.0; the speaking rate in syllables per second: 4.0; the number of pauses: 1; the pause rate per minute: 0.0; the jitter in percent: 0.0; the shimmer in percent: 0.0; the harmonics-to-noise ratio in dB: 10.0."
+     },
+     {
+      "stem": "1995-1836-0003_4992-41806-0011",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.8. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1320-122617-0021_6829-68771-0018",
+      "text": "The signal-to-noise ratio is 12. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. The number of pauses is 3. The pause rate per minute is 100. The jitter is 5%. The shimmer is 2%. The harmonics-to-noise ratio is 10 dB."
+     },
+     {
+      "stem": "8555-284447-0024_1320-122617-0026",
+      "text": "The signal-to-noise ratio is 12. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. There are 3 pauses. The pause rate per minute is 0.5. The jitter is 1%. The shimmer is 0.5%. The harmonics-to-noise ratio is 10."
+     },
+     {
+      "stem": "5639-40744-0012_5683-32879-0021",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 3, the pause rate per minute is 0.5, the jitter is 1%, the shimmer is 0.5%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "5683-32879-0013_121-127105-0003",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 10."
+     },
+     {
+      "stem": "8463-287645-0010_7021-85628-0011",
+      "text": "The audio contains a speech with a signal-to-noise ratio of 10 dB, a speech-to-reverberation modulation energy ratio of 0.5, a fundamental frequency mean of 120 Hz, a fundamental frequency standard deviation of 10 Hz, a speaking rate of 4 syllables per second, a number of pauses of 5, a pause rate per minute of 100, a jitter of 5%, a shimmer of 2%, and a harmonics-to-noise ratio of 20 dB."
+     },
+     {
+      "stem": "2830-3980-0054_237-134500-0034",
+      "text": "The signal-to-noise ratio is 10.5 dB, the speech-to-reverberation modulation energy ratio is 0.8, the fundamental frequency mean is 125 Hz, the fundamental frequency standard deviation is 2.5 Hz, the speaking rate is 4.2 syllables per second, the number of pauses is 3, the pause rate per minute is 0.5, the jitter is 0.3%, the shimmer is 0.2%, and the harmonics-to-noise ratio is 15.8 dB."
+     },
+     {
+      "stem": "2961-960-0019_1320-122612-0007",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.8. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 15."
+     },
+     {
+      "stem": "8455-210777-0055_4970-29095-0002",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.8, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 5%, the shimmer is 3%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "260-123440-0005_8555-284447-0014",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1995-1826-0005_61-70970-0024",
+      "text": "They moved thereafter cautiously about the hut groping before and about them to find something to show."
+     },
+     {
+      "stem": "7127-75947-0040_237-126133-0002",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 10."
+     },
+     {
+      "stem": "1284-1181-0016_1188-133604-0031",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "5683-32866-0006_8463-294828-0027",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 2. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "2094-142345-0035_4507-16021-0022",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 2%, the shimmer is 1%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "5105-28240-0005_6829-68769-0010",
+      "text": "The signal-to-noise ratio is 10 dB. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 10 Hz. The speaking rate is 4 syllables per second. The number of pauses is 5. The pause rate per minute is 100. The jitter is 5%. The shimmer is 2%. The harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "7176-92135-0022_1995-1837-0017",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "6930-75918-0019_1580-141083-0033",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.8. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 0.5. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "237-134493-0000_260-123286-0017",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 2%, the shimmer is 1%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "4507-16021-0016_1320-122617-0029",
+      "text": "The signal-to-noise ratio in dB is 20. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1580-141083-0041_672-122797-0021",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "7127-75947-0023_4077-13754-0007",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 10 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 5%, the shimmer is 2%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "2961-960-0015_8555-284449-0001",
+      "text": "The signal-to-noise ratio in dB is 10, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean in Hz is 120, the fundamental frequency standard deviation in Hz is 10, the speaking rate in syllables per second is 4, the number of pauses is 5, the pause rate per minute is 10, the jitter in percent is 2, the shimmer in percent is 5, and the harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "4446-2275-0042_3570-5696-0004",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 3. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "5142-36377-0023_7021-85628-0027",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.8. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.8. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 10. The jitter in percent is 5. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "6829-68769-0022_672-122797-0064",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 10. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 5. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "2961-961-0006_1995-1837-0029",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 2. The harmonics-to-noise ratio in dB is 15."
+     },
+     {
+      "stem": "6829-68771-0023_260-123288-0026",
+      "text": "The audio contains a report of measured quantities such as the signal-to-noise ratio, speech-to-reverberation modulation energy ratio, fundamental frequency, speaking rate, number of pauses, pause rate, jitter, shimmer, and harmonics-to-noise ratio."
+     },
+     {
+      "stem": "2094-142345-0037_5105-28240-0016",
+      "text": "The signal-to-noise ratio is 10 dB. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 10 Hz. The speaking rate is 4 syllables per second. The number of pauses is 5. The pause rate per minute is 100. The jitter is 2%. The shimmer is 1%. The harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "5142-33396-0058_908-157963-0006",
+      "text": "The signal-to-noise ratio is 10 dB. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 10 Hz. The speaking rate is 4 syllables per second. There are 5 pauses. The pause rate per minute is 100. The jitter is 5%. The shimmer is 2%. The harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.8. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 5. The pause rate per minute is 10. The jitter in percent is 2. The shimmer in percent is 1. The harmonics-to-noise ratio in dB is 20."
+     },
+     {
+      "stem": "6829-68769-0005_4970-29095-0036",
+      "text": "The signal-to-noise ratio is 10 dB. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean is 120 Hz. The fundamental frequency standard deviation is 2 Hz. The speaking rate is 4 syllables per second. There are 3 pauses. The pause rate per minute is 0.5. The jitter is 1%. The shimmer is 0.5%. The harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "8455-210777-0062_2830-3980-0018",
+      "text": "The spoken content of the audio is I DID NOT THEN REALISE THE"
+     },
+     {
+      "stem": "1320-122617-0005_3729-6852-0014",
+      "text": "The signal-to-noise ratio in dB is 10. The speech-to-reverberation modulation energy ratio is 0.5. The fundamental frequency mean in Hz is 120. The fundamental frequency standard deviation in Hz is 2. The speaking rate in syllables per second is 4. The number of pauses is 3. The pause rate per minute is 0.5. The jitter in percent is 1. The shimmer in percent is 0.5. The harmonics-to-noise ratio in dB is 15."
+     },
+     {
+      "stem": "7021-79730-0009_237-126133-0021",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 2 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 2%, the shimmer is 1%, and the harmonics-to-noise ratio is 20 dB."
+     },
+     {
+      "stem": "237-134500-0015_1089-134691-0004",
+      "text": "The signal-to-noise ratio is 10 dB, the speech-to-reverberation modulation energy ratio is 0.5, the fundamental frequency mean is 120 Hz, the fundamental frequency standard deviation is 10 Hz, the speaking rate is 4 syllables per second, the number of pauses is 5, the pause rate per minute is 100, the jitter is 5%, the shimmer is 2%, and the harmonics-to-noise ratio is 20 dB."
+     }
+    ]
+   },
+   "P3_template": {
+    "prompt": "Complete each sentence with a number, using this exact wording. The SNR is ___ dB. The SRMR is ___. The F0 mean is ___ Hz. The F0 SD is ___ Hz. The speaking rate is ___ syllables per second. The recording contains ___ pauses. The pause rate is ___ per minute. The jitter is ___ percent. The shimmer is ___ percent. The HNR is ___ dB.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "6829-68769-0010_1320-122612-0013",
+      "text": "a circle of a few hundred feet in circumference is drawn"
+     },
+     {
+      "stem": "8463-287645-0009_5683-32866-0001",
+      "text": "The SNR is 0 dB. The SRMR is 0 dB. The F0 mean is 0 Hz. The F0 SD is 0 Hz. The speaking rate is 0 syllables per second. The recording contains 0 pauses. The pause rate is 0 per minute. The jitter is 0 percent. The shimmer is 0 percent. The HHR is 0 dB."
+     },
+     {
+      "stem": "6930-76324-0025_1580-141083-0050",
+      "text": "i really don't think you need much about"
+     },
+     {
+      "stem": "61-70968-0027_2094-142345-0005",
+      "text": "several"
+     },
+     {
+      "stem": "4077-13754-0003_8455-210777-0006",
+      "text": "moreover have the people been inclined to rebellion one greater opportunity"
+     },
+     {
+      "stem": "3729-6852-0013_1284-1180-0001",
+      "text": "his hat had a peaked crown of great honor"
+     },
+     {
+      "stem": "1221-135766-0014_3729-6852-0011",
+      "text": "I had a name I believe gazed intently but never sought to make acquaintance but I have forgotten"
+     },
+     {
+      "stem": "8555-284449-0012_1580-141084-0004",
+      "text": "of course he did not realize that it was i who was knocking but nonetheless his conduct was very uncourteous and indeed under the circumstances rather suspicious"
+     },
+     {
+      "stem": "1320-122617-0002_8455-210777-0028",
+      "text": "Jack would become the happiest subject of the ability of and would remain amidst the hurried judgment of the players"
+     },
+     {
+      "stem": "1089-134691-0017_5142-36586-0004",
+      "text": "The SNR is 10 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HNR is 10 dB."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "The SNR is 10 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HHR is 10 dB."
+     },
+     {
+      "stem": "61-70968-0000_8455-210777-0012",
+      "text": "The HHR is ___ dB."
+     },
+     {
+      "stem": "1188-133604-0017_5142-33396-0001",
+      "text": "That a style is restrained or severe does not mean that it is also erroneous."
+     },
+     {
+      "stem": "8230-279154-0031_237-126133-0016",
+      "text": "they give more also according to which images and past experiences come into our minds"
+     },
+     {
+      "stem": "237-134493-0017_4077-13754-0009",
+      "text": "anyone there would have heard that this was one of the richest farms on the island and that the farm was as right as"
+     },
+     {
+      "stem": "5639-40744-0012_8555-292519-0011",
+      "text": "The recording contains ___ pauses."
+     },
+     {
+      "stem": "4446-2271-0013_5683-32865-0004",
+      "text": "complete each sentence with a number, using this exact wording. The SNR is ___ dB. The SRMR is __ dB. The F0 mean is ___ Hz. The F0 SD is ___ Hz. The speaking rate is ___ syllables per second. The recording contains ___ pauses. The pause rate is ___ per minute. The jitter is ___ percent. The shimmer is ___ percent. The HNR is ___ dB."
+     },
+     {
+      "stem": "61-70968-0005_5105-28233-0000",
+      "text": "three"
+     },
+     {
+      "stem": "61-70968-0060_3575-170457-0037",
+      "text": "The recording contains no pauses."
+     },
+     {
+      "stem": "1284-1181-0000_3570-5696-0008",
+      "text": "The SNR is 10 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HNR is 10 dB."
+     },
+     {
+      "stem": "1580-141083-0034_4507-16021-0017",
+      "text": "The speaking rate is 4.5 syllables per second."
+     },
+     {
+      "stem": "7176-92135-0035_61-70968-0013",
+      "text": "The SNR is 20 dB. The SRMR is 20 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "1221-135766-0014_7127-75946-0004",
+      "text": "zero"
+     },
+     {
+      "stem": "61-70970-0023_908-31957-0009",
+      "text": "be not so fired"
+     },
+     {
+      "stem": "7729-102255-0007_7021-85628-0010",
+      "text": "his reception by the west coast being a team of twenty and kate legal and the letters sparkling and in return nation to the four complete each sentence with a number, using this exact wording. The SNR is 20 dB. The SRMR is 20 dB. The F0 mean is 20 Hz. The F0 SD is 20 Hz. The speaking rate is 20 syllables per second. The recording contains 20 pauses. The pause rate is 20 per minute. The jitter is 20 percent. The shimmer is 20 percent. The HHR is 20 dB."
+     },
+     {
+      "stem": "2830-3980-0000_1284-1181-0005",
+      "text": "no"
+     },
+     {
+      "stem": "4077-13754-0003_2961-961-0017",
+      "text": "moreover had the people been inclined to rebellion what greater opportunity could they have wished"
+     },
+     {
+      "stem": "61-70968-0053_3729-6852-0020",
+      "text": "excellency"
+     },
+     {
+      "stem": "4077-13751-0015_1284-1180-0029",
+      "text": "sometimes this is a crazy thing because the patches and colors are so different"
+     },
+     {
+      "stem": "1995-1826-0015_1320-122617-0037",
+      "text": "the delaware talk he said leaning forward and"
+     },
+     {
+      "stem": "6930-81414-0000_5683-32866-0007",
+      "text": "The recording contains ___ pauses."
+     },
+     {
+      "stem": "2830-3980-0018_5105-28233-0003",
+      "text": "i did not and realize you"
+     },
+     {
+      "stem": "61-70970-0029_5142-36377-0000",
+      "text": "The recording contains ___ pauses."
+     },
+     {
+      "stem": "4077-13751-0012_7729-102255-0038",
+      "text": "The SNR is 20 dB. The SRMR is 20 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 4 syllables per second. The recording contains 5 pauses. The pause rate is 100 per minute. The jitter is 50 percent. The shimmer is 20 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "1580-141083-0008_7729-102255-0020",
+      "text": "The incident was not quite nor even dramatic no cassy was"
+     },
+     {
+      "stem": "5683-32866-0020_1188-133604-0020",
+      "text": "five"
+     },
+     {
+      "stem": "4992-23283-0016_61-70968-0004",
+      "text": "also there was a stripling page who turned it to a maid"
+     },
+     {
+      "stem": "2094-142345-0023_908-157963-0024",
+      "text": "The recording contains 0 pauses."
+     },
+     {
+      "stem": "6930-76324-0017_4446-2275-0001",
+      "text": "She blushed and smiled and fumbled his card in her confusion before she ran upstairs."
+     },
+     {
+      "stem": "237-126133-0014_3729-6852-0037",
+      "text": "The SNR is 10 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "5639-40744-0005_260-123288-0024",
+      "text": "The final answer is: The SNR is 10 dB. The SRMR is 10 dB. The F0 mean is 10 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent."
+     },
+     {
+      "stem": "5142-36377-0018_4970-29093-0010",
+      "text": "he had no friend wise enough to tell him and looked down again slowly with a frown"
+     },
+     {
+      "stem": "2830-3980-0075_8463-294825-0003",
+      "text": "The recording contains 10 pauses. The pause rate is 100 per minute."
+     },
+     {
+      "stem": "8230-279154-0007_8555-292519-0007",
+      "text": "The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "1580-141084-0015_5105-28233-0008",
+      "text": "The SNR is 8 dB."
+     },
+     {
+      "stem": "4992-41797-0014_3575-170457-0014",
+      "text": "The SNR is 20 dB. The SRMR is 20 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "3729-6852-0025_1284-134647-0004",
+      "text": "is there not"
+     },
+     {
+      "stem": "1284-1181-0007_1580-141084-0045",
+      "text": "suddenly he heard him at the very door"
+     },
+     {
+      "stem": "6930-75918-0001_3570-5694-0011",
+      "text": "The audio clip contains a speech synthesizer, which is a type of speech synthesizer."
+     },
+     {
+      "stem": "8555-284447-0004_7176-92135-0001",
+      "text": "a prominent figure in one's society and if he is not careful complete each sentence with a number, using this exact wording. The SNR is ___ dB. The SRMR is __ dB. The F0 mean is ___ Hz. The F0 SD is ___ Hz. The speaking rate is ___ syllables per second. The recording contains ___ pauses. The pause rate is ___ per minute. The jitter is ___ percent. The shimmer is ___ percent. The HNR is ___ dB."
+     },
+     {
+      "stem": "6930-76324-0014_1284-1181-0012",
+      "text": "zero"
+     },
+     {
+      "stem": "5142-33396-0037_5105-28240-0012",
+      "text": "The SNR is 0. The SRMR is 0. The F0 mean is 0. The F0 SD is 0. The speaking rate is 0. The recording contains 0. The pause rate is 0. The jitter is 0. The shimmer is 0. The HRV is 0."
+     },
+     {
+      "stem": "8463-294828-0009_3570-5694-0015",
+      "text": "The recording contains ___ pauses."
+     },
+     {
+      "stem": "2830-3980-0051_7176-92135-0032",
+      "text": "how you argue about the nature of the masterpiece"
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "the mother is managing the case in this way"
+     },
+     {
+      "stem": "4507-16021-0053_61-70968-0022",
+      "text": "Tis fine for you to talk old man answered the lead soloist"
+     },
+     {
+      "stem": "4077-13751-0011_7729-102255-0021",
+      "text": "The F0 mean is 100 Hz."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "one"
+     },
+     {
+      "stem": "5683-32866-0011_4970-29095-0002",
+      "text": "The SNR is 0 dB. The SRMR is 0 dB. The F0 mean is 0 Hz. The F0 SD is 0 Hz. The speaking rate is 0 syllables per second. The recording contains 0 pauses. The pause rate is 0 per minute. The jitter is 0 percent. The shimmer is 0 percent. The HNR is 0 dB."
+     },
+     {
+      "stem": "1320-122617-0016_2961-960-0020",
+      "text": "The SNR is 30 dB. The SRMR is 0.5 Hz. The F0 mean is 100 Hz. The F0 SD is 20 Hz. The speaking rate is 4 syllables per second. The recording contains 5 pauses. The pause rate is 100 per minute. The jitter is 10 percent. The shimmer is 20 percent. The HRV is 0.5 dB."
+     },
+     {
+      "stem": "1580-141083-0022_4446-2273-0003",
+      "text": "The SNR is 0 dB. The SRMR is 0 dB. The F0 mean is 0 Hz. The F0 SD is 0 Hz. The speaking rate is 0 syllables per second. The recording contains 0 pauses. The pause rate is 0 per minute. The jitter is 0 percent. The shimmer is 0 percent. The HHR is 0 dB."
+     },
+     {
+      "stem": "908-157963-0023_61-70968-0049",
+      "text": "The HFR is 0.0 dB. The SRMR is 0.0 dB. The F0 mean is 0.0 Hz. The F0 SD is 0.0 Hz. The speaking rate is 0.0 syllables per second. The recording contains 0.0 pauses. The pause rate is 0.0 per minute. The jitter is 0.0 percent. The shimmer is 0.0 percent. The HRV is 0.0 dB."
+     },
+     {
+      "stem": "8555-284447-0009_260-123440-0012",
+      "text": "use"
+     },
+     {
+      "stem": "4992-41806-0009_3570-5696-0001",
+      "text": "The SNR is 10 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "8463-287645-0011_1284-1181-0010",
+      "text": "The recording contains 10 pauses. The pause rate is 100 per minute. The jitter is 100 percent. The shimmer is 100 percent. The HRV is 100 dB."
+     },
+     {
+      "stem": "8555-284449-0013_4992-23283-0013",
+      "text": "excuse me said john"
+     },
+     {
+      "stem": "61-70970-0012_1995-1826-0000",
+      "text": "The SNR is 15 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 4 syllables per second. The recording contains 5 pauses. The pause rate is 100 per minute. The jitter is 50 percent. The shimmer is 20 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "672-122797-0060_237-134500-0015",
+      "text": "is"
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The analysis of knowledge will occupy us until the end of the action and says the most difficult part of our knowledge"
+     },
+     {
+      "stem": "121-121726-0009_1284-1181-0019",
+      "text": "hotel a place for"
+     },
+     {
+      "stem": "5683-32879-0014_8463-294828-0033",
+      "text": "The SNR is 10 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HNR is 10 dB."
+     },
+     {
+      "stem": "4992-23283-0005_6829-68769-0034",
+      "text": "The speaking rate is 4.5 syllables per second."
+     },
+     {
+      "stem": "5683-32865-0008_2300-131720-0032",
+      "text": "I believe I have"
+     },
+     {
+      "stem": "7127-75946-0016_1320-122617-0026",
+      "text": "The SNR is 20 dB. The SRMR is 20 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "3729-6852-0037_8463-287645-0000",
+      "text": "The recording contains 0 pauses. The pause rate is 0 per minute. The jitter is 0 percent. The shimmer is 0 percent. The HRV is 0 dB."
+     },
+     {
+      "stem": "8555-284449-0013_2830-3980-0055",
+      "text": "The SNR is 20 dB. The SRMR is 20 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "2961-961-0013_5105-28241-0017",
+      "text": "after pondering a while he said if we were farther away"
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The memory of their exploits had passed away owing to the lapse of time."
+     },
+     {
+      "stem": "6829-68769-0028_5105-28240-0002",
+      "text": "exclaimed servadac keeping his eye unmoved at his telescope"
+     },
+     {
+      "stem": "5142-33396-0064_8555-292519-0012",
+      "text": "zero"
+     },
+     {
+      "stem": "237-126133-0003_2830-3980-0028",
+      "text": "some of all the days when the home feeling was the strong"
+     },
+     {
+      "stem": "672-122797-0058_2300-131720-0029",
+      "text": "The recording contains 0 pauses."
+     },
+     {
+      "stem": "4446-2273-0022_2094-142345-0057",
+      "text": "i"
+     },
+     {
+      "stem": "1995-1836-0003_4992-41806-0011",
+      "text": "The recording contains 10 pauses. The pause rate is 100 per minute."
+     },
+     {
+      "stem": "1320-122617-0021_6829-68771-0018",
+      "text": "The recording contains 0 pauses. The pause rate is 0 per minute."
+     },
+     {
+      "stem": "8555-284447-0024_1320-122617-0026",
+      "text": "100"
+     },
+     {
+      "stem": "5639-40744-0012_5683-32879-0021",
+      "text": "1.0"
+     },
+     {
+      "stem": "5683-32879-0013_121-127105-0003",
+      "text": "there was a unanimous groan of distress and much reproach after which in his preoccupied way he explained"
+     },
+     {
+      "stem": "8463-287645-0010_7021-85628-0011",
+      "text": "The recording contains ___ pauses."
+     },
+     {
+      "stem": "2830-3980-0054_237-134500-0034",
+      "text": "that christ is very god is apparent in the"
+     },
+     {
+      "stem": "2961-960-0019_1320-122612-0007",
+      "text": "The SNR is 30 dB. The SRMR is 30 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "8455-210777-0055_4970-29095-0002",
+      "text": "zero"
+     },
+     {
+      "stem": "260-123440-0005_8555-284447-0014",
+      "text": "the idea of patching and"
+     },
+     {
+      "stem": "1995-1826-0005_61-70970-0024",
+      "text": "they moved thereafter cautiously about the hut groping before and about them to find something to show"
+     },
+     {
+      "stem": "7127-75947-0040_237-126133-0002",
+      "text": "The F0 is 100 Hz."
+     },
+     {
+      "stem": "1284-1181-0016_1188-133604-0031",
+      "text": "There's one and there's another"
+     },
+     {
+      "stem": "5683-32866-0006_8463-294828-0027",
+      "text": "The SNR is 10 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 10 Hz. The speaking rate is 10 syllables per second. The recording contains 10 pauses. The pause rate is 10 per minute. The jitter is 10 percent. The shimmer is 10 percent. The HNR is 10 dB."
+     },
+     {
+      "stem": "2094-142345-0035_4507-16021-0022",
+      "text": "but not more than what's in the bible and said dinah"
+     },
+     {
+      "stem": "5105-28240-0005_6829-68769-0010",
+      "text": "The recording contains ___ pauses."
+     },
+     {
+      "stem": "7176-92135-0022_1995-1837-0017",
+      "text": "he gazed about as stunned"
+     },
+     {
+      "stem": "6930-75918-0019_1580-141083-0033",
+      "text": "NO I SEE NOTHING"
+     },
+     {
+      "stem": "237-134493-0000_260-123286-0017",
+      "text": "sixteen"
+     },
+     {
+      "stem": "4507-16021-0016_1320-122617-0029",
+      "text": "if you are not then knocked on the head your being a non compositor will protect you and you'll then have a good reason to expect to die in your bed"
+     },
+     {
+      "stem": "1580-141083-0041_672-122797-0021",
+      "text": "The recording contains 10 pauses. The pause rate is 20 per minute. The jitter is 10 percent. The shimmer is 20 percent. The HRV is 10 dB."
+     },
+     {
+      "stem": "7127-75947-0023_4077-13754-0007",
+      "text": "The recording contains 10 pauses. The pause rate is 100% per minute."
+     },
+     {
+      "stem": "2961-960-0015_8555-284449-0001",
+      "text": "The style and the little blend of the Timaeus differed greatly from that of any other of the Platonic dialogues."
+     },
+     {
+      "stem": "4446-2275-0042_3570-5696-0004",
+      "text": "The salient features of this development of the phonetic alphabet have already been indicated."
+     },
+     {
+      "stem": "5142-36377-0023_7021-85628-0027",
+      "text": "if you're dressed from the silver gold you top to toe you could measure any"
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "1.0"
+     },
+     {
+      "stem": "6829-68769-0022_672-122797-0064",
+      "text": "relax and stay away"
+     },
+     {
+      "stem": "2961-961-0006_1995-1837-0029",
+      "text": "The SNR is 20 dB. The SRMR is 10 dB. The F0 mean is 100 Hz. The F0 SD is 20 Hz. The speaking rate is 4 syllables per second. The recording contains 5 pauses. The pause rate is 100 per minute. The jitter is 10 percent. The shimmer is 20 percent. The HNR is 50 dB."
+     },
+     {
+      "stem": "6829-68771-0023_260-123288-0026",
+      "text": "we shall be blown up but no the dazzling disk of mysterious light can simply we complete each sentence with a number, using this exact wording. The SNR is ___ dB. The SRMR is __ dB. The F0 mean is ___ Hz. The F0 SD is ___ Hz. The speaking rate is ___ syllables per second. The recording contains ___ pauses. The pause rate is ___ per minute. The jitter is ___ percent. The shimmer is ___ percent. The HRV is ___ dB."
+     },
+     {
+      "stem": "2094-142345-0037_5105-28240-0016",
+      "text": "The SNR is 0 dB. The SRMR is 0 dB. The F0 mean is 0 Hz. The F0 SD is 0 Hz. The speaking rate is 0 syllables per second. The recording contains 0 pauses. The pause rate is 0 per minute. The jitter is 0 percent. The shimmer is 0 percent. The HHR is 0 dB."
+     },
+     {
+      "stem": "5142-33396-0058_908-157963-0006",
+      "text": "The recording contains ___ pauses."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "The speaking rate is 4.5 syllables per second. The recording contains 3 pauses. The pause rate is 0.5 per minute. The jitter is 0.5 percent. The shimmer is 0.5 percent. The HNR is 0.5 dB."
+     },
+     {
+      "stem": "6829-68769-0005_4970-29095-0036",
+      "text": "The recording contains 10 pauses. The pause rate is 100 per minute. The jitter is 100 percent. The shimmer is 100 percent. The HRV is 100 dB."
+     },
+     {
+      "stem": "8455-210777-0062_2830-3980-0018",
+      "text": "i did not then realize the importance of our ministry"
+     },
+     {
+      "stem": "1320-122617-0005_3729-6852-0014",
+      "text": "The bear shook his shaggy sides and then a long, low voice replied."
+     },
+     {
+      "stem": "7021-79730-0009_237-126133-0021",
+      "text": "The recording contains ___ pauses."
+     },
+     {
+      "stem": "237-134500-0015_1089-134691-0004",
+      "text": "The recording contains ___ pauses."
+     }
+    ]
+   },
+   "P4_fewshot": {
+    "prompt": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "6829-68769-0010_1320-122612-0013",
+      "text": "A circle of a few hundred feet in circumference is drawn."
+     },
+     {
+      "stem": "8463-287645-0009_5683-32866-0001",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "6930-76324-0025_1580-141083-0050",
+      "text": "I really don't think he knew much about it."
+     },
+     {
+      "stem": "61-70968-0027_2094-142345-0005",
+      "text": "robin of the little tuners between them tried to force his wire to stand back and very valiantly did his due to the whole of the thoughts"
+     },
+     {
+      "stem": "4077-13754-0003_8455-210777-0006",
+      "text": "Moreover, if the people had been inclined to rebellion, what greater opportunity would have been available? The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "3729-6852-0013_1284-1180-0001",
+      "text": "His hat had a peaked crown of great honor. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "1221-135766-0014_3729-6852-0011",
+      "text": "I had a name I believed in my young days but never sought to make acquaintance but I have forgotten it."
+     },
+     {
+      "stem": "8555-284449-0012_1580-141084-0004",
+      "text": "Of course he did not realize that it was I who was knocking but nonetheless his conduct was very discourteous and indeed under the circumstances rather suspicious"
+     },
+     {
+      "stem": "1320-122617-0002_8455-210777-0028",
+      "text": "Jack would become one of the happiest subjects of the ability of and would remain amidst the hurried judgment of the players."
+     },
+     {
+      "stem": "1089-134691-0017_5142-36586-0004",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "61-70968-0000_8455-210777-0012",
+      "text": "The SNR is 10.5 dB. The SRMR is 7.2. The F0 mean is 135.8 Hz. The F0 SD is 20.2 Hz. The speaking rate is 4.1 syllables per second. The recording contains 4 pauses. The pause rate is 17.8 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HHR is 14.5 dB."
+     },
+     {
+      "stem": "1188-133604-0017_5142-33396-0001",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "8230-279154-0031_237-126133-0016",
+      "text": "They give more also according to which images and past experiences come into our minds."
+     },
+     {
+      "stem": "237-134493-0017_4077-13754-0009",
+      "text": "The SNR is 15.2 dB. The SRMR is 7.2. The F0 mean is 142.5 Hz. The F0 SD is 20.8 Hz. The speaking rate is 4.1 syllables per second. The recording contains 6 pauses. The pause rate is 17.5 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HNR is 14.5 dB."
+     },
+     {
+      "stem": "5639-40744-0012_8555-292519-0011",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "4446-2271-0013_5683-32865-0004",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "61-70968-0005_5105-28233-0000",
+      "text": "This was so sweet a lady, sir, and in some manner I do think she died."
+     },
+     {
+      "stem": "61-70968-0060_3575-170457-0037",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1284-1181-0000_3570-5696-0008",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1580-141083-0034_4507-16021-0017",
+      "text": "He would be the break of a florist just refusing to take salmon if fat and landing a philosopher has"
+     },
+     {
+      "stem": "7176-92135-0035_61-70968-0013",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1221-135766-0014_7127-75946-0004",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "61-70970-0023_908-31957-0009",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "7729-102255-0007_7021-85628-0010",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "2830-3980-0000_1284-1181-0005",
+      "text": "No, I'm not talking about the planes."
+     },
+     {
+      "stem": "4077-13754-0003_2961-961-0017",
+      "text": "Moreover had the people been inclined to rebellion what greater opportunity could they have wished"
+     },
+     {
+      "stem": "61-70968-0053_3729-6852-0020",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "4077-13751-0015_1284-1180-0029",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1995-1826-0015_1320-122617-0037",
+      "text": "the delaware talk he said leaning forward and"
+     },
+     {
+      "stem": "6930-81414-0000_5683-32866-0007",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "2830-3980-0018_5105-28233-0003",
+      "text": "I did not then realize you were saying the same thing. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "61-70970-0029_5142-36377-0000",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "4077-13751-0012_7729-102255-0038",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "1580-141083-0008_7729-102255-0020",
+      "text": "The incident was not quite nor even dramatic no casualty was"
+     },
+     {
+      "stem": "5683-32866-0020_1188-133604-0020",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "4992-23283-0016_61-70968-0004",
+      "text": "Also there was a stripling page who turned it to a maid. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "2094-142345-0023_908-157963-0024",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "6930-76324-0017_4446-2275-0001",
+      "text": "She blushed and smiled and fumbled his card in her confusion before she ran upstairs."
+     },
+     {
+      "stem": "237-126133-0014_3729-6852-0037",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "5639-40744-0005_260-123288-0024",
+      "text": "The final half of the wife's exalted route was the size of a ten inch shell."
+     },
+     {
+      "stem": "5142-36377-0018_4970-29093-0010",
+      "text": "He had no friend to warn him and tell him and looked down again slowly with a frown."
+     },
+     {
+      "stem": "2830-3980-0075_8463-294825-0003",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "8230-279154-0007_8555-292519-0007",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HRV is 14.2 dB."
+     },
+     {
+      "stem": "1580-141084-0015_5105-28233-0008",
+      "text": "When approached with the eighth capital, he had been on the"
+     },
+     {
+      "stem": "4992-41797-0014_3575-170457-0014",
+      "text": "The SNR is 10.5 dB. The SRMR is 5.9. The F0 mean is 135.8 Hz. The F0 SD is 20.2 Hz. The speaking rate is 4.1 syllables per second. The recording contains 4 pauses. The pause rate is 17.5 per minute. The jitter is 1.2 percent. The shimmer is 4.5 percent. The HHR is 13.8 dB."
+     },
+     {
+      "stem": "3729-6852-0025_1284-134647-0004",
+      "text": "is there not to have already and everywhere"
+     },
+     {
+      "stem": "1284-1181-0007_1580-141084-0045",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "6930-75918-0001_3570-5694-0011",
+      "text": "The SNR is 10.5 dB. The SRMR is 7.2. The F0 mean is 135.8 Hz. The F0 SD is 20.2 Hz. The speaking rate is 4.1 syllables per second. The recording contains 4 pauses. The pause rate is 17.8 per minute. The jitter is 1.2 percent. The shimmer is 4.5 percent. The HHR is 13.8 dB."
+     },
+     {
+      "stem": "8555-284447-0004_7176-92135-0001",
+      "text": "The SNR is 15.2 dB. The SRMR is 7.2. The F0 mean is 140.5 Hz. The F0 SD is 20.8 Hz. The speaking rate is 4.1 syllables per second. The recording contains 6 pauses. The pause rate is 17.8 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HHR is 14.5 dB."
+     },
+     {
+      "stem": "6930-76324-0014_1284-1181-0012",
+      "text": "This thought, however, did not always have the enthusiastic pair. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "5142-33396-0037_5105-28240-0012",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "8463-294828-0009_3570-5694-0015",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "2830-3980-0051_7176-92135-0032",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HRV is 14.2 dB."
+     },
+     {
+      "stem": "4507-16021-0053_61-70968-0022",
+      "text": "Tis fine for you to talk old man answered the lead soldier. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HRV is 14.2 dB."
+     },
+     {
+      "stem": "4077-13751-0011_7729-102255-0021",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "She according to one of his daughters is always in the minority one in our house is violent and distrustful of radicalism"
+     },
+     {
+      "stem": "5683-32866-0011_4970-29095-0002",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1320-122617-0016_2961-960-0020",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "1580-141083-0022_4446-2273-0003",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "908-157963-0023_61-70968-0049",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "8555-284447-0009_260-123440-0012",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "4992-41806-0009_3570-5696-0001",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "8463-287645-0011_1284-1181-0010",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "8555-284449-0013_4992-23283-0013",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "61-70970-0012_1995-1826-0000",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HRV is 14.2 dB."
+     },
+     {
+      "stem": "672-122797-0060_237-134500-0015",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The analysis of knowledge will occupy us until the end of the action as the most difficult part of our knowledge."
+     },
+     {
+      "stem": "121-121726-0009_1284-1181-0019",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "5683-32879-0014_8463-294828-0033",
+      "text": "I was well satisfied with my cabin which was located in the stern and opened into the only access."
+     },
+     {
+      "stem": "4992-23283-0005_6829-68769-0034",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "5683-32865-0008_2300-131720-0032",
+      "text": "I believe I have"
+     },
+     {
+      "stem": "7127-75946-0016_1320-122617-0026",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "3729-6852-0037_8463-287645-0000",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "8555-284449-0013_2830-3980-0055",
+      "text": "To the stow piece and grace lies in the province of God we long for the real of blessings"
+     },
+     {
+      "stem": "2961-961-0013_5105-28241-0017",
+      "text": "After pondering a while he said if we were farther away"
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The SNR is 10.5 dB. The SRMR is 7.2. The F0 mean is 135.8 Hz. The F0 SD is 20.2 Hz. The speaking rate is 4.1 syllables per second. The recording contains 4 pauses. The pause rate is 17.8 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HHR is 14.5 dB."
+     },
+     {
+      "stem": "6829-68769-0028_5105-28240-0002",
+      "text": "exclaimed servadac keeping his eye unmoved at his telescope"
+     },
+     {
+      "stem": "5142-33396-0064_8555-292519-0012",
+      "text": "The SNR is 10.5 dB. The SRMR is 7.2. The F0 mean is 135.8 Hz. The F0 SD is 20.2 Hz. The speaking rate is 4.1 syllables per second. The recording contains 4 pauses. The pause rate is 17.8 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HHR is 13.8 dB."
+     },
+     {
+      "stem": "237-126133-0003_2830-3980-0028",
+      "text": "Some of all the days when the home feeling was the strongest"
+     },
+     {
+      "stem": "672-122797-0058_2300-131720-0029",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "4446-2273-0022_2094-142345-0057",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1995-1836-0003_4992-41806-0011",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "1320-122617-0021_6829-68771-0018",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "8555-284447-0024_1320-122617-0026",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "5639-40744-0012_5683-32879-0021",
+      "text": "The SNR is 15.2 dB. The SRMR is 7.2. The F0 mean is 140.5 Hz. The F0 SD is 20.8 Hz. The speaking rate is 4.1 syllables per second. The recording contains 4 pauses. The pause rate is 17.8 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HHR is 14.5 dB."
+     },
+     {
+      "stem": "5683-32879-0013_121-127105-0003",
+      "text": "There was a unanimous groan of distress and much reproach after which in his preoccupied way he explained"
+     },
+     {
+      "stem": "8463-287645-0010_7021-85628-0011",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "2830-3980-0054_237-134500-0034",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "2961-960-0019_1320-122612-0007",
+      "text": "The SNR is 15.2 dB. The SRMR is 7.2. The F0 mean is 142.5 Hz. The F0 SD is 20.8 Hz. The speaking rate is 4.1 syllables per second. The recording contains 6 pauses. The pause rate is 17.5 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HHR is 14.5 dB."
+     },
+     {
+      "stem": "8455-210777-0055_4970-29095-0002",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "260-123440-0005_8555-284447-0014",
+      "text": "The idea of patching the audio to the audio was"
+     },
+     {
+      "stem": "1995-1826-0005_61-70970-0024",
+      "text": "They moved thereafter cautiously about the hut groping before and about them to find something to show."
+     },
+     {
+      "stem": "7127-75947-0040_237-126133-0002",
+      "text": "In this way the fete of the whole court was a fete also for the mysterious inhabitants of the forest for certainly the deer and the brake"
+     },
+     {
+      "stem": "1284-1181-0016_1188-133604-0031",
+      "text": "There's Juan and his mother and Dudley and the friend."
+     },
+     {
+      "stem": "5683-32866-0006_8463-294828-0027",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "2094-142345-0035_4507-16021-0022",
+      "text": "The SNR is 10.5 dB. The SRMR is 7.2. The F0 mean is 135.8 Hz. The F0 SD is 20.2 Hz. The speaking rate is 4.1 syllables per second. The recording contains 4 pauses. The pause rate is 17.5 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HNR is 13.8 dB."
+     },
+     {
+      "stem": "5105-28240-0005_6829-68769-0010",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "7176-92135-0022_1995-1837-0017",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "6930-75918-0019_1580-141083-0033",
+      "text": "Upon the large square in front of the hotel the shadows of the tents intersected by the golden moonbeam. No, I see nothing."
+     },
+     {
+      "stem": "237-134493-0000_260-123286-0017",
+      "text": "In your sixteen years since John Brownson died"
+     },
+     {
+      "stem": "4507-16021-0016_1320-122617-0029",
+      "text": "If you are not then knocked on the head your being a non compositor will protect you and you'll then have a good reason to expect to die in your bed"
+     },
+     {
+      "stem": "1580-141083-0041_672-122797-0021",
+      "text": "Let us give this suspicion a little look at first. It was cut down. Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HRP is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "7127-75947-0023_4077-13754-0007",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "2961-960-0015_8555-284449-0001",
+      "text": "The style and the little blend of the Timaeus differed greatly from that of any other of the Platonic dialogues. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HRV is 14.2 dB."
+     },
+     {
+      "stem": "4446-2275-0042_3570-5696-0004",
+      "text": "The salient features of this development of the domestic science have already been indicated."
+     },
+     {
+      "stem": "5142-36377-0023_7021-85628-0027",
+      "text": "The SNR is 15.2 dB. The SRMR is 7.2. The F0 mean is 142.5 Hz. The F0 SD is 20.8 Hz. The speaking rate is 4.1 syllables per second. The recording contains 6 pauses. The pause rate is 17.5 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HHR is 14.5 dB."
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "6829-68769-0022_672-122797-0064",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "2961-961-0006_1995-1837-0029",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "6829-68771-0023_260-123288-0026",
+      "text": "We shall be blown up but no the dazzling disk of mysterious light can simply we Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HRP is 14.2 dB. Now give the same ten sentences with your own numbers for the recording you just heard."
+     },
+     {
+      "stem": "2094-142345-0037_5105-28240-0016",
+      "text": "We did have all the same things, but the counter respondents in the affirmative."
+     },
+     {
+      "stem": "5142-33396-0058_908-157963-0006",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "The SNR is 10.5 dB. The SRMR is 7.2. The F0 mean is 135.8 Hz. The F0 SD is 20.2 Hz. The speaking rate is 4.1 syllables per second. The recording contains 4 pauses. The pause rate is 17.5 per minute. The jitter is 1.5 percent. The shimmer is 4.8 percent. The HNR is 13.8 dB."
+     },
+     {
+      "stem": "6829-68769-0005_4970-29095-0036",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     },
+     {
+      "stem": "8455-210777-0062_2830-3980-0018",
+      "text": "I did not then realize the importance of our ministry"
+     },
+     {
+      "stem": "1320-122617-0005_3729-6852-0014",
+      "text": "The bear shook his shaggy sides and then a long, low voice replied. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB."
+     },
+     {
+      "stem": "7021-79730-0009_237-126133-0021",
+      "text": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard."
+     },
+     {
+      "stem": "237-134500-0015_1089-134691-0004",
+      "text": "The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HHR is 14.2 dB."
+     }
+    ]
+   }
+  }
+ }
+}

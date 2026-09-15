@@ -1,0 +1,2462 @@
+{
+ "system": "Qwen2-Audio-7B",
+ "model_id": "Qwen/Qwen2-Audio-7B-Instruct",
+ "corpus": "librimix",
+ "seed": 7,
+ "n_clips": 120,
+ "max_new_tokens": 160,
+ "results": {
+  "Qwen2-Audio-7B": {
+   "P0_free": {
+    "prompt": "Describe the recording quality of this audio.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "7729-102255-0001_260-123286-0006",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4507-16021-0050_2094-142345-0054",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4077-13754-0013_2961-960-0002",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "7021-85628-0019_7729-102255-0033",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "The recording is of low quality, featuring a muffled female voice speaking over what sounds like music."
+     },
+     {
+      "stem": "4992-23283-0002_2830-3980-0061",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "672-122797-0019_7176-92135-0016",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "3570-5695-0011_8455-210777-0058",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8230-279154-0005_6829-68769-0028",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1284-1180-0017_7127-75947-0016",
+      "text": "The recording is of low quality, featuring a flat male vocal talking over a wide playback instrumental that consists of groovy bass guitar, punchy kick, shimmering cymbals, and muffled electric guitar melody. It sounds like it was recorded with a phone."
+     },
+     {
+      "stem": "6930-75918-0009_260-123288-0017",
+      "text": "The recording is of low quality, featuring a noisy environment and it sounds like it was recorded with a phone."
+     },
+     {
+      "stem": "4992-23283-0017_5142-33396-0002",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "260-123440-0014_4970-29095-0030",
+      "text": "The recording is of low quality and very noisy, almost to the point of being distorted."
+     },
+     {
+      "stem": "260-123286-0005_237-126133-0000",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5683-32865-0009_6829-68769-0016",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "3570-5696-0007_1995-1837-0003",
+      "text": "The recording is of low quality, featuring a flat male vocal talking over wide playback instrumental music that consists of groovy bass guitar, punchy kick, shimmering cymbals, and strummed acoustic rhythm guitar. It sounds like it's recorded with a phone, and the mix is unbalanced, leaning towards the left channel."
+     },
+     {
+      "stem": "5105-28233-0005_4446-2275-0013",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "6829-68769-0040_237-126133-0007",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "672-122797-0023_237-134500-0002",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "7127-75947-0029_3570-5695-0014",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4446-2275-0034_672-122797-0005",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "6930-76324-0012_2300-131720-0027",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "4970-29095-0037_5105-28240-0016",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8224-274384-0008_1188-133604-0031",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "260-123440-0012_8455-210777-0010",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "908-157963-0021_8463-287645-0001",
+      "text": "The recording is of low quality and very noisy, almost to the point of being distorted."
+     },
+     {
+      "stem": "5639-40744-0006_672-122797-0026",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "672-122797-0070_3570-5695-0006",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "672-122797-0041_7021-85628-0021",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "6829-68771-0018_7021-79740-0006",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "5639-40744-0034_4507-16021-0058",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "61-70968-0056_1580-141084-0045",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "3570-5694-0021_237-134500-0014",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4446-2271-0005_6829-68769-0040",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1089-134691-0019_2830-3980-0011",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "3575-170457-0031_7729-102255-0045",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "7021-79730-0006_8455-210777-0037",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "61-70968-0011_4992-41806-0004",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5639-40744-0039_6930-81414-0009",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "6829-68771-0019_7176-92135-0035",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "6829-68771-0022_1995-1837-0018",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "5683-32866-0018_1995-1837-0026",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5683-32879-0007_5142-33396-0019",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "6829-68769-0004_908-31957-0006",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "672-122797-0031_1089-134686-0016",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "1284-1180-0010_1580-141084-0008",
+      "text": "The recording is of low quality, featuring a noisy environment and English speech by a female with a disgusted mood."
+     },
+     {
+      "stem": "672-122797-0040_1089-134686-0036",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "61-70968-0014_8224-274384-0003",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "5142-36377-0024_6930-81414-0026",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "672-122797-0073_1580-141084-0004",
+      "text": "The recording is of low quality featuring a flat male vocal talking over quiet, muffled music. It sounds like it was recorded with a phone."
+     },
+     {
+      "stem": "8230-279154-0003_1580-141083-0001",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4992-41797-0002_1089-134691-0002",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "6829-68771-0013_8455-210777-0011",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8455-210777-0053_3575-170457-0033",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "2300-131720-0010_8230-279154-0013",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4446-2273-0019_260-123288-0010",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "237-126133-0022_3575-170457-0054",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "2094-142345-0056_1320-122612-0015",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "2094-142345-0034_672-122797-0015",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8455-210777-0000_61-70968-0011",
+      "text": "The recording is of poor quality, featuring a muffled and echoing voice."
+     },
+     {
+      "stem": "908-31957-0005_3575-170457-0027",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "61-70970-0039_5105-28233-0001",
+      "text": "The recording is of low quality, featuring a flat male vocal talking over a muffled instrumental. It sounds like it was recorded in a large room."
+     },
+     {
+      "stem": "5639-40744-0037_6930-76324-0002",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "8463-287645-0000_4970-29095-0023",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1284-1180-0017_1580-141084-0031",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5105-28240-0019_6829-68771-0015",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4446-2275-0041_5142-33396-0010",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8230-279154-0030_61-70970-0030",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "2830-3980-0070_3570-5694-0005",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5105-28233-0000_1221-135767-0018",
+      "text": "The recording is of low quality, featuring a monotone female vocal speaking over quiet, muffled music. There's notable noise throughout."
+     },
+     {
+      "stem": "7127-75947-0039_7021-79740-0000",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "61-70970-0028_2300-131720-0013",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "6930-81414-0008_4446-2275-0038",
+      "text": "The recording is of low quality, featuring a flat male vocal talking over quiet, muffled instrumental music. It sounds like it was recorded with a phone."
+     },
+     {
+      "stem": "3575-170457-0025_4992-23283-0005",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "2300-131720-0021_7176-88083-0009",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1284-1181-0012_3729-6852-0023",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8455-210777-0006_2830-3979-0007",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "2830-3980-0019_7021-79730-0009",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1580-141084-0018_4446-2273-0019",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4446-2273-0032_8230-279154-0039",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "260-123288-0012_4446-2273-0025",
+      "text": "The recording is of low quality, featuring a jolly melody played on what sounds like a toy piano. There's noticeable noise throughout, and it has a happy, fun vibe."
+     },
+     {
+      "stem": "4446-2273-0005_1221-135766-0009",
+      "text": "The recording is of low quality, featuring a distant, muffled conversation that becomes louder as it progresses towards the end. There's also noticeable noise throughout."
+     },
+     {
+      "stem": "4446-2271-0008_1580-141083-0012",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1284-1181-0008_2300-131720-0030",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5639-40744-0014_237-134493-0002",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1221-135766-0002_121-127105-0005",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "4507-16021-0009_5639-40744-0002",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The recording is of low quality, featuring a muffled and echoing voice."
+     },
+     {
+      "stem": "5683-32866-0017_8455-210777-0024",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5683-32879-0021_1995-1837-0010",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1995-1826-0001_8463-287645-0012",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "2830-3980-0025_1995-1826-0001",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4446-2275-0022_6930-81414-0012",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "1221-135766-0012_6930-76324-0003",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4507-16021-0013_1320-122617-0017",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "6829-68771-0008_7127-75947-0033",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "5683-32879-0005_1995-1826-0000",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "5639-40744-0002_1995-1837-0003",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4077-13751-0009_908-31957-0007",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "3729-6852-0043_8555-284447-0000",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1284-1180-0004_8455-210777-0031",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4992-41797-0021_5142-33396-0064",
+      "text": "The recording is of low quality, featuring a noisy environment and a mono format that makes it sound flat and dull."
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The recording is of low quality, featuring a muffled and echoing female vocal singing over quiet, ambient synth pad chords. It sounds spacey, weird, and like it's from another planet."
+     },
+     {
+      "stem": "7021-85628-0015_1284-134647-0006",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "5683-32879-0010_8463-294828-0036",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "121-127105-0031_5142-33396-0046",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "8455-210777-0058_7176-88083-0006",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "6930-75918-0011_121-121726-0003",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8455-210777-0020_6930-81414-0013",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "4446-2273-0034_1284-1180-0005",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "1089-134686-0015_4970-29093-0003",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "7021-85628-0022_2300-131720-0009",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8230-279154-0039_4446-2273-0007",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "8455-210777-0037_8463-294828-0009",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "2830-3980-0031_1089-134686-0025",
+      "text": "The recording is of low quality and very noisy, almost to the point of being distorted."
+     },
+     {
+      "stem": "6829-68769-0039_61-70968-0055",
+      "text": "The recording is of low quality and very noisy, featuring a flat male vocal talking over wide muffled music."
+     }
+    ]
+   },
+   "P1_numeric": {
+    "prompt": "Describe the recording quality of this audio. Give numeric values where you can.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "7729-102255-0001_260-123286-0006",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "4507-16021-0050_2094-142345-0054",
+      "text": "The recording quality is 50, indicating it is low-quality and possibly recorded with a phone or other non-professional equipment."
+     },
+     {
+      "stem": "4077-13754-0013_2961-960-0002",
+      "text": "The recording quality is described as low, with a value of 2."
+     },
+     {
+      "stem": "7021-85628-0019_7729-102255-0033",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "The recording quality is 50."
+     },
+     {
+      "stem": "4992-23283-0002_2830-3980-0061",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "672-122797-0019_7176-92135-0016",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "3570-5695-0011_8455-210777-0058",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "8230-279154-0005_6829-68769-0028",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "1284-1180-0017_7127-75947-0016",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "6930-75918-0009_260-123288-0017",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "4992-23283-0017_5142-33396-0002",
+      "text": "The recording quality is 0 for clarity and 10 for overall quality, indicating it's very noisy."
+     },
+     {
+      "stem": "260-123440-0014_4970-29095-0030",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "260-123286-0005_237-126133-0000",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "5683-32865-0009_6829-68769-0016",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "3570-5696-0007_1995-1837-0003",
+      "text": "The recording quality is described as low, with a value of 2."
+     },
+     {
+      "stem": "5105-28233-0005_4446-2275-0013",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "6829-68769-0040_237-126133-0007",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "672-122797-0023_237-134500-0002",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "7127-75947-0029_3570-5695-0014",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "4446-2275-0034_672-122797-0005",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "6930-76324-0012_2300-131720-0027",
+      "text": "The recording quality is 0 for clarity and 10 for being mono, indicating it's loud and muffled."
+     },
+     {
+      "stem": "4970-29095-0037_5105-28240-0016",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "8224-274384-0008_1188-133604-0031",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "260-123440-0012_8455-210777-0010",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is loud and possibly distorted."
+     },
+     {
+      "stem": "908-157963-0021_8463-287645-0001",
+      "text": "The recording quality is 70."
+     },
+     {
+      "stem": "5639-40744-0006_672-122797-0026",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "672-122797-0070_3570-5695-0006",
+      "text": "The recording quality is 0 for clarity and 10 for background noise, indicating a very noisy environment."
+     },
+     {
+      "stem": "672-122797-0041_7021-85628-0021",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "6829-68771-0018_7021-79740-0006",
+      "text": "The recording quality is 0.5."
+     },
+     {
+      "stem": "5639-40744-0034_4507-16021-0058",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "61-70968-0056_1580-141084-0045",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "3570-5694-0021_237-134500-0014",
+      "text": "The recording quality is 0.5."
+     },
+     {
+      "stem": "4446-2271-0005_6829-68769-0040",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "The recording quality is 0 for clarity and 10 for being a mono, noisy recording."
+     },
+     {
+      "stem": "1089-134691-0019_2830-3980-0011",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "3575-170457-0031_7729-102255-0045",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "7021-79730-0006_8455-210777-0037",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "61-70968-0011_4992-41806-0004",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "5639-40744-0039_6930-81414-0009",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "6829-68771-0019_7176-92135-0035",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "6829-68771-0022_1995-1837-0018",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "5683-32866-0018_1995-1837-0026",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "5683-32879-0007_5142-33396-0019",
+      "text": "The recording quality is 0.5."
+     },
+     {
+      "stem": "6829-68769-0004_908-31957-0006",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "672-122797-0031_1089-134686-0016",
+      "text": "The recording quality is 20."
+     },
+     {
+      "stem": "1284-1180-0010_1580-141084-0008",
+      "text": "The recording quality is 80."
+     },
+     {
+      "stem": "672-122797-0040_1089-134686-0036",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "61-70968-0014_8224-274384-0003",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and possibly recorded in a noisy environment."
+     },
+     {
+      "stem": "5142-36377-0024_6930-81414-0026",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "672-122797-0073_1580-141084-0004",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "8230-279154-0003_1580-141083-0001",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "4992-41797-0002_1089-134691-0002",
+      "text": "The recording quality is 0.5."
+     },
+     {
+      "stem": "6829-68771-0013_8455-210777-0011",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "8455-210777-0053_3575-170457-0033",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "2300-131720-0010_8230-279154-0013",
+      "text": "The recording quality is 3, with a low level of noise and a mono format."
+     },
+     {
+      "stem": "4446-2273-0019_260-123288-0010",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "237-126133-0022_3575-170457-0054",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "2094-142345-0056_1320-122612-0015",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "2094-142345-0034_672-122797-0015",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "8455-210777-0000_61-70968-0011",
+      "text": "The recording quality is 0 for clarity and 10 for background noise, indicating a noisy environment."
+     },
+     {
+      "stem": "908-31957-0005_3575-170457-0027",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "61-70970-0039_5105-28233-0001",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "5639-40744-0037_6930-76324-0002",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "8463-287645-0000_4970-29095-0023",
+      "text": "The recording quality is 50."
+     },
+     {
+      "stem": "1284-1180-0017_1580-141084-0031",
+      "text": "The recording quality is described as low, with a value of 2 out of 5."
+     },
+     {
+      "stem": "5105-28240-0019_6829-68771-0015",
+      "text": "The recording quality is 50."
+     },
+     {
+      "stem": "4446-2275-0041_5142-33396-0010",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "8230-279154-0030_61-70970-0030",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "2830-3980-0070_3570-5694-0005",
+      "text": "The recording quality is 50, with a low bit rate and noticeable noise throughout the duration."
+     },
+     {
+      "stem": "5105-28233-0000_1221-135767-0018",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "7127-75947-0039_7021-79740-0000",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "61-70970-0028_2300-131720-0013",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "6930-81414-0008_4446-2275-0038",
+      "text": "The recording quality is 0, as it seems to be an amateur recording."
+     },
+     {
+      "stem": "3575-170457-0025_4992-23283-0005",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "2300-131720-0021_7176-88083-0009",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is loud and possibly recorded with low resolution or in low quality."
+     },
+     {
+      "stem": "1284-1181-0012_3729-6852-0023",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "8455-210777-0006_2830-3979-0007",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "2830-3980-0019_7021-79730-0009",
+      "text": "The recording quality is bad with a lot of noise and it's in mono format."
+     },
+     {
+      "stem": "1580-141084-0018_4446-2273-0019",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "4446-2273-0032_8230-279154-0039",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "260-123288-0012_4446-2273-0025",
+      "text": "The recording quality is 0 for clarity and 10 for being a mono, noisy recording."
+     },
+     {
+      "stem": "4446-2273-0005_1221-135766-0009",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "4446-2271-0008_1580-141083-0012",
+      "text": "The recording quality is 7."
+     },
+     {
+      "stem": "1284-1181-0008_2300-131720-0030",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "5639-40744-0014_237-134493-0002",
+      "text": "The recording quality is 7 out of 10."
+     },
+     {
+      "stem": "1221-135766-0002_121-127105-0005",
+      "text": "The recording quality is 0.5, indicating it is low and possibly recorded with a phone or other low-quality device."
+     },
+     {
+      "stem": "4507-16021-0009_5639-40744-0002",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The recording quality is described as low, with a value of 2."
+     },
+     {
+      "stem": "5683-32866-0017_8455-210777-0024",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "5683-32879-0021_1995-1837-0010",
+      "text": "The recording quality is 7 out of 10."
+     },
+     {
+      "stem": "1995-1826-0001_8463-287645-0012",
+      "text": "The recording quality is 80."
+     },
+     {
+      "stem": "2830-3980-0025_1995-1826-0001",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "4446-2275-0022_6930-81414-0012",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is loud and possibly recorded in a noisy environment."
+     },
+     {
+      "stem": "1221-135766-0012_6930-76324-0003",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "4507-16021-0013_1320-122617-0017",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "6829-68771-0008_7127-75947-0033",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "5683-32879-0005_1995-1826-0000",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "5639-40744-0002_1995-1837-0003",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "4077-13751-0009_908-31957-0007",
+      "text": "The recording quality is described as low, with a value of 2."
+     },
+     {
+      "stem": "3729-6852-0043_8555-284447-0000",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is loud and possibly recorded in a noisy environment."
+     },
+     {
+      "stem": "1284-1180-0004_8455-210777-0031",
+      "text": "The recording quality is 80."
+     },
+     {
+      "stem": "4992-41797-0021_5142-33396-0064",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The recording quality is 0.5, with a low level of noise and a mono format indicating it might be recorded with a phone or similar device."
+     },
+     {
+      "stem": "7021-85628-0015_1284-134647-0006",
+      "text": "The recording quality is low, with a value of 2."
+     },
+     {
+      "stem": "5683-32879-0010_8463-294828-0036",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "121-127105-0031_5142-33396-0046",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and unclear."
+     },
+     {
+      "stem": "8455-210777-0058_7176-88083-0006",
+      "text": "The recording quality is 0.5."
+     },
+     {
+      "stem": "6930-75918-0011_121-121726-0003",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "8455-210777-0020_6930-81414-0013",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "4446-2273-0034_1284-1180-0005",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "1089-134686-0015_4970-29093-0003",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "7021-85628-0022_2300-131720-0009",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "8230-279154-0039_4446-2273-0007",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "8455-210777-0037_8463-294828-0009",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "2830-3980-0031_1089-134686-0025",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "6829-68769-0039_61-70968-0055",
+      "text": "The recording quality is 80."
+     }
+    ]
+   },
+   "P2_named": {
+    "prompt": "Report these measured quantities for this recording: the signal-to-noise ratio in dB, the speech-to-reverberation modulation energy ratio, the fundamental frequency mean in Hz, the fundamental frequency standard deviation in Hz, the speaking rate in syllables per second, the number of pauses, the pause rate per minute, the jitter in percent, the shimmer in percent, and the harmonics-to-noise ratio in dB. Give a number for each.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "7729-102255-0001_260-123286-0006",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3\n3. Fundamental Frequency Mean (F0): 400 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (NP): 2\n7. Pause Rate (PRM): 1 pause/min\n8. Jitter (JIT): 5%\n9. Shimmer (SHIM): 8%\n10. Harmonics-to-Noise Ratio (HNR): 10 dB"
+     },
+     {
+      "stem": "4507-16021-0050_2094-142345-0054",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"439.99\\\", \\\"F0_stddev\\\": \\\"3.26\\\", \\\"SRS_rate\\\": \\\"159.99\\\", \\\"PA_count\\\": \\\"1\\\", \\\"PA_rate\\\": \\\"0.00\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN_ratio\\\": \\\"-18.56\\\"}"
+     },
+     {
+      "stem": "4077-13754-0013_2961-960-0002",
+      "text": "{\\\"SNR\\\": \\\"-20.35\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0Mean\\\": \\\"496.00\\\", \\\"F0Stdev\\\": \\\"1.92\\\", \\\"SRS\\\": \\\"159.00\\\", \\\"PA\u603b\u6570\\\": \\\"11\\\", \\\"PAMean\\\": \\\"1.43\\\", \\\"PAStdDev\\\": \\\"0.65\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN\\\": \\\"-18.00\\\"}"
+     },
+     {
+      "stem": "7021-85628-0019_7729-102255-0033",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 0.5\n3. Fundamental Frequency Mean (F0): 400 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (NP): 2\n7. Pause Rate (NPM): 1 pause/min\n8. Jitter (Jitter%): 5%\n9. Shimmer (Shimmer%): 10%\n10. Harmonics-to-Noise Ratio (HNR): 15 dB"
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM ER\\\": \\\"0.5\\\", \\\"F0 Mean\\\": \\\"300\\\", \\\"F0 Standard Deviation\\\": \\\"50\\\", \\\"Speech Rate\\\": \\\"90\\\", \\\"Pauses\\\": \\\"4\\\", \\\"Pause Rate\\\": \\\"60\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"8\\\", \\\"Harmonics to Noise Ratio\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "4992-23283-0002_2830-3980-0061",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3\n3. Fundamental Frequency Mean (F0): 500 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (NP): 2\n7. Pause Rate (NPM): 1 pause/min\n8. Jitter (Jitter %): 5%\n9. Shimmer (Shimmer %): 10%\n10. Harmonics-to-Noise Ratio (HNR): 15 dB"
+     },
+     {
+      "stem": "672-122797-0019_7176-92135-0016",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"300\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"120\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "3570-5695-0011_8455-210777-0058",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"20\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.85\\\", \\\"fundamental frequency mean\\\": \\\"370\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"169\\\", \\\"pauses\\\": \\\"4\\\", \\\"pause rate\\\": \\\"0.67\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "8230-279154-0005_6829-68769-0028",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3\n3. Fundamental Frequency Mean (F0): 450 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (PAU): 2\n7. Pause Rate per Minute (PRM): 120 s/pause\n8. Jitter (JIT): 5%\n9. Shimmer (SHIM): 10%\n10. Harmonics-to-Noise Ratio (HNR): 18 dB"
+     },
+     {
+      "stem": "1284-1180-0017_7127-75947-0016",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"4\\\", \\\"PAUSE_rate\\\": \\\"1.7\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN_ratio\\\": \\\"1.5\\\"}"
+     },
+     {
+      "stem": "6930-75918-0009_260-123288-0017",
+      "text": "1. Signal-to-Noise Ratio (SNR): 25 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 0.8\n3. Fundamental Frequency Mean (F0): 476.0 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 10.0 Hz\n5. Speaking Rate (SRS): 92.0 syllables/s\n6. Number of Pauses (PAU): 3.0\n7. Pause Rate (PPA): 1.83 pausing/s\n8. Jitter (JIT): 5.0%\n9. Shimmer (SHIM): 10.0%\n10. Harmonics-to-Noise Ratio ("
+     },
+     {
+      "stem": "4992-23283-0017_5142-33396-0002",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 0.5\n3. Fundamental Frequency Mean (F0): 300 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (NP): 2\n7. Pause Rate (NPM): 1 pause/min\n8. Jitter (Jitter%): 5%\n9. Shimmer (Shimmer%): 10%\n10. Harmonics-to-Noise Ratio (HNR): 15 dB"
+     },
+     {
+      "stem": "260-123440-0014_4970-29095-0030",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"paseq\\\": \\\"(1.15,1.62);(2.29,2.75);(3.39,3.89);(4.55,5.12);(5.78,6.33);(6.97,7.58);(8.23,8.83);(9.48,10.00)\\\"\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\""
+     },
+     {
+      "stem": "260-123286-0005_237-126133-0000",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"20\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.85\\\", \\\"fundamental frequency mean\\\": \\\"300\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"90\\\", \\\"pauses\\\": \\\"4\\\", \\\"pause rate\\\": \\\"0.67\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "5683-32865-0009_6829-68769-0016",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"F0_mean\\\": \\\"473\\\", \\\"F0_stddev\\\": \\\"6\\\", \\\"SRSR\\\": \\\"192\\\", \\\"pauses\\\": \\\"2\\\", \\\"pause_rate\\\": \\\"1.2\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "3570-5696-0007_1995-1837-0003",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"20\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.5\\\", \\\"fundamental frequency mean\\\": \\\"300\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"80\\\", \\\"pauses\\\": \\\"4\\\", \\\"pause rate\\\": \\\"0.6\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "5105-28233-0005_4446-2275-0013",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"F0Mean\\\": \\\"\\\", \\\"F0Stdev\\\": \\\"\\\", \\\"SpeechRate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"PauseRate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"HarmonicsToNoise\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "6829-68769-0040_237-126133-0007",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM ER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"pasepm\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "672-122797-0023_237-134500-0002",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"p\u901f\u7387\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "7127-75947-0029_3570-5695-0014",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PA_count\\\": \\\"3\\\", \\\"PA_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "4446-2275-0034_672-122797-0005",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"300\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"4\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "6930-76324-0012_2300-131720-0027",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"49.36\\\", \\\"F0_stddev\\\": \\\"0.63\\\", \\\"SRS_rate\\\": \\\"159.99\\\", \\\"PA_count\\\": \\\"1\\\", \\\"PA_rate\\\": \\\"0.00\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN_ratio\\\": \\\"-18.56\\\"}"
+     },
+     {
+      "stem": "4970-29095-0037_5105-28240-0016",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"300\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"4\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "8224-274384-0008_1188-133604-0031",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"3\\\", \\\"PAUSE_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "260-123440-0012_8455-210777-0010",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "908-157963-0021_8463-287645-0001",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"2\\\", \\\"PAUSE_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "5639-40744-0006_672-122797-0026",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"SRS\\\": \\\"95\\\", \\\"PAUSE_num\\\": \\\"6\\\", \\\"PAUSE_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PA_count\\\": \\\"3\\\", \\\"PA_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "672-122797-0070_3570-5695-0006",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"480\\\", \\\"fdist\\\": \\\"30\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"6\\\", \\\"pasear\\\": \\\"1.2\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "672-122797-0041_7021-85628-0021",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"300\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"98\\\", \\\"pauses\\\": \\\"4\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0Mean\\\": \\\"480\\\", \\\"F0Stdev\\\": \\\"30\\\", \\\"SpeechRate\\\": \\\"95\\\", \\\"Pauses\\\": \\\"6\\\", \\\"PauseRate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"HarmonicsToNoise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "6829-68771-0018_7021-79740-0006",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"F0_mean\\\": \\\"473\\\", \\\"F0_stddev\\\": \\\"6\\\", \\\"SRS_rate\\\": \\\"92\\\", \\\"PA_count\\\": \\\"2\\\", \\\"PA_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN_ratio\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "5639-40744-0034_4507-16021-0058",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"400\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"98\\\", \\\"pauses\\\": \\\"3\\\", \\\"paseq\\\": \\\"1.75\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "61-70968-0056_1580-141084-0045",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"2\\\", \\\"PAUSE_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "3570-5694-0021_237-134500-0014",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"430\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"89\\\", \\\"pauses\\\": \\\"6\\\", \\\"paseq\\\": \\\"1.7\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "4446-2271-0005_6829-68769-0040",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"470\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"89\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1.6\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"F0Mean\\\": \\\"\\\", \\\"F0Deviation\\\": \\\"\\\", \\\"SpeechRate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"PauseRate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"HarmonicsToNoise\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "1089-134691-0019_2830-3980-0011",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "3575-170457-0031_7729-102255-0045",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PA_count\\\": \\\"4\\\", \\\"PA_rate\\\": \\\"1.7\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "7021-79730-0006_8455-210777-0037",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRR\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"493.00\\\", \\\"F0_stddev\\\": \\\"10.00\\\", \\\"SRS\\\": \\\"185.00\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.00\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN\\\": \\\"-10.00\\\"}"
+     },
+     {
+      "stem": "61-70968-0011_4992-41806-0004",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"p\u901f\u7387\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "5639-40744-0039_6930-81414-0009",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"p\u901f\u7387\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "6829-68771-0019_7176-92135-0035",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"(1.15,1.62);(2.29,2.75)\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "6829-68771-0022_1995-1837-0018",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"80\\\", \\\"PAUSE_num\\\": \\\"2\\\", \\\"PAUSE_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "5683-32866-0018_1995-1837-0026",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.5\\\", \\\"fundamental frequency mean\\\": \\\"300\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"80\\\", \\\"pauses\\\": \\\"2\\\", \\\"pause rate\\\": \\\"0.3\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"6\\\"}"
+     },
+     {
+      "stem": "5683-32879-0007_5142-33396-0019",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"F0Mean\\\": \\\"\\\", \\\"F0Deviation\\\": \\\"\\\", \\\"SpeechRate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"PauseRate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"HarmonicsToNoise\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "6829-68769-0004_908-31957-0006",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"Mf Mean\\\": \\\"430\\\", \\\"Mf Standard Deviation\\\": \\\"50\\\", \\\"SRS\\\": \\\"89\\\", \\\"PA\u603b\u6570\\\": \\\"6\\\", \\\"PAM\u7387\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"HRN\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM_ratio\\\": \\\"\\\", \\\"f0_mean\\\": \\\"\\\", \\\"f0_stddev\\\": \\\"\\\", \\\"speech_rate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"pause_rate\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "672-122797-0031_1089-134686-0016",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PA_count\\\": \\\"4\\\", \\\"PA_rate\\\": \\\"1.7\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "1284-1180-0010_1580-141084-0008",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"300\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"160\\\", \\\"pauses\\\": \\\"4\\\", \\\"paseq\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "672-122797-0040_1089-134686-0036",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdist\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"paseq\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "61-70968-0014_8224-274384-0003",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRSR\\\": \\\"80\\\", \\\"pauses\\\": \\\"2\\\", \\\"pause_rate\\\": \\\"1.2\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "5142-36377-0024_6930-81414-0026",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"49.35\\\", \\\"F0_stddev\\\": \\\"2.20\\\", \\\"SRS\\\": \\\"159.02\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.0\\\", \\\"Jitter\\\": \\\"10.0\\\", \\\"Shimmer\\\": \\\"10.0\\\", \\\"HRN\\\": \\\"-18.5\\\"}"
+     },
+     {
+      "stem": "672-122797-0073_1580-141084-0004",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"3\\\", \\\"PAUSE_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "8230-279154-0003_1580-141083-0001",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "4992-41797-0002_1089-134691-0002",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"F0Mean\\\": \\\"\\\", \\\"F0Deviation\\\": \\\"\\\", \\\"SpeechRate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"PauseRate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"HarmonicsToNoise\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "6829-68771-0013_8455-210777-0011",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.38\\\", \\\"F0Mean\\\": \\\"497.03\\\", \\\"F0Stdev\\\": \\\"3.25\\\", \\\"SRS\\\": \\\"159.02\\\", \\\"PA\u603b\u6570\\\": \\\"11\\\", \\\"PAMean\\\": \\\"1.43\\\", \\\"PAstddev\\\": \\\"0.65\\\", \\\"Jitter\\\": \\\"10.0\\\", \\\"Shimmer\\\": \\\"10.0\\\", \\\"HRN\\\": \\\"-18.5\\\"}"
+     },
+     {
+      "stem": "8455-210777-0053_3575-170457-0033",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"20\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.5\\\", \\\"fundamental frequency mean\\\": \\\"300\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"80\\\", \\\"pauses\\\": \\\"4\\\", \\\"pause rate\\\": \\\"0.6\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "2300-131720-0010_8230-279154-0013",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"fmean\\\": \\\"394.00\\\", \\\"fdist\\\": \\\"10.00\\\", \\\"srate\\\": \\\"129.00\\\", \\\"pauses\\\": \\\"11\\\", \\\"pasear\\\": \\\"1.33\\\", \\\"jitter\\\": \\\"10.00\\\", \\\"shimmer\\\": \\\"10.00\\\", \\\"HNR\\\": \\\"-10.00\\\"}"
+     },
+     {
+      "stem": "4446-2273-0019_260-123288-0010",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"1:12\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "237-126133-0022_3575-170457-0054",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"430\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"89\\\", \\\"PAUSE_num\\\": \\\"6\\\", \\\"PAUSE_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "2094-142345-0056_1320-122612-0015",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3.5\n3. Fundamental Frequency Mean (F0): 400 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (PAU): 2\n7. Pause Rate (PPM): 1 pause/min\n8. Jitter (JIT): 5%\n9. Shimmer (SHIM): 8%\n10. Harmonics-to-Noise Ratio (HNR): 10 dB"
+     },
+     {
+      "stem": "2094-142345-0034_672-122797-0015",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3\n3. Fundamental Frequency Mean (F0): 450 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (PAU): 2\n7. Pause Rate per Minute (PPM): 120\n8. Jitter (JIT): 5%\n9. Shimmer (SHIM): 10%\n10. Harmonics-to-Noise Ratio (HNR): 15 dB"
+     },
+     {
+      "stem": "8455-210777-0000_61-70968-0011",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"20\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.85\\\", \\\"fundamental frequency mean\\\": \\\"300\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"90\\\", \\\"pauses\\\": \\\"4\\\", \\\"pause rate\\\": \\\"0.67\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "908-31957-0005_3575-170457-0027",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "61-70970-0039_5105-28233-0001",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"39.94\\\", \\\"F0_stddev\\\": \\\"1.36\\\", \\\"SRS\\\": \\\"159.99\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"30.0\\\", \\\"Jitter\\\": \\\"10.0\\\", \\\"Shimmer\\\": \\\"10.0\\\", \\\"HRN\\\": \\\"-18.5\\\"}"
+     },
+     {
+      "stem": "5639-40744-0037_6930-76324-0002",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"3\\\", \\\"PAUSE_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "8463-287645-0000_4970-29095-0023",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"paseq\\\": \\\"1\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "1284-1180-0017_1580-141084-0031",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"p\u901f\u7387\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "5105-28240-0019_6829-68771-0015",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"300\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"4\\\", \\\"paseq\\\": \\\"1\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "4446-2275-0041_5142-33396-0010",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"430\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"2\\\", \\\"pasear\\\": \\\"1.2\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "8230-279154-0030_61-70970-0030",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"2\\\", \\\"PAUSE_rate\\\": \\\"1.5\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"40\\\"}"
+     },
+     {
+      "stem": "2830-3980-0070_3570-5694-0005",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "5105-28233-0000_1221-135767-0018",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"sre\u793e\u4f1a\u5316\u7387\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"pmin\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "7127-75947-0039_7021-79740-0000",
+      "text": "{\\\"SNR\\\": \\\"-30\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"Mf Mean\\\": \\\"420\\\", \\\"Mf StdDev\\\": \\\"60\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUs\\\": \\\"1\\\", \\\"PAM\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "61-70970-0028_2300-131720-0013",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"20\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.85\\\", \\\"fundamental frequency mean\\\": \\\"350\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"90\\\", \\\"pauses\\\": \\\"4\\\", \\\"pause rate\\\": \\\"60\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "6930-81414-0008_4446-2275-0038",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"370\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"180\\\", \\\"PA_count\\\": \\\"4\\\", \\\"PA_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"10\\\", \\\"Shimmer\\\": \\\"5\\\", \\\"HRNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "3575-170457-0025_4992-23283-0005",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"480\\\", \\\"fdist\\\": \\\"30\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"6\\\", \\\"paseq\\\": \\\"1.2\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "2300-131720-0021_7176-88083-0009",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PA_count\\\": \\\"3\\\", \\\"PA_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN_ratio\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "1284-1181-0012_3729-6852-0023",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM ER\\\": \\\"\\\", \\\"Fundamental Mean\\\": \\\"\\\", \\\"Fundamental Standard Deviation\\\": \\\"\\\", \\\"Speech Rate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"Pause Rate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"Harmonics to Noise Ratio\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "8455-210777-0006_2830-3979-0007",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"394.00\\\", \\\"F0_stddev\\\": \\\"10.00\\\", \\\"SRS\\\": \\\"180.00\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.00\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN\\\": \\\"-10.00\\\"}"
+     },
+     {
+      "stem": "2830-3980-0019_7021-79730-0009",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0Mean\\\": \\\"439.99\\\", \\\"F0Stdev\\\": \\\"3.25\\\", \\\"SpeechRate\\\": \\\"159.02\\\", \\\"Pauses\\\": \\\"11\\\", \\\"PauseRate\\\": \\\"1.69\\\", \\\"Jitter\\\": \\\"10.0\\\", \\\"Shimmer\\\": \\\"10.0\\\", \\\"HarmonicsToNoise\\\": \\\"-10.0\\\"}"
+     },
+     {
+      "stem": "1580-141084-0018_4446-2273-0019",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"175\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1.5\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "4446-2273-0032_8230-279154-0039",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"20\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.5\\\", \\\"fundamental frequency mean\\\": \\\"300\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"80\\\", \\\"pauses\\\": \\\"4\\\", \\\"pause rate\\\": \\\"0.6\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "260-123288-0012_4446-2273-0025",
+      "text": "{\\\"SNR\\\": \\\"-30\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"420\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"6\\\", \\\"PAUSE_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "4446-2273-0005_1221-135766-0009",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"paseq\\\": \\\"1.5\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "4446-2271-0008_1580-141083-0012",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"400\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"3\\\", \\\"paseq\\\": \\\"1.67\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "1284-1181-0008_2300-131720-0030",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"400\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"3\\\", \\\"paseq\\\": \\\"1.67\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "5639-40744-0014_237-134493-0002",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.5\\\", \\\"fundamental frequency mean\\\": \\\"400\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"80\\\", \\\"pauses\\\": \\\"3\\\", \\\"pause rate\\\": \\\"1.2\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"7\\\", \\\"harmonics-to-noise ratio\\\": \\\"6\\\"}"
+     },
+     {
+      "stem": "1221-135766-0002_121-127105-0005",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"6\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"paseq\\\": \\\"1.5\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "4507-16021-0009_5639-40744-0002",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3\n3. Fundamental Frequency Mean (F0): 400 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (NP): 2\n7. Pause Rate (PPM): 1 pause/min\n8. Jitter (Jitter %): 5%\n9. Shimmer (Shimmer %): 10%\n10. Harmonics-to-Noise Ratio (HNR): 15 dB"
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"20\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.5\\\", \\\"fundamental frequency mean\\\": \\\"300\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"80\\\", \\\"pauses\\\": \\\"4\\\", \\\"pause rate\\\": \\\"0.6\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "5683-32866-0017_8455-210777-0024",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"1:12\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "5683-32879-0021_1995-1837-0010",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"400\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"98\\\", \\\"pauses\\\": \\\"3\\\", \\\"pasear\\\": \\\"1\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "1995-1826-0001_8463-287645-0012",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM ER\\\": \\\"0.85\\\", \\\"Mean Freq\\\": \\\"396\\\", \\\"Stdev Freq\\\": \\\"4\\\", \\\"Sylls/s\\\": \\\"175\\\", \\\"Pauses\\\": \\\"11\\\", \\\"Prt Mn\\\": \\\"1.3\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "2830-3980-0025_1995-1826-0001",
+      "text": "{\\\"SNR\\\": \\\"-20.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0Mean\\\": \\\"439.95\\\", \\\"F0Stdev\\\": \\\"3.26\\\", \\\"SRS\\\": \\\"159.99\\\", \\\"PA\u603b\u6570\\\": \\\"11\\\", \\\"PAMean\\\": \\\"1.43\\\", \\\"PAStdDev\\\": \\\"0.65\\\", \\\"Jitter\\\": \\\"10.5\\\", \\\"Shimmer\\\": \\\"10.5\\\", \\\"HRN\\\": \\\"-18.2\\\"}"
+     },
+     {
+      "stem": "4446-2275-0022_6930-81414-0012",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"90\\\", \\\"PA_count\\\": \\\"3\\\", \\\"PA_rate\\\": \\\"1.5\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"8\\\", \\\"HRN_ratio\\\": \\\"16\\\"}"
+     },
+     {
+      "stem": "1221-135766-0012_6930-76324-0003",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3\n3. Fundamental Frequency Mean (F0): 400 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (NP): 2\n7. Pause Rate (NPM): 1 pause/min\n8. Jitter (Jitter %): 5%\n9. Shimmer (Shimmer %): 10%\n10. Harmonics-to-Noise Ratio (HNR): 15 dB"
+     },
+     {
+      "stem": "4507-16021-0013_1320-122617-0017",
+      "text": "{\\\"SNR\\\": -3.56, \\\"SRRER\\\": 0.72, \\\"F0_mean\\\": 49.98, \\\"F0_stddev\\\": 2.22, \\\"SRS_rate\\\": 159.99, \\\"PA_count\\\": 1, \\\"PA_rate\\\": 0.00, \\\"Jitter\\\": 10.0, \\\"Shimmer\\\": 10.0, \\\"HRN_ratio\\\": 1.0}"
+     },
+     {
+      "stem": "6829-68771-0008_7127-75947-0033",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"paseq\\\": \\\"1.5\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "5683-32879-0005_1995-1826-0000",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"SRS_rate\\\": \\\"95\\\", \\\"PA_count\\\": \\\"6\\\", \\\"PA_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"HRN\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "5639-40744-0002_1995-1837-0003",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"p\u901f\u7387\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "4077-13751-0009_908-31957-0007",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0Mean\\\": \\\"470\\\", \\\"F0Deviation\\\": \\\"30\\\", \\\"SpeechRate\\\": \\\"89\\\", \\\"Pauses\\\": \\\"6\\\", \\\"PauseRate\\\": \\\"1.04\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HarmonicsToNoise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "3729-6852-0043_8555-284447-0000",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"80\\\", \\\"PAUSE_num\\\": \\\"2\\\", \\\"PAUSE_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "1284-1180-0004_8455-210777-0031",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"175\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"(1.15,1.62);(2.29,2.75)\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "4992-41797-0021_5142-33396-0064",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdist\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"p\u901f\u7387\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20.47 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 0.58\n3. Fundamental Frequency Mean (F0): 129.96 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 2.26 Hz\n5. Speaking Rate (SRSR): 119.98 syllables/s\n6. Number of Pauses (NPa): 3\n7. Pause Rate per Minute (PRPM): 1.53\n8. Jitter (Jitter %): 1.27%\n9. Shimmer (Shimmer %): 1.37%\n10"
+     },
+     {
+      "stem": "7021-85628-0015_1284-134647-0006",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdstd\\\": \\\"45\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"11\\\", \\\"p\u901f\u7387\\\": \\\"1.3\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "5683-32879-0010_8463-294828-0036",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"Speech_rate\\\": \\\"95\\\", \\\"Pauses\\\": \\\"6\\\", \\\"Pause_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"Harmonics_to_noise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "121-127105-0031_5142-33396-0046",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"4\\\", \\\"PAUSE_rate\\\": \\\"1.7\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "8455-210777-0058_7176-88083-0006",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"90\\\", \\\"PAUSE_num\\\": \\\"4\\\", \\\"PAUSE_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "6930-75918-0011_121-121726-0003",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"80\\\", \\\"PA_count\\\": \\\"3\\\", \\\"PA_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "8455-210777-0020_6930-81414-0013",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "4446-2273-0034_1284-1180-0005",
+      "text": "{\\\"SNR\\\": \\\"-3.56\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"492.00\\\", \\\"F0_stddev\\\": \\\"1.92\\\", \\\"SRS_rate\\\": \\\"159.00\\\", \\\"PA_count\\\": \\\"1\\\", \\\"PA_rate\\\": \\\"0.00\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN_ratio\\\": \\\"-3.56\\\"}"
+     },
+     {
+      "stem": "1089-134686-0015_4970-29093-0003",
+      "text": "{\\\"signal-to-noise ratio\\\": \\\"\\\", \\\"speech-to-reverberation modulation energy ratio\\\": \\\"0.5\\\", \\\"fundamental frequency mean\\\": \\\"300\\\", \\\"fundamental frequency standard deviation\\\": \\\"50\\\", \\\"speaking rate\\\": \\\"80\\\", \\\"pauses\\\": \\\"2\\\", \\\"pause rate\\\": \\\"1.2\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"harmonics-to-noise ratio\\\": \\\"6\\\"}"
+     },
+     {
+      "stem": "7021-85628-0022_2300-131720-0009",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"370\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"92\\\", \\\"pauses\\\": \\\"6\\\", \\\"paseq\\\": \\\"1.4\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "8230-279154-0039_4446-2273-0007",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "8455-210777-0037_8463-294828-0009",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"Speech_rate\\\": \\\"85\\\", \\\"Pauses\\\": \\\"3\\\", \\\"Pause_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"Harmonics_to_noise\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "2830-3980-0031_1089-134686-0025",
+      "text": "{\\\"SNR\\\": \\\"-20.45\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"396.00\\\", \\\"F0_stddev\\\": \\\"1.98\\\", \\\"SRS_rate\\\": \\\"129.00\\\", \\\"PA_count\\\": \\\"1\\\", \\\"PA_rate\\\": \\\"1.00\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN_ratio\\\": \\\"-18.45\\\"}"
+     },
+     {
+      "stem": "6829-68769-0039_61-70968-0055",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"F0_mean\\\": \\\"376\\\", \\\"F0_stddev\\\": \\\"4\\\", \\\"SRS_rate\\\": \\\"92\\\", \\\"PA_count\\\": \\\"1\\\", \\\"PA_rate\\\": \\\"0.12\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN_ratio\\\": \\\"18\\\"}"
+     }
+    ]
+   },
+   "P3_template": {
+    "prompt": "Complete each sentence with a number, using this exact wording. The SNR is ___ dB. The SRMR is ___. The F0 mean is ___ Hz. The F0 SD is ___ Hz. The speaking rate is ___ syllables per second. The recording contains ___ pauses. The pause rate is ___ per minute. The jitter is ___ percent. The shimmer is ___ percent. The HNR is ___ dB.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "7729-102255-0001_260-123286-0006",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "4507-16021-0050_2094-142345-0054",
+      "text": "1. The SNR is 5 dB. 2. The SRMR is 0.8. 3. The F0 mean is 94.7 Hz. 4. The F0 SD is 2.6 Hz. 5. The speaking rate is 120 syllables per second. 6. The recording contains 2 pauses. 7. The pause rate is 1.5 per minute. 8. The jitter is 5 percent. 9. The shimmer is 10 percent. 10. The HNR is 10 dB."
+     },
+     {
+      "stem": "4077-13754-0013_2961-960-0002",
+      "text": "1.SNR is 25 dB. 2.SRMR is 0.73. 3.F0 mean is 486 Hz. 4.F0 SD is 39 Hz. 5.speaking rate is 173 syllables per second. 6.recording contains 3 pauses. 7.pause rate is 1.5 per minute. 8.jitter is 5 percent. 9.shimmer is 5 percent. 10.HNR is 18 dB."
+     },
+     {
+      "stem": "7021-85628-0019_7729-102255-0033",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "4992-23283-0002_2830-3980-0061",
+      "text": "1. The SNR is 25 dB.\n2. The SRMR is 0.8.\n3. The F0 mean is 100 Hz.\n4. The F0 SD is 5 Hz.\n5. The speaking rate is 6 syllables per second.\n6. The recording contains 2 pauses.\n7. The pause rate is 1 pause per minute.\n8. The jitter is 5 percent.\n9. The shimmer is 10 percent.\n10. The HNR is 30 dB."
+     },
+     {
+      "stem": "672-122797-0019_7176-92135-0016",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "3570-5695-0011_8455-210777-0058",
+      "text": "1. It has an SNR of 25 dB.\n  2. It has an SRMR of 0.8.\n  3. The F0 mean is 476 Hz.\n  4. The F0 SD is 120 Hz.\n  5. The speaking rate is 92 syllables per second.\n  6. The recording contains 3 pauses.\n  7. The pause rate is 1.5 per minute.\n  8. The jitter is 5 percent.\n  9. The shimmer is 10 percent.\n  10. The HNR is 18 dB."
+     },
+     {
+      "stem": "8230-279154-0005_6829-68769-0028",
+      "text": "1. The SNR is 20 dB.\n2. The SRMR is 0.5.\n3. The F0 mean is 100 Hz.\n4. The F0 SD is 5 Hz.\n5. The speaking rate is 8 syllables per second.\n6. The recording contains 2 pauses.\n7. The pause rate is 1 pause per minute.\n8. The jitter is 5 percent.\n9. The shimmer is 10 percent.\n10. The HNR is 30 dB."
+     },
+     {
+      "stem": "1284-1180-0017_7127-75947-0016",
+      "text": "1 65 100 120 1.83 0.74 1.92 10 0.5 10 0.05"
+     },
+     {
+      "stem": "6930-75918-0009_260-123288-0017",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "4992-23283-0017_5142-33396-0002",
+      "text": "The SNR is 20 dB. The SRMR is 5. The F0 mean is 376 Hz. The F0 SD is 84 Hz. The speaking rate is 192 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "260-123440-0014_4970-29095-0030",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "260-123286-0005_237-126133-0000",
+      "text": "I'm sorry, but I cannot complete the sentences with numbers as there is no information provided in the audio description regarding speech metrics such as F0, SD, rate, pauses, etc."
+     },
+     {
+      "stem": "5683-32865-0009_6829-68769-0016",
+      "text": "The SNR is 25 dB. The SRMR is 0.83. The F0 mean is 476 Hz. The F0 SD is 39 Hz. The speaking rate is 173 syllables per second. The recording contains 2 pauses. The pause rate is 1.02 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 18 dB."
+     },
+     {
+      "stem": "3570-5696-0007_1995-1837-0003",
+      "text": "The SNR is 25 dB. The SRMR is 0.78. The F0 mean is 436 Hz. The F0 SD is 129 Hz. The speaking rate is 173 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 18 dB."
+     },
+     {
+      "stem": "5105-28233-0005_4446-2275-0013",
+      "text": "{'SNR': '', 'SRMR': '___', 'F0_mean': '___', 'F0_SD': '___', 'speaking_rate': '___', 'pauses': '___', 'pause_rate': '___', 'jitter': '___', 'shimmer': '___', 'HNR': '___'}"
+     },
+     {
+      "stem": "6829-68769-0040_237-126133-0007",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "672-122797-0023_237-134500-0002",
+      "text": "1. A bright woman then come up that was driving puffy white clouds across the sky.\n2. The SNR is 5 dB.\n3. The SRMR is 0.8.\n4. The F0 mean is 600 Hz.\n5. The F0 SD is 50 Hz.\n6. The speaking rate is 17 syllables per second.\n7. The recording contains 2 pauses.\n8. The pause rate is 1.5 per minute.\n9. The jitter is 5 percent.\n10. The shimmer is 10 percent.\n11. The HNR is 10 dB."
+     },
+     {
+      "stem": "7127-75947-0029_3570-5695-0014",
+      "text": "{'SNR': '5 dB', 'SRMR': '2.86', 'F0_mean': '74.03 Hz', 'F0_SD': '1.91 Hz', 'speaking_rate': '120 syllables per second', 'pauses': '1 pause', 'pause_rate': '1.00 per minute', 'jitter': '5 percent', 'shimmer': '5 percent', 'HNR': '10 dB'}"
+     },
+     {
+      "stem": "4446-2275-0034_672-122797-0005",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 900 Hz. The F0 SD is 300 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "6930-76324-0012_2300-131720-0027",
+      "text": "1. The SNR is 25 dB.\n2. The SRMR is 0.84.\n3. The F0 mean is 97.06 Hz.\n4. The F0 SD is 2.21 Hz.\n5. The speaking rate is 120 syllables per second.\n6. The recording contains 2 pauses.\n7. The pause rate is 1.00 per minute.\n8. The jitter is 5.00 percent.\n9. The shimmer is 10.00 percent.\n10. The HNR is 15 dB."
+     },
+     {
+      "stem": "4970-29095-0037_5105-28240-0016",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "8224-274384-0008_1188-133604-0031",
+      "text": "The SNR is 5.26 dB. The SRMR is 0.83. The F0 mean is 479.54 Hz. The F0 SD is 10.26 Hz. The speaking rate is 169.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 5.26 dB."
+     },
+     {
+      "stem": "260-123440-0012_8455-210777-0010",
+      "text": "1. The SNR is 5 dB. 2. The SRMR is 0.8. 3. The F0 mean is 100 Hz. 4. The F0 SD is 5 Hz. 5. The speaking rate is 169 syllables per second. 6. The recording contains 2 pauses. 7. The pause rate is 1.5 per minute. 8. The jitter is 5 percent. 9. The shimmer is 10 percent. 10. The HNR is 10 dB."
+     },
+     {
+      "stem": "908-157963-0021_8463-287645-0001",
+      "text": "It's really necessary to say more of them here. The SNR is 5 dB. The SRMR is 2. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 129 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "5639-40744-0006_672-122797-0026",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 173 syllables per second. The recording contains 3 pauses. The pause rate is 0.51 per minute. The jitter is 10 percent. The shimmer is 15 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "Thus did the humane and right-minded father comfort his unhappy daughter, and her mother embracing her again did all she could to soothe her fears. SNR: 5.26 dB. SRMR: 0.83. F0 mean: 94.75 Hz. F0 SD: 2.04 Hz. Speaking rate: 119.0 syllables per second. Recording contains 2 pauses. Pause rate: 1.00 per minute. Jitter: 0.00 percent. Shimmer: 0.00 percent. HNR: 5.26 dB."
+     },
+     {
+      "stem": "672-122797-0070_3570-5695-0006",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "672-122797-0041_7021-85628-0021",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 192 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "The SNR is 25. The SRMR is 0.86. The F0 mean is 94.73 Hz. The F0 SD is 2.21 Hz. The speaking rate is 169.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30.00 dB."
+     },
+     {
+      "stem": "6829-68771-0018_7021-79740-0006",
+      "text": "I expect the speech to be transcribed as follows:\n\nFor a moment Beth stood staring while the new maid regarded her with some composure and a slight smile.\n\nSNR: 25 dB.\nSRMR: 0.78.\nF0 mean: 94.0 Hz.\nF0 SD: 3.0 Hz.\nSpeaking rate: 169.0 syllables per second.\nRecording contains: 1 pause.\nPause rate: 1.0 per minute.\nJitter: 5%.\nShimmer: 3%.\nHNR: 30 dB."
+     },
+     {
+      "stem": "5639-40744-0034_4507-16021-0058",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "61-70968-0056_1580-141084-0045",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "3570-5694-0021_237-134500-0014",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 90 Hz. The F0 SD is 30 Hz. The speaking rate is 8 syllables per second. The recording contains 1 pause. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "4446-2271-0005_6829-68769-0040",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 3 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "The SNR is 25 dB. The SRMR is 0.83. The F0 mean is 94.76 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.53 per minute. The jitter is 0.07 percent. The shimmer is 0.07 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "1089-134691-0019_2830-3980-0011",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 5.00 percent. The shimmer is 10.00 percent. The HNR is 35 dB."
+     },
+     {
+      "stem": "3575-170457-0031_7729-102255-0045",
+      "text": "{'SNR': '', 'SRMR': '5.26', 'F0_mean': '173.04', 'F0_SD': '2.89', 'speaking_rate': '169.0', 'pauses': '1', 'pause_rate': '1.0', 'jitter': '10', 'shimmer': '10', 'HNR': '-10'}"
+     },
+     {
+      "stem": "7021-79730-0006_8455-210777-0037",
+      "text": "{'SNR': '25', 'SRMR': '0.86', 'F0_mean': '93', 'F0_SD': '4', 'speaking_rate': '175', 'pauses': '1', 'pause_rate': '1', 'jitter': '5', 'shimmer': '5', 'HNR': '15'}"
+     },
+     {
+      "stem": "61-70968-0011_4992-41806-0004",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "5639-40744-0039_6930-81414-0009",
+      "text": "The SNR is 5.64 dB. The SRMR is 2.89. The F0 mean is 73.26 Hz. The F0 SD is 2.04 Hz. The speaking rate is 169.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 5.64 dB."
+     },
+     {
+      "stem": "6829-68771-0019_7176-92135-0035",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 192 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "6829-68771-0022_1995-1837-0018",
+      "text": "I attend to the household spending, you know, and care for the children. The SNR is 25 dB. The SRMR is 0.8. The F0 mean is 473 Hz. The F0 SD is 69 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "5683-32866-0018_1995-1837-0026",
+      "text": "{'SNR': '', 'SRMR': '5.23', 'F0_mean': '476', 'F0_SD': '8', 'speaking_rate': '99.999', 'pauses': '0', 'pause_rate': '0', 'jitter': '0', 'shimmer': '0', 'HNR': '-3'}"
+     },
+     {
+      "stem": "5683-32879-0007_5142-33396-0019",
+      "text": "The SNR is 25 dB. The SRMR is 0.83. The F0 mean is 476 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "6829-68769-0004_908-31957-0006",
+      "text": "1 25 100 30 40 160 1 100 0.5 0.5 100 100 100"
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 192 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "672-122797-0031_1089-134686-0016",
+      "text": "{'SNR': '5 dB', 'SRMR': '0.86', 'F0_mean': '92 Hz', 'F0_SD': '3 Hz', 'speaking_rate': '147 syllables per second', 'pauses': '1 pause', 'pause_rate': '1.53 per minute', 'jitter': '5 percent', 'shimmer': '5 percent', 'HNR': '7 dB'}"
+     },
+     {
+      "stem": "1284-1180-0010_1580-141084-0008",
+      "text": "The SNR is 25 dB. The SRMR is 0.83. The F0 mean is 476 Hz. The F0 SD is 129 Hz. The speaking rate is 173 syllables per second. The recording contains 3 pauses. The pause rate is 0.51 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "672-122797-0040_1089-134686-0036",
+      "text": "1. A great whole-singing, whole-wording, East-meets-West spiritual practice.\n2. The signal-to-noise ratio is 30 dB.\n3. The speech-repetition rate measure is 59.\n4. The mean fundamental frequency is 78.6 Hz.\n5. The standard deviation of the fundamental frequency is 2.21 Hz.\n6. The speaking rate is 173 syllables per second.\n7. There are 11 pauses in the recording.\n8. The pause rate is 1.83 pauses per minute.\n9. The jitter is 10%.\n10. The shimmer is 5%.\n11. The harmonic-to-noise ratio is 10 dB."
+     },
+     {
+      "stem": "61-70968-0014_8224-274384-0003",
+      "text": "{'SNR': '50', 'SRMR': '2.37', 'F0_mean': '98', 'F0_SD': '4', 'speaking_rate': '169', 'pauses': '1', 'pause_rate': '0.5', 'jitter': '5', 'shimmer': '5', 'HNR': '10'}"
+     },
+     {
+      "stem": "5142-36377-0024_6930-81414-0026",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 12 Hz. The speaking rate is 192 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "672-122797-0073_1580-141084-0004",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 900 Hz. The F0 SD is 300 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "8230-279154-0003_1580-141083-0001",
+      "text": "I'm sorry, but I cannot provide you with the answers to these questions as they require specific information that is not provided in the given speech. Please provide me with the necessary details so that I can assist you better."
+     },
+     {
+      "stem": "4992-41797-0002_1089-134691-0002",
+      "text": "The SNR is 25 dB. The SRMR is 3. The F0 mean is 476 Hz. The F0 SD is 89 Hz. The speaking rate is 173 syllables per second. The recording contains 1 pause. The pause rate is 0.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 18 dB."
+     },
+     {
+      "stem": "6829-68771-0013_8455-210777-0011",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 173 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "8455-210777-0053_3575-170457-0033",
+      "text": "1. Were I to comply with your orders without expressing my discontent I should seem to have done so willingly in your afterthought.\n2. The SNR is 5 dB.\n3. The SRMR is 0.8.\n4. The F0 mean is 70 Hz.\n5. The F0 SD is 5 Hz.\n6. The speaking rate is 12 syllables per second.\n7. The recording contains 2 pauses.\n8. The pause rate is 1.5 per minute.\n9. The jitter is 5 percent.\n10. The shimmer is 3 percent.\n11. The HNR is 10 dB."
+     },
+     {
+      "stem": "2300-131720-0010_8230-279154-0013",
+      "text": "{'SNR': '25 dB', 'SRMR': '0.86', 'F0_mean': '74.00 Hz', 'F0_SD': '3.00 Hz', 'speaking_rate': '129.0 syllables per second', 'pauses': '1', 'pause_rate': '1.00 per minute', 'jitter': '5%', 'shimmer': '5%', 'HNR': '15 dB'}"
+     },
+     {
+      "stem": "4446-2273-0019_260-123288-0010",
+      "text": "I'm sorry, but I cannot complete this prompt as it does not provide any specific information about the audio you are referring to. Please provide more context or details so that I can assist you better."
+     },
+     {
+      "stem": "237-126133-0022_3575-170457-0054",
+      "text": "I am sorry, but I cannot complete the sentences with numbers as there is no information provided in the audio description regarding sound levels, speech rates, or other relevant metrics. Can you please provide more context or specify which aspects of the audio you would like me to analyze?"
+     },
+     {
+      "stem": "2094-142345-0056_1320-122612-0015",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.018 Hz. The F0 SD is 3.921 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.02 per minute. The jitter is 5.2 percent. The shimmer is 10.8 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "2094-142345-0034_672-122797-0015",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "8455-210777-0000_61-70968-0011",
+      "text": "I remain where I was very readily and retreated unseen by the squire and mistress that it zo'd to the rear of the tent. The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98 Hz. The F0 SD is 4 Hz. The speaking rate is 16 syllables per second. The recording contains 1 pause. The pause rate is 0.5 per minute. The jitter is 0.5 percent. The shimmer is 0.5 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "908-31957-0005_3575-170457-0027",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98 Hz. The F0 SD is 4 Hz. The speaking rate is 160 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "61-70970-0039_5105-28233-0001",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 98 Hz. The F0 SD is 30 Hz. The speaking rate is 174 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 6 dB."
+     },
+     {
+      "stem": "5639-40744-0037_6930-76324-0002",
+      "text": "1. SNR is 20 dB.\n  2. SRMR is 0.5.\n  3. F0 mean is 98 Hz.\n  4. F0 SD is 20 Hz.\n  5. Speaking rate is 167 syllables per second.\n  6. Recording contains 2 pauses.\n  7. Pause rate is 1.5 per minute.\n  8. Jitter is 5 percent.\n  9. Shimmer is 10 percent.\n  10. HNR is 15 dB."
+     },
+     {
+      "stem": "8463-287645-0000_4970-29095-0023",
+      "text": "This is what the SNR is: 5 dB. The SRMR is: 2.5. The F0 mean is: 473 Hz. The F0 SD is: 86 Hz. The speaking rate is: 192 syllables per second. The recording contains: 2 pauses. The pause rate is: 1.5 per minute. The jitter is: 5 percent. The shimmer is: 10 percent. The HNR is: 7 dB."
+     },
+     {
+      "stem": "1284-1180-0017_1580-141084-0031",
+      "text": "{'SNR': '25 dB', 'SRMR': '1.37', 'F0 mean': '98.64 Hz', 'F0 SD': '0.61 Hz', 'speaking rate': '129.0 syllables per second', 'pauses': '1', 'pause rate': '1.00 per minute', 'jitter': '0.00 percent', 'shimmer': '0.00 percent', 'HNR': '18 dB'}"
+     },
+     {
+      "stem": "5105-28240-0019_6829-68771-0015",
+      "text": "The SNR is 25 dB. The SRMR is 3.5. The F0 mean is 476 Hz. The F0 SD is 89 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "4446-2275-0041_5142-33396-0010",
+      "text": "The SNR is 25 dB. The SRMR is 0.8. The F0 mean is 473 Hz. The F0 SD is 69 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "8230-279154-0030_61-70970-0030",
+      "text": "1. The SNR is 5 dB.\n2. The SRMR is 0.8.\n3. The F0 mean is 90 Hz.\n4. The F0 SD is 5 Hz.\n5. The speaking rate is 167 syllables per second.\n6. The recording contains 2 pauses.\n7. The pause rate is 1.5 per minute.\n8. The jitter is 5 percent.\n9. The shimmer is 10 percent.\n10. The HNR is 10 dB."
+     },
+     {
+      "stem": "2830-3980-0070_3570-5694-0005",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 89 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "5105-28233-0000_1221-135767-0018",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "7127-75947-0039_7021-79740-0000",
+      "text": "{'SNR': '25', 'SRMR': '3.8', 'F0_mean': '476', 'F0_SD': '39', 'speaking_rate': '159', 'pauses': '1', 'pause_rate': '1.0', 'jitter': '5', 'shimmer': '5', 'HNR': '10'}"
+     },
+     {
+      "stem": "61-70970-0028_2300-131720-0013",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.5 minutes. The jitter is 0.5 percent. The shimmer is 0.5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "6930-81414-0008_4446-2275-0038",
+      "text": "I will ask the least imaginable, but I must have something. The SNR is 0 dB. The SRMR is 0. The F0 mean is 925 Hz. The F0 SD is 30 Hz. The speaking rate is 184 syllables per second. The recording contains 0 pauses. The pause rate is 0 per minute. The jitter is 0 percent. The shimmer is 0 percent. The HNR is 0 dB."
+     },
+     {
+      "stem": "3575-170457-0025_4992-23283-0005",
+      "text": "{'SNR': '25 dB', 'SRMR': '0.86', 'F0 mean': '94.00 Hz', 'F0 SD': '3.00 Hz', 'speaking rate': '173.00 syllables per second', 'pauses': '1', 'pause rate': '1.00 per minute', 'jitter': '5.00 percent', 'shimmer': '5.00 percent', 'HNR': '20 dB'}"
+     },
+     {
+      "stem": "2300-131720-0021_7176-88083-0009",
+      "text": "The SNR is 5.68 dB. The SRMR is 2.47. The F0 mean is 396.01 Hz. The F0 SD is 10.02 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 7.06 dB."
+     },
+     {
+      "stem": "1284-1181-0012_3729-6852-0023",
+      "text": "{'SNR': '', 'SRMR': '5.23', 'F0_mean': '78.96', 'F0_SD': '2.45', 'speaking_rate': '123.0', 'pauses': '1', 'pause_rate': '1.0', 'jitter': '5', 'shimmer': '10', 'HNR': '10'}"
+     },
+     {
+      "stem": "8455-210777-0006_2830-3979-0007",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "2830-3980-0019_7021-79730-0009",
+      "text": "I knew nothing of the doctrine of faith because we were taught sophistry instead of certainty and nobody understood spiritual truth. Age: 25 years old. Gender: Male. Speech rate: 98.68 syllables per second. Punctuation: No pauses. Jitter: 0% Shimmer: 0% HNR: 30 dB."
+     },
+     {
+      "stem": "1580-141084-0018_4446-2273-0019",
+      "text": "I think so. You have formed a conclusion. The SNR is 5 dB. The SRMR is 0.8. The F0 mean is 92 Hz. The F0 SD is 3 Hz. The speaking rate is 14 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 7 percent. The HNR is 6 dB."
+     },
+     {
+      "stem": "4446-2273-0032_8230-279154-0039",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "260-123288-0012_4446-2273-0025",
+      "text": "{'SNR': '5', 'SRMR': '2.5', 'F0_mean': '70', 'F0_SD': '3', 'speaking_rate': '89', 'pauses': '1', 'pause_rate': '60', 'jitter': '5', 'shimmer': '4', 'HNR': '10'}"
+     },
+     {
+      "stem": "4446-2273-0005_1221-135766-0009",
+      "text": "I haven't had a chance yet to tell him that Jolene's twice as pretty, he says. The SNR is 0 dB. The SRMR is 0. The F0 mean is 925 Hz. The F0 SD is 30 Hz. The speaking rate is 86 syllables per second. The recording contains 0 pauses. The pause rate is 0 per minute. The jitter is 0 percent. The shimmer is 0 percent. The HNR is 0 dB."
+     },
+     {
+      "stem": "4446-2271-0008_1580-141083-0012",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.5 minutes. The jitter is 0.5 percent. The shimmer is 0.5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "1284-1181-0008_2300-131720-0030",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.018 Hz. The F0 SD is 3.921 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.02 per minute. The jitter is 10.00 percent. The shimmer is 10.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "5639-40744-0014_237-134493-0002",
+      "text": "{'SNR': '25', 'SRMR': '0.38', 'F0_mean': '72', 'F0_SD': '4', 'speaking_rate': '96', 'pauses': '1', 'pause_rate': '1.0', 'jitter': '5', 'shimmer': '5', 'HNR': '15'}"
+     },
+     {
+      "stem": "1221-135766-0002_121-127105-0005",
+      "text": "I could not find the provided information in the speech to complete these sentences. Please provide the missing data so I can assist you accurately."
+     },
+     {
+      "stem": "4507-16021-0009_5639-40744-0002",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 80 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "5683-32866-0017_8455-210777-0024",
+      "text": "I'm sorry, but I cannot complete this task as you have not provided any additional information about the audio. Please provide the necessary data so that I can assist you better."
+     },
+     {
+      "stem": "5683-32879-0021_1995-1837-0010",
+      "text": "1. Perhaps only you two might be there waiting.\n2. The SNR is 5 dB.\n3. The SRMR is 0.8.\n4. The F0 mean is 70 Hz.\n5. The F0 SD is 5 Hz.\n6. The speaking rate is 12 syllables per second.\n7. The recording contains 2 pauses.\n8. The pause rate is 1 pause per minute.\n9. The jitter is 5 percent.\n10. The shimmer is 10 percent.\n11. The HNR is 10 dB."
+     },
+     {
+      "stem": "1995-1826-0001_8463-287645-0012",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 0.33 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "2830-3980-0025_1995-1826-0001",
+      "text": "{'SNR': '25 dB', 'SRMR': '0.86', 'F0 mean': '94.037 Hz', 'F0 SD': '1.861 Hz', 'speaking rate': '173.0 syllables per second', 'pauses': '1', 'pause rate': '1.00 per minute', 'jitter': '0.01 percent', 'shimmer': '0.01 percent', 'HNR': '25 dB'}"
+     },
+     {
+      "stem": "4446-2275-0022_6930-81414-0012",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "1221-135766-0012_6930-76324-0003",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 0.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "4507-16021-0013_1320-122617-0017",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.53 per minute. The jitter is 0.07 percent. The shimmer is 0.07 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "6829-68771-0008_7127-75947-0033",
+      "text": "{'SNR': '', 'SRMR': '5.26', 'F0_mean': '473', 'F0_SD': '89', 'speaking_rate': '169', 'pauses': '1', 'pause_rate': '1.0', 'jitter': '10', 'shimmer': '10', 'HNR': '10'}"
+     },
+     {
+      "stem": "5683-32879-0005_1995-1826-0000",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 159 syllables per second. The recording contains 2 pauses. The pause rate is 1.02 per minute. The jitter is 10 percent. The shimmer is 15 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "5639-40744-0002_1995-1837-0003",
+      "text": "The SNR is 25 dB. The SRMR is 3.5. The F0 mean is 476 Hz. The F0 SD is 89 Hz. The speaking rate is 173 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "4077-13751-0009_908-31957-0007",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 25 dB."
+     },
+     {
+      "stem": "3729-6852-0043_8555-284447-0000",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 400 Hz. The F0 SD is 50 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "1284-1180-0004_8455-210777-0031",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98 Hz. The F0 SD is 4 Hz. The speaking rate is 169 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "4992-41797-0021_5142-33396-0064",
+      "text": "{'SNR': '', 'SRMR': '___', 'F0_mean': '___', 'F0_SD': '___', 'speaking_rate': '___', 'pauses': '___', 'pause_rate': '___', 'jitter': '___', 'shimmer': '___', 'HNR': '___'}"
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "7021-85628-0015_1284-134647-0006",
+      "text": "The SNR is 25 dB. The SRMR is 0.78. The F0 mean is 94.36 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "5683-32879-0010_8463-294828-0036",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 0.53 per minute. The jitter is 10 percent. The shimmer is 15 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "121-127105-0031_5142-33396-0046",
+      "text": "By the fear voting, I cried, you're taking our joke of a man. SNR is 5 dB. SRMR is 2.3. F0 mean is 98 Hz. F0 SD is 4 Hz. Speaking rate is 167 syllables per second. Recording contains 2 pauses. Pause rate is 1.5 per minute. Jitter is 5 percent. Shimmer is 3 percent. HNR is 7 dB."
+     },
+     {
+      "stem": "8455-210777-0058_7176-88083-0006",
+      "text": "1. The SNR is 25 dB.\n  2. The SRMR is 0.8.\n  3. The F0 mean is 476 Hz.\n  4. The F0 SD is 12 Hz.\n  5. The speaking rate is 129 syllables per second.\n  6. The recording contains 3 pauses.\n  7. The pause rate is 0.5 per minute.\n  8. The jitter is 5 percent.\n  9. The shimmer is 10 percent.\n  10. The HNR is 30 dB."
+     },
+     {
+      "stem": "6930-75918-0011_121-121726-0003",
+      "text": "1. Hey there!\n2. A heart.\n3. 340 Hz.\n4. 50 Hz.\n5. 89 syllables per second.\n6. 1 pause.\n7. 60 minutes.\n8. 5%.\n9. 10%.\n10. 100 dB."
+     },
+     {
+      "stem": "8455-210777-0020_6930-81414-0013",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "4446-2273-0034_1284-1180-0005",
+      "text": "1. No one would disturb their little house even if anyone came.\n2. The signal-to-noise ratio is 5 dB.\n3. The speech-relevance measure is 0.8.\n4. The mean frequency of the speech is 500 Hz.\n5. The standard deviation of the speech is 50 Hz.\n6. The speaking rate is 9 syllables per second.\n7. The recording contains 2 pauses.\n8. The pause rate is 1 pause per minute.\n9. The jitter is 5%.\n10. The shimmer is 3%.\n11. The harmonic-to-noise ratio is 10 dB."
+     },
+     {
+      "stem": "1089-134686-0015_4970-29093-0003",
+      "text": "The SNR is 5.26 dB. The SRMR is 3.84. The F0 mean is 97.02 Hz. The F0 SD is 2.21 Hz. The speaking rate is 169.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 5.26 dB."
+     },
+     {
+      "stem": "7021-85628-0022_2300-131720-0009",
+      "text": "The SNR is 25 dB. The SRMR is 0.83. The F0 mean is 94.76 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.53 per minute. The jitter is 0.07 percent. The shimmer is 0.08 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "8230-279154-0039_4446-2273-0007",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.028 Hz. The F0 SD is 3.961 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.02 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "8455-210777-0037_8463-294828-0009",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 159 syllables per second. The recording contains 2 pauses. The pause rate is 0.33 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "2830-3980-0031_1089-134686-0025",
+      "text": "The SNR is 5.26 dB. The SRMR is 0.84. The F0 mean is 397.01 Hz. The F0 SD is 10.01 Hz. The speaking rate is 173.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 5.26 dB."
+     },
+     {
+      "stem": "6829-68769-0039_61-70968-0055",
+      "text": "{'SNR': '', 'SRMR': '___', 'F0_mean': '___', 'F0_SD': '___', 'speaking_rate': '___', 'pauses': '___', 'pause_rate': '___', 'jitter': '___', 'shimmer': '___', 'HNR': '___'}"
+     }
+    ]
+   },
+   "P4_fewshot": {
+    "prompt": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "7729-102255-0001_260-123286-0006",
+      "text": "This was an English conversation between two men. The speech content was 'This was as a talent collection she had to use his phone in order to'. The speaker's mood was neutral and the language spoken was English. There were no background sounds or music detected in this recording."
+     },
+     {
+      "stem": "4507-16021-0050_2094-142345-0054",
+      "text": "The sentence spoken in the audio is 'And hope to see us soon as possible'."
+     },
+     {
+      "stem": "4077-13754-0013_2961-960-0002",
+      "text": "1 00:00:00,000 --> 00:00:03,920 before this travesty on the administration \\n2 00:00:03,920 --> 00:00:06,800 of law could be brought before the court \\n3 00:00:06,800 --> 00:00:08,880 of last resort and there met with their \\n4 00:00:08,880 --> 00:00:11,040 reversal in rebuke it deserved men were"
+     },
+     {
+      "stem": "7021-85628-0019_7729-102255-0033",
+      "text": "I'm sorry, but I cannot provide you with the information requested as you have not provided me with a specific recording to analyze. Please provide me with the necessary data and I will do my best to assist you."
+     },
+     {
+      "stem": "4446-2271-0014_3570-5694-0003",
+      "text": "1. This sentence has a higher F0 mean and a lower F0 SD than the previous one.\n2. The speech in this sentence has a higher SRMR than the previous one.\n3. The speech in this sentence has a lower HNR than the previous one.\n4. There are more pauses in this sentence than in the previous one.\n5. The pause rate in this sentence is higher than in the previous one.\n6. The speech in this sentence has a lower jitter than the previous one.\n7. The speech in this sentence has a lower shimmer than the previous one.\n8. The speech in this sentence has a higher F0 mean and a lower F0 SD than the previous one.\n9. The speech in this sentence has a higher SRMR than the previous one.\n1"
+     },
+     {
+      "stem": "4992-23283-0002_2830-3980-0061",
+      "text": "1. A horse's hooves click on the pavement.\n2. The old man walked slowly down the street.\n3. The dog chased its own tail around the yard.\n4. The children laughed and played in the park.\n5. The car pulled away from the curb.\n6. The rain fell heavily on the roof of the car.\n7. The thunder rumbled in the distance.\n8. The lightning flashed across the sky.\n9. The fire burned brightly in the fireplace.\n10. The stars shone bright in the night sky."
+     },
+     {
+      "stem": "672-122797-0019_7176-92135-0016",
+      "text": "The sentence in the audio is 'This would be an easy way of doing it, but it would not be the best way.'"
+     },
+     {
+      "stem": "3570-5695-0011_8455-210777-0058",
+      "text": "1. This recording has a signal-to-noise ratio (SNR) of 12.4 decibels.\n2. The speech-to-reverberation ratio (SRMR) is 6.8.\n3. The average frequency (F0) of the speech is 138.2 hertz.\n4. The standard deviation (SD) of the F0 is 21.5 hertz.\n5. The speaker's speaking rate is 3.9 syllables per second.\n6. There are five pauses in this recording.\n7. The average pause duration is 18.7 seconds per minute.\n8. The speech has a jitter of 1.3 percent.\n9. The speech has a shimmer of 4.6 percent.\n1"
+     },
+     {
+      "stem": "8230-279154-0005_6829-68769-0028",
+      "text": "1. This sentence has a high level of noise.\n2. The speech-to-noise ratio is low.\n3. There is a significant amount of reverberation in this sound.\n4. The speaker's voice is at a medium pitch.\n5. The standard deviation of the speaker's pitch is relatively large.\n6. The words are spoken at a moderate speed.\n7. There are several pauses in the speech.\n8. The pause duration is lengthy.\n9. The speech exhibits some jitter.\n10. There is a noticeable amount of shimmer in the sound."
+     },
+     {
+      "stem": "1284-1180-0017_7127-75947-0016",
+      "text": "1. Well, mademoiselle, why have I not a devoted sister or a true friend such as yourself?\n2. Well, mademoiselle, why have I not a devoted sister or a true friend like yourself?\n3. Well, mademoiselle, why have I not a devoted sister or a true friend such as yourself?\n4. Well, mademoiselle, why have I not a devoted sister or a true friend like yourself?\n5. Well, mademoiselle, why have I not a devoted sister or a true friend such as yourself?\n6. Well, mademoiselle, why have I not a devoted sister or a true friend like yourself?\n7. Well, mademoiselle, why have I not a devoted sister or a true"
+     },
+     {
+      "stem": "6930-75918-0009_260-123288-0017",
+      "text": "The atmosphere in China has once reached its density to become final."
+     },
+     {
+      "stem": "4992-23283-0017_5142-33396-0002",
+      "text": "I'm sorry, but I cannot provide you with the information requested as you have not provided me with a specific recording to analyze. Please provide me with the recording and I will do my best to assist you."
+     },
+     {
+      "stem": "260-123440-0014_4970-29095-0030",
+      "text": "Sure, here are the sentence-level features for the recording you just heard:\n\n  1. Father, I never knew that it was so bad that it is.\n  2. There are these unjustifiable looks that he gives.\n  3. He's going into finance.\n  4. And I never realized that it was such a terrible thing to be in finance.\n  5. It's not just that he doesn't understand the business side of things.\n  6. He doesn't seem to have any common sense about money.\n  7. He always seems to be making these reckless investments.\n  8. And now we're in this huge hole because of his mistakes.\n  9. I wish we had never hired him for the job.\n  "
+     },
+     {
+      "stem": "260-123286-0005_237-126133-0000",
+      "text": "I am not complaining that the rain is slow but that the seed is so light."
+     },
+     {
+      "stem": "5683-32865-0009_6829-68769-0016",
+      "text": "The sentence in the audio is: 'and he placed it in that gentleman's fingers who now took his turn.'"
+     },
+     {
+      "stem": "3570-5696-0007_1995-1837-0003",
+      "text": "The use of the word 'waste' as a technical term implies no deprecation of the motives or ends sought by the consumer under."
+     },
+     {
+      "stem": "5105-28233-0005_4446-2275-0013",
+      "text": "I'll do my best to provide the information you requested based on the audio you provided. Please note that some of the values may be slightly different due to the inherent variability in human speech and the use of automated transcription tools.\n\nSNR (signal-to-noise ratio): 12.4 dB\nSRMR (source-ambiguous noise ratio): 6.8\nF0 mean (central frequency of speech): 138.2 Hz\nF0 SD (standard deviation of F0): 21.5 Hz\nSpeaking rate (number of syllables per second): 3.9 syllables per second\nNumber of pauses: 5 pauses\nPause rate (pauses per minute): 18.7 pauses per minute\nJitter (percentage of F0"
+     },
+     {
+      "stem": "6829-68769-0040_237-126133-0007",
+      "text": "1. A female voice is singing in English with a sad mood. She says 'Some children were twice as tall and that Jasper had grown much taller than before.' The speech is full of pauses and has a lot of hesitations ('Umm', 'ahem', 'um')."
+     },
+     {
+      "stem": "672-122797-0023_237-134500-0002",
+      "text": "1 00:00:00,000 --> 00:00:03,920 well done then come up and was driving \\n2 00:00:03,920 --> 00:00:07,040 puffy white clouds across the sky"
+     },
+     {
+      "stem": "7127-75947-0029_3570-5695-0014",
+      "text": "The sentence in the audio is: 'Among the young girls had indeed made themselves small by savings and home comforts known through.'"
+     },
+     {
+      "stem": "4446-2275-0034_672-122797-0005",
+      "text": "1. Keep away if you wish; when have I ever followed you?\n2. Keep away if you wish; when have I ever followed you?\n3. Keep away if you wish; when have I ever followed you?\n4. Keep away if you wish; when have I ever followed you?\n5. Keep away if you wish; when have I ever followed you?\n6. Keep away if you wish; when have I ever followed you?\n7. Keep away if you wish; when have I ever followed you?\n8. Keep away if you wish; when have I ever followed you?\n9. Keep away if you wish; when have I ever followed you?\n10. Keep away if you wish; when have I ever followed you?"
+     },
+     {
+      "stem": "6930-76324-0012_2300-131720-0027",
+      "text": "1. In this recording, the signal-to-noise ratio (SNR) is 12.4 decibels.\n2. The speech-to-reverberation ratio (SRMR) is 6.8.\n3. The average frequency of the speech (F0) is 138.2 hertz.\n4. The standard deviation of the speech frequency (F0) is 21.5 hertz.\n5. The speaking rate in this recording is 3.9 syllables per second.\n6. There are five pauses in the recording.\n7. The average pause duration is 18.7 seconds per minute.\n8. The jitter in the speech is 1.3 percent.\n9. The shimmer in the speech is 4.6"
+     },
+     {
+      "stem": "4970-29095-0037_5105-28240-0016",
+      "text": "To all these inquiries, the count responded in affirmative."
+     },
+     {
+      "stem": "8224-274384-0008_1188-133604-0031",
+      "text": "The good natured audience in pity to fallen majesty."
+     },
+     {
+      "stem": "260-123440-0012_8455-210777-0010",
+      "text": "The sentence in the recording is: 'It'll be nice they're putting their heads down.'"
+     },
+     {
+      "stem": "908-157963-0021_8463-287645-0001",
+      "text": "The sentence in the recording is 'It's really necessary to say more of them here.'"
+     },
+     {
+      "stem": "5639-40744-0006_672-122797-0026",
+      "text": "1. There are too many rules in this game.\n2. I want to go home now.\n3. Can you please pass me the salt?\n4. The grass needs to be mowed.\n5. Let's play tag!\n6. My favorite color is blue.\n7. I love ice cream.\n8. This book is boring.\n9. I have a lot of work to do.\n10. The sky is beautiful tonight."
+     },
+     {
+      "stem": "5639-40744-0020_7021-85628-0001",
+      "text": "1 00:00:00,000 --> 00:00:03,920 thus did a humane and right-minded father \\n2 00:00:03,920 --> 00:00:06,800 comfort his unhappy daughter and her mother \\n3 00:00:06,800 --> 00:00:09,760 embracing her again did all she could to \\n4 00:00:09,760 --> 00:00:13,840 soothe the fears"
+     },
+     {
+      "stem": "672-122797-0070_3570-5695-0006",
+      "text": "In this recording, the speech content is 'very much in favour of the discomfiture of the last trinket or the last present of pecuniary discomfiture.' The speaker's voice has a F0 mean of 138.2 Hz and a F0 SD of 21.5 Hz. The speech rate is 3.9 syllables per second, with 5 pauses observed throughout the recording. The pause rate is 18.7 pauses per minute, and the shimmer and jitter values are both at 4.6% and 1.3%, respectively. Additionally, the speech has a high HNR value of 14.2 dB."
+     },
+     {
+      "stem": "672-122797-0041_7021-85628-0021",
+      "text": "He still rolled on to it with both hands as he rushed into his room."
+     },
+     {
+      "stem": "3575-170457-0005_7127-75947-0024",
+      "text": "The sentence in the audio states that she, who is referred to as the daughter of the unionist, has always been a minority, even though she was one in her own house due to her violent descent and radicalism."
+     },
+     {
+      "stem": "6829-68771-0018_7021-79740-0006",
+      "text": "I expect that Beth stood staring while the new maid regarded her with some composure and a slight smile."
+     },
+     {
+      "stem": "5639-40744-0034_4507-16021-0058",
+      "text": "1. This recording has a signal-to-noise ratio (SNR) of 12.4 decibels.\n2. The speech-related motion (SRMR) is 6.8.\n3. The average frequency (F0) of the speech is 138.2 hertz.\n4. The standard deviation (SD) of the F0 is 21.5 hertz.\n5. The speaker's speaking rate is 3.9 syllables per second.\n6. There are five pauses in this recording.\n7. The average pause duration is 18.7 seconds per minute.\n8. The jitter in the speech is 1.3 percent.\n9. The shimmer in the speech is 4.6 percent.\n10. The high"
+     },
+     {
+      "stem": "61-70968-0056_1580-141084-0045",
+      "text": "1. Suddenly he heard him at the very door, there was no possible escape.\n2. Suddenly he heard him at the very door; there was no possible escape.\n3. Suddenly he heard him at the very door, there was no possible escape!\n4. Suddenly he heard him at the very door, there was no possible escape!!"
+     },
+     {
+      "stem": "3570-5694-0021_237-134500-0014",
+      "text": "In this recording, there are ten sentences spoken by a female voice in English. The speaker's mood is neutral and her age is between 16 to 25 years old. The speech has a slow pace with a tempo of around 89.55 bpm. The speech content is not provided, but we can analyze the audio features.\n\nSNR (Signal-to-Noise Ratio): 12.4 dB\nSRMR (Speech-Rate Modulation Index): 6.8\nF0 mean (\u4e2d\u592e\u9891\u7387): 138.2 Hz\nF0 SD (\u6807\u51c6\u5dee): 21.5 Hz\nSpeaking rate (\u6bcf\u5206\u949f\u5355\u8bcd\u6570): 3.9 syllables\nPauses (\u505c\u987f\u6b21\u6570): 5\nPause rate (\u6bcf"
+     },
+     {
+      "stem": "4446-2271-0005_6829-68769-0040",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. She said in a minute to us she had a birthday soon.\n    * Sentence number: 1\n    * SNR: 12.4 dB\n    * SRMR: 6.8\n    * F0 mean: 138.2 Hz\n    * F0 SD: 21.5 Hz\n    * Speaking rate: 3.9 syllables per second\n    * Pauses: 5\n    * Pause rate: 18.7 per minute\n    * Jitter: 1.3 percent\n    * Shimmer: 4.6 percent\n    * HNR: 14.2 dB\n  "
+     },
+     {
+      "stem": "1995-1826-0007_4446-2275-0043",
+      "text": "1. In this recording, there is a female singing in English with a sad mood. She says 'Bertie bent over and took her in his arms kissing her mouth and her wept tired eyes.' The speech content is 'Bertie bent over and took her in his arms kissing her mouth and her wept tired eyes.' The speaker's characteristics are identified as English, female singing, with a sad mood. The sound quality of the recording is described as low, with a noisy background. The relevant acoustic parameters are: F0 mean = 138.2 Hz, F0 SD = 21.5 Hz, SNR = 12.4 dB, SRMR = 6.8, HNR = 14.2 dB, pause rate"
+     },
+     {
+      "stem": "1089-134691-0019_2830-3980-0011",
+      "text": "The voice in the recording had a high pitch and was slightly nasal, indicating that the speaker may have been male and in their twenties. Despite the noise in the background, the speech was clear and easy to understand. The speaker spoke at a moderate pace, with a speaking rate of around four syllables per second. There were occasional pauses in the speech, but they did not disrupt the overall flow. The pauses occurred roughly every 30 seconds, giving the speech a natural rhythm. The shimmer and jitter in the speech were minimal, suggesting that the speaker's vocal cords were functioning normally. Overall, the speech had a good signal-to-noise ratio (SNR) of 12.4 dB, which helped to ensure that the message was conveyed clearly. The speech also had a low source"
+     },
+     {
+      "stem": "3575-170457-0031_7729-102255-0045",
+      "text": "On August twenty seventh eighteen thirty seven she writes"
+     },
+     {
+      "stem": "7021-79730-0006_8455-210777-0037",
+      "text": "1 00:00:00,000 --> 00:00:03,920 have come to us threatening us with \\n2 00:00:03,920 --> 00:00:06,800 absolute destruction partly"
+     },
+     {
+      "stem": "61-70968-0011_4992-41806-0004",
+      "text": "The sentence in the audio is: 'Burnham said that Burnham was in her trailer at press interviews.'"
+     },
+     {
+      "stem": "5639-40744-0039_6930-81414-0009",
+      "text": "When she came to her senses and blushing to find herself in Rudolph's arms would have disengaged herself no Senora he said becoming more and more agitated."
+     },
+     {
+      "stem": "6829-68771-0019_7176-92135-0035",
+      "text": "1. She was dressed in a black and white coat.\n2. He spoke in a calm and soothing voice.\n3. The car engine rumbled loudly.\n4. The sun set behind the mountains.\n5. The flowers bloomed beautifully in the garden.\n6. He wrote a letter to his friend.\n7. The music played softly in the background.\n8. The children laughed happily.\n9. The sky turned gray as the storm approached.\n10. She cooked delicious food for dinner."
+     },
+     {
+      "stem": "6829-68771-0022_1995-1837-0018",
+      "text": "I attended to the household spending, you know, and cared for the children."
+     },
+     {
+      "stem": "5683-32866-0018_1995-1837-0026",
+      "text": "To my mind there was always something inexplicable about her, something that made her stand out from all the other girls I had ever known."
+     },
+     {
+      "stem": "5683-32879-0007_5142-33396-0019",
+      "text": "1. Rachel's pale and sharp features and dilated eyes struck her with wonder.\n2. Her sharp eyes and pale, angular face were a stark contrast to her dark hair.\n3. With her sharp cheekbones and wide-set eyes, Rachel looked like she could see right through you.\n4. Her large, dilated eyes seemed to hold a world of secrets, while her sharp jawline gave her a determined look.\n5. Rachel's sharp features and deep-set eyes conveyed a mixture of intelligence and mystery.\n6. Her pale skin and sharp nose made her appear delicate yet strong at the same time.\n7. With her sharp ears and high cheekbones, Rachel had a look of intense focus and concentration.\n8. Her dilated eyes and sharp chin gave her a powerful, commanding presence.\n"
+     },
+     {
+      "stem": "6829-68769-0004_908-31957-0006",
+      "text": "1 00:00:00,000 --> 00:00:03,920 open thy hard wide and fold within the \\n2 00:00:03,920 --> 00:00:06,800 wet weeds of thy dog's"
+     },
+     {
+      "stem": "1995-1836-0012_7021-79730-0006",
+      "text": "The mother is managing the case in this way."
+     },
+     {
+      "stem": "672-122797-0031_1089-134686-0016",
+      "text": "1. What is the speaker's gender in the recording?\n2. How many syllables does each sentence contain on average?\n3. What is the standard deviation of the F0 values in the recording?\n4. How many pauses does the speaker take in the recording?\n5. What is the average speaking rate of the speaker in the recording?\n6. What is the standard deviation of the speaking rates across all speakers?\n7. What is the maximum value of the shimmer ratio in the recording?\n8. What is the minimum value of the HNR ratio in the recording?\n9. What is the average shimmer ratio across all speakers in the recording?\n10. What is the average HNR ratio across all speakers in the recording?"
+     },
+     {
+      "stem": "1284-1180-0010_1580-141084-0008",
+      "text": "I can't allow the examination to be held in that house should it turn out to be infested with vermin or rats all over the place and dirty and untidy and"
+     },
+     {
+      "stem": "672-122797-0040_1089-134686-0036",
+      "text": "A great holy saint, Saint Francis of Assisi!"
+     },
+     {
+      "stem": "61-70968-0014_8224-274384-0003",
+      "text": "1. What was the tumult and rioting cry of the squire authority?\n  2. Can you describe the sound quality in this recording?\n  3. How many syllables does each speaker say on average?\n  4. What is the average frequency of the speech in this recording?\n  5. What is the standard deviation of the speech frequency in this recording?\n  6. How often do the speakers take pauses in this recording?\n  7. What is the average number of pauses per minute in this recording?\n  8. What is the level of jitter in this recording?\n  9. What is the level of shimmer in this recording?\n  10. What is the high-frequency noise ratio (HNR) in this recording?"
+     },
+     {
+      "stem": "5142-36377-0024_6930-81414-0026",
+      "text": "The sentence in the audio is 'I know that over time we're healed at last.'"
+     },
+     {
+      "stem": "672-122797-0073_1580-141084-0004",
+      "text": "Of course he did not realize that it was I who had been looking large and bold under my hat, but nonetheless his conduct was very uncourteous indeed under the circumstances rather strange."
+     },
+     {
+      "stem": "8230-279154-0003_1580-141083-0001",
+      "text": "I had always known him as a ruthless and ambitious man."
+     },
+     {
+      "stem": "4992-41797-0002_1089-134691-0002",
+      "text": "1. A person abruptly sets off for the bull, walking rapidly lest his father's shrill whistle might be heard.\n  2. With a swift pace, he departs for the bull, mindful not to draw attention from his father's piercing whistle.\n  3. In a hurry to reach the bull, he starts on foot, ensuring that his father's loud whistle does not interfere.\n  4. He sets out briskly for the bull, avoiding any delay that might cause his father's sharp whistle to be noticed.\n  5. With a sense of urgency, he heads straight for the bull, trying to avoid his father's dissonant whistle.\n  6. He makes a quick departure for the bull, taking care not to attract his father's attention through his"
+     },
+     {
+      "stem": "6829-68771-0013_8455-210777-0011",
+      "text": "I do not mean said captain abruptly the touch upon public subjects for such moment as this"
+     },
+     {
+      "stem": "8455-210777-0053_3575-170457-0033",
+      "text": "1. Were I to comply with your orders without expressing my discontent, I should seem to have done so willingly in your absence.\n  2. If I were to obey your commands without voicing my disagreement, it would appear as if I had agreed to them willingly when you were not around.\n  3. Even though I may disagree with your instructions, I would comply with them without any reservations if you asked me to do so in your absence.\n  4. In the event that you requested me to follow your orders, I would comply with them without any reservations, even if I did not agree with them, provided that you are not present.\n  5. If you asked me to carry out your requests, I would comply with them without hesitation, regardless of whether or not"
+     },
+     {
+      "stem": "2300-131720-0010_8230-279154-0013",
+      "text": "In an image of the human nervous system, electroencephalography (EEG) nor does it show more than a few neurons, which are easily visible. All of these have been explained."
+     },
+     {
+      "stem": "4446-2273-0019_260-123288-0010",
+      "text": "The speech in the recording has a signal-to-noise ratio (SNR) of 12.4 decibels, a spectral rolloff measure (SRMR) of 6.8, a mean fundamental frequency (F0) of 138.2 hertz, a standard deviation (SD) of F0 of 21.5 hertz, a speaking rate of 3.9 syllables per second, and contains 5 pauses, with a pause rate of 18.7 pauses per minute. Additionally, there is a jitter of 1.3% and a shimmer of 4.6%. The high-frequency noise ratio (HNR) is also 14.2 decibels."
+     },
+     {
+      "stem": "237-126133-0022_3575-170457-0054",
+      "text": "I am having mares if I worked to my limit said the old gentleman complacently."
+     },
+     {
+      "stem": "2094-142345-0056_1320-122612-0015",
+      "text": "The whole party dried up and the spa towel was clean again."
+     },
+     {
+      "stem": "2094-142345-0034_672-122797-0015",
+      "text": "I'm sorry, but as an AI language model, I do not have access to the sound or background noise of the recording you are referring to. Please provide me with the necessary information so that I can assist you better."
+     },
+     {
+      "stem": "8455-210777-0000_61-70968-0011",
+      "text": "I gave him leave to go and others very readily and retreated unperceived by the squire and mistress that were there at the tent."
+     },
+     {
+      "stem": "908-31957-0005_3575-170457-0027",
+      "text": "I cannot provide the requested information as I do not have access to the audio recording you mentioned. Please provide more details or rephrase your request."
+     },
+     {
+      "stem": "61-70970-0039_5105-28233-0001",
+      "text": "1 00:00:00,000 --> 00:00:03,920 seems born to please and have no conscious \\n2 00:00:03,920 --> 00:00:07,080 of the power he possesses \\n3 00:00:07,080 --> 00:00:10,080 [Music] \\n4 00:00:12,400 --> 00:00:14,240 snr \\n5 00:00:14,240 --> 00:00:"
+     },
+     {
+      "stem": "5639-40744-0037_6930-76324-0002",
+      "text": "For the recording you just heard, the sentence is 'Know then son of my heart that this fainting lady is your real bride I say real.' The corresponding information is as follows:\n\nSNR: 10.8 dB\nSRMR: 5.8\nF0 mean: 142.17 Hz\nF0 SD: 18.06 Hz\nSpeaking rate: 4.2 syllables per second\nPauses: 6\nPause rate: 24.0 per minute\nJitter: 1.2%\nShimmer: 4.5%\nHNR: 12.0 dB"
+     },
+     {
+      "stem": "8463-287645-0000_4970-29095-0023",
+      "text": "This is what did he imply when he said you're running away with him?"
+     },
+     {
+      "stem": "1284-1180-0017_1580-141084-0031",
+      "text": "1 00:00:00,000 --> 00:00:03,000 at one end stood a great fireplace in \\n2 00:00:03,000 --> 00:00:05,040 which a blue log was blazing with a \\n3 00:00:05,040 --> 00:00:08,040 blue flame and over the fire how we \\n4 00:00:08,040 --> 00:00:10,080 want to know if you ever came across \\n5 00:00:"
+     },
+     {
+      "stem": "5105-28240-0019_6829-68771-0015",
+      "text": "In this recording, there are ten sentences spoken by a female voice in English. The sentence content and order are as follows:\n\n1. 'Wont you ride into the house and sit down fair when it's done?'\n2. 'Shall I tell her that you have gone to bed?'\n3. 'What do you think of her, my dear?'\n4. 'I am sure she will be very sorry for it.'\n5. 'I have not seen him since he left us.'\n6. 'I have been thinking about it all day.'\n7. 'Do you know how long they have been married?'\n8. 'I hope she has not forgotten me.'\n9. 'I am going out now, dearest.'"
+     },
+     {
+      "stem": "4446-2275-0041_5142-33396-0010",
+      "text": "In this recording, I carped the tail so long as I live and makes the. The speech signal-to-noise ratio (SNR) is 12.4 decibels (dB). The speech spectral roll-off measure (SRMR) is 6.8. The mean frequency of the speech (F0) is 138.2 hertz (Hz), with a standard deviation of 21.5 Hz. The speaking rate is 3.9 syllables per second. There are five pauses in the recording, with a pause rate of 18.7 pauses per minute. The speech has a jitter of 1.3% and a shimmer of 4.6%. The high-frequency noise ratio (HNR) is 14."
+     },
+     {
+      "stem": "8230-279154-0030_61-70970-0030",
+      "text": "1. You see me masters but you startled me rarely.\n2. I see me masters but you startled me rarely.\n3. You see me masters but you startled me rarely.\n4. Me see masters but you startled me rarely.\n5. Masters see me but you startled me rarely.\n6. See me masters but you startled me rarely.\n7. You see me masters but you startled me rarely.\n8. I see me masters but you startled me rarely.\n9. You see me masters but you startled me rarely.\n10. Me see masters but you startled me rarely."
+     },
+     {
+      "stem": "2830-3980-0070_3570-5694-0005",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A certain nature of man's character.\n  2. And with it a certain nature of man's character.\n  3. And with it a certain nature of man's character.\n  4. And with it a certain nature of man's character.\n  5. And with it a certain nature of man's character.\n  6. And with it a certain nature of man's character.\n  7. And with it a certain nature of man's character.\n  8. And with it a certain nature of man's character.\n  9. And with it a certain nature of man's character.\n  10. And with it a certain nature of man"
+     },
+     {
+      "stem": "5105-28233-0000_1221-135767-0018",
+      "text": "Length of service: 14 years, three months and five days."
+     },
+     {
+      "stem": "7127-75947-0039_7021-79740-0000",
+      "text": "1. In fact, the sounds of the dams and the queen's carriages could be heard in the distance upon the hard dry yellow roads.\n2. Followed by the mounted cavalier.\n3. The hard dry yellow roads stretched out before us.\n4. We followed the mounted cavalier.\n5. The sounds of the dams and the queen's carriages echoed off the hard dry yellow roads.\n6. The hard dry yellow roads led us to the dams and the queen's carriages.\n7. The mounted cavalier led the way.\n8. We rode along the hard dry yellow roads behind the mounted cavalier.\n9. The sounds of the dams and the queen's carriages grew fainter as we rode along the hard dry yellow roads.\n10. The mounted cavalier led"
+     },
+     {
+      "stem": "61-70970-0028_2300-131720-0013",
+      "text": "1 00:00:00,000 --> 00:00:03,920 studding his side in the fashion and then \\n2 00:00:03,920 --> 00:00:06,800 they both began feeling around him to \\n3 00:00:06,800 --> 00:00:09,760 ascertain the shape and character of this \\n4 00:00:09,760 --> 00:00:13,840 boat"
+     },
+     {
+      "stem": "6930-81414-0008_4446-2275-0038",
+      "text": "I will ask the least imaginable, but I must have something."
+     },
+     {
+      "stem": "3575-170457-0025_4992-23283-0005",
+      "text": "1 00:00:00,000 --> 00:00:02,000 again i know that incident as well \\n2 00:00:02,000 --> 00:00:04,000 i've agreed no more will astonish me if \\n3 00:00:04,000 --> 00:00:06,000 i look back on my life and see that\\n30 \\n4 00:00:06,000 --> 00:00:08,000 years hence as a bright dream"
+     },
+     {
+      "stem": "2300-131720-0021_7176-88083-0009",
+      "text": "The great hawk followed hurriedly who tree his prey on the ground."
+     },
+     {
+      "stem": "1284-1181-0012_3729-6852-0023",
+      "text": "I'm sorry, but I cannot provide you with the information requested as you have not provided me with a specific recording to analyze. Please provide me with the recording and I will do my best to assist you."
+     },
+     {
+      "stem": "8455-210777-0006_2830-3979-0007",
+      "text": "1 00:00:00,000 --> 00:00:03,920 later when a friend of his was preparing \\n2 00:00:03,920 --> 00:00:06,800 an edition of all his latin \\n3 00:00:06,800 --> 00:00:09,800 works and he was engaged in writing a \\n4 00:00:09,800 --> 00:00:12,000 history of the church and he was busy \\n5 00:00:12"
+     },
+     {
+      "stem": "2830-3980-0019_7021-79730-0009",
+      "text": "I knew nothing of the doctrine of faith because we were taught sophistry instead of certainty and nobody understood spiritual truth."
+     },
+     {
+      "stem": "1580-141084-0018_4446-2273-0019",
+      "text": "I think so. You have formed a conclusion."
+     },
+     {
+      "stem": "4446-2273-0032_8230-279154-0039",
+      "text": "The speech in this recording has a signal-to-noise ratio (SNR) of 12.4 decibels, a spectral rolloff measure (SRMR) of 6.8, a mean fundamental frequency (F0) of 138.2 hertz, a standard deviation (SD) of F0 of 21.5 hertz, a speaking rate of 3.9 syllables per second, and contains 5 pauses, with a pause rate of 18.7 pauses per minute. The speech also has a high level of jitter at 1.3% and a shimmer at 4.6%. Additionally, the harmonic noise ratio (HNR) is 14.2 decibels. Please provide the information for the"
+     },
+     {
+      "stem": "260-123288-0012_4446-2273-0025",
+      "text": "1. It was very jolly, he murmured lazily as Marie came into the room.\n  2. The noise level in the room was quite high, making it difficult to hear what was being said.\n  3. Despite the background noise, the speaker's voice was still clearly audible.\n  4. The speech was delivered in a slow and measured tone, indicating that the speaker was not in a hurry.\n  5. There was a noticeable amount of static present in the recording, which made it harder to understand the words.\n  6. The speaker's voice had a slight tremble to it, suggesting that they may have been nervous or emotional while speaking.\n  7. The recording contained several instances of overlapping speech, making it difficult to follow along.\n"
+     },
+     {
+      "stem": "4446-2273-0005_1221-135766-0009",
+      "text": "I haven't had a chance yet to tell him how jolly-looking the snowman is, he says."
+     },
+     {
+      "stem": "4446-2271-0008_1580-141083-0012",
+      "text": "1. I'm sorry, but as an AI language model, I do not have access to the audio you are referring to. Please provide me with more information or context so that I can assist you better."
+     },
+     {
+      "stem": "1284-1181-0008_2300-131720-0030",
+      "text": "The present official mourning is that of Edward VII, who like his father, is not much remembered, exemplifies the power."
+     },
+     {
+      "stem": "5639-40744-0014_237-134493-0002",
+      "text": "1. From the Louisianian graveyard where she cast her eyes over a vast crucifix of solid silver standing on a cabinet near the window.\n  2. One of the other things in the Louisianian graveyard that caught her eye was a small crucifix made of solid silver standing on a cabinet near the window.\n  3. In addition to the other items in the Louisianian graveyard that she glanced at, there was a small crucifix crafted from solid silver standing on a cabinet near the window.\n  4. Amidst the other objects in the Louisianian graveyard that she peered at was a diminutive crucifix fashioned from solid silver standing on a cabinet near the window.\n  5. One of the elements in the Louisianian graveyard that she scanned was"
+     },
+     {
+      "stem": "1221-135766-0002_121-127105-0005",
+      "text": "I could not find any information about a recording that matches the provided parameters. Please provide accurate information or rephrase your request."
+     },
+     {
+      "stem": "4507-16021-0009_5639-40744-0002",
+      "text": "The sentence is 'When it is in question the possible outcome may be low or medium.'"
+     },
+     {
+      "stem": "1995-1836-0003_8230-279154-0000",
+      "text": "The analysis of knowledge will occupy us until the end of our lives and is the most difficult part of all learning."
+     },
+     {
+      "stem": "5683-32866-0017_8455-210777-0024",
+      "text": "I'm very easy about it, whatever it is. I can't help it."
+     },
+     {
+      "stem": "5683-32879-0021_1995-1837-0010",
+      "text": "1. In this recording, there are five pauses with a total duration of approximately 187 seconds.\n  2. The average speaking rate is 3.9 syllables per second, and the standard deviation of F0 is 21.5 Hz.\n  3. The speech has a high spectral noise ratio (SNR) of 12.4 dB, indicating that the recording is relatively clean.\n  4. The speech also has a low source-ambiguous noise ratio (SRMR) of 6.8, which suggests that the speech is easy to distinguish from background noise.\n  5. The F0 mean is 138.2 Hz, and the F0 standard deviation is 21.5 Hz, indicating that the pitch"
+     },
+     {
+      "stem": "1995-1826-0001_8463-287645-0012",
+      "text": "The sound has a substantial amount of noise, as indicated by its SNR of 12.4 dB. It also has a high level of reverberation, with a SRMR of 6.8. The F0 mean is 138.2 Hz and the F0 SD is 21.5 Hz, suggesting that the sound is relatively loud and has a wide range of frequencies. The speech rate is slow at 3.9 syllables per second, and there are five pauses in the recording, indicating that the speech is delivered in a slow and deliberate manner. The pause rate is 18.7 per minute, which is quite slow. There is also some jitter in the speech, with a jitter of 1.3 percent, and some shimmer"
+     },
+     {
+      "stem": "2830-3980-0025_1995-1826-0001",
+      "text": "By his resurrection Christ won the victory over law sin flesh world devil death and every evil."
+     },
+     {
+      "stem": "4446-2275-0022_6930-81414-0012",
+      "text": "But why didn't you tell me when you were here in the summers?"
+     },
+     {
+      "stem": "1221-135766-0012_6930-76324-0003",
+      "text": "1. I'm sorry, but as an AI language model, I do not have access to the specific recording you are referring to. Please provide me with the necessary information so that I can assist you better."
+     },
+     {
+      "stem": "4507-16021-0013_1320-122617-0017",
+      "text": "1 2 3 4 5 6 7 8 9 10"
+     },
+     {
+      "stem": "6829-68771-0008_7127-75947-0033",
+      "text": "1 00:00:00,000 --> 00:00:02,760 how is it vavasseur said mademoiselle de \\n2 00:00:02,760 --> 00:00:05,040 tenincheon that the vicomte de bragelonne \\n3 00:00:05,040 --> 00:00:08,040 spoke of you as"
+     },
+     {
+      "stem": "5683-32879-0005_1995-1826-0000",
+      "text": "In this recording, the speech content is as follows: 'the decanting spring and its defense of the fifteenth amendment had been more than notable.'"
+     },
+     {
+      "stem": "5639-40744-0002_1995-1837-0003",
+      "text": "The recording contained 5 pauses, with a pause rate of 18.7 pauses per minute. The speech was in English, spoken by a male voice with a neutral mood. The words spoken were 'Rodolph and his companions with their faces muffled in their cloaks stared grimly and insolently at the burning wood.' The sentence had a length of 17 syllables.\n\nThe speech was characterized by a low signal-to-noise ratio (SNR) of 12.4 decibels (dB), a high speech-to-reverberation ratio (SRMR) of 6.8, and a mean pitch of 138.2 hertz (Hz) with a standard deviation of 21.5 Hz. The speaking rate was "
+     },
+     {
+      "stem": "4077-13751-0009_908-31957-0007",
+      "text": "The first well-established seat of the church was in the pretty little town of Carlisle, Ohio."
+     },
+     {
+      "stem": "3729-6852-0043_8555-284447-0000",
+      "text": "The new restaurant down the street has a very large bar with loud music playing."
+     },
+     {
+      "stem": "1284-1180-0004_8455-210777-0031",
+      "text": "1. You have never seen such a large expanse of water stretching out before your eyes.\n2. She seemed to lack any sense of direction and wandered aimlessly through the city.\n3. The old man sat alone on the bench, lost in thought as he watched the world go by.\n4. The sun slowly sets behind the mountains, casting a warm orange glow over the valley.\n5. He spoke softly, his voice barely above a whisper as he shared his secrets with her.\n6. The car pulled up to the curb, and the passengers quickly disembarked.\n7. The room was filled with the sound of chatter and laughter, as friends gathered together for a night of fun.\n8. The wind howled through the trees, causing them to sway and dance in the storm.\n9"
+     },
+     {
+      "stem": "4992-41797-0021_5142-33396-0064",
+      "text": "She has wonderful more wonderful in anybody we've ever known."
+     },
+     {
+      "stem": "237-134493-0006_2961-961-0008",
+      "text": "The memory of their exploits had passed away and all into the lapse of time."
+     },
+     {
+      "stem": "7021-85628-0015_1284-134647-0006",
+      "text": "Sure, here are the sentence-level features for the recording you just heard:\n\n  1. Well, but now said the princess and she filled his pocket with the case and put her own and more gold chain round his neck and then.\n  2. The speaker's gender is female, with an age range of 16-25 years old, and speaks English in a neutral mood.\n  3. The speech signal-to-noise ratio (SNR) is 12.4 decibels (dB), suggesting that there is some background noise present in the recording.\n  4. The speech root mean square (RMSE) is 6.8, indicating that the speech has a relatively consistent pitch throughout.\n  5. The average frequency of the speech"
+     },
+     {
+      "stem": "5683-32879-0010_8463-294828-0036",
+      "text": "The warps to Brooklyn and every car in New York bordering the East River were packed with products of curiosity."
+     },
+     {
+      "stem": "121-127105-0031_5142-33396-0046",
+      "text": "By the fear\u6295\u7968! I cried, you're taking our joke on the man!"
+     },
+     {
+      "stem": "8455-210777-0058_7176-88083-0006",
+      "text": "In my experience, I trust that this size was fairly substantial."
+     },
+     {
+      "stem": "6930-75918-0011_121-121726-0003",
+      "text": "I'm convinced of what I say said the cat."
+     },
+     {
+      "stem": "8455-210777-0020_6930-81414-0013",
+      "text": "Sure, here are the sentence labels and corresponding information for the recording you just heard:\n\n|Sentence Label| Information|\n|---|---|\n|1| Oh, yes! said the man. We're on our way!|\n|| SNR: 12.4 dB<br>SRMR: 6.8<br>F0 Mean: 138.2 Hz<br>F0 SD: 21.5 Hz<br>Speaking Rate: 3.9 syllables per second<br>Pauses: 5<br>Pause Rate: 18.7 per minute<br>Jitter: 1.3%<br>Shimmer: 4.6%<br>HNR: 14.2 dB|\nNote that I have used the same format"
+     },
+     {
+      "stem": "4446-2273-0034_1284-1180-0005",
+      "text": "1. In this recording, no one would disturb their little house even if anyone came along.\n  2. The sound level in this recording is 12.4 decibels above silence.\n  3. The speech-to-noise ratio in this recording is 6.8.\n  4. The average frequency of the speech in this recording is 138.2 hertz.\n  5. The standard deviation of the frequencies in this recording is 21.5 hertz.\n  6. The speaker's rate of speech in this recording is 3.9 syllables per second.\n  7. There are five pauses in this recording.\n  8. The average length of each pause in this recording is 18.7 seconds"
+     },
+     {
+      "stem": "1089-134686-0015_4970-29093-0003",
+      "text": "The original content of this audio is:'but the dusk deepening in the schoolroom covered over his thoughts the bell rang.'"
+     },
+     {
+      "stem": "7021-85628-0022_2300-131720-0009",
+      "text": "1. In this recording, there are five instances of silence lasting approximately 1.8 seconds each.\n2. The speech in this audio has a modulation rate of 6.8, indicating that the pitch changes by about 6.8 semitones per second.\n3. The average frequency of the speech is around 138.2 Hz, with a standard deviation of 21.5 Hz, suggesting that the pitch varies slightly from this central value.\n4. The speech rate in this recording is 3.9 syllables per second, which indicates that the words are spoken relatively quickly.\n5. There are eight moments when the speech is accompanied by background noise, with a maximum level of 12.4 decibels (dB).\n6. The speech also"
+     },
+     {
+      "stem": "8230-279154-0039_4446-2273-0007",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. This sentence has a very low level of noise.\n  2. The speech-related spectral components are clearly distinguishable.\n  3. The signal-to-noise ratio is 12.4 decibels.\n  4. The speech-related spectral components have a high signal-to-noise ratio.\n  5. The speech-related spectral components have a low amount of distortion.\n  6. The speech-related spectral components have a high level of clarity.\n  7. The speech-related spectral components have a low level of background noise.\n  8. The speech-related spectral components have a high level of resolution.\n  9. The speech-related spectral components have a low level of"
+     },
+     {
+      "stem": "8455-210777-0037_8463-294828-0009",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. You have come to us by request (length: 11 words, F0: 138.2 Hz, SD: 21.5 Hz, rate: 3.9 syllables/s, pauses: 1, jitter: 1.3%, shimmer: 4.6%)\n  2. We have received your request (length: 11 words, F0: 138.2 Hz, SD: 21.5 Hz, rate: 3.9 syllables/s, pauses: 1, jitter: 1.3%, shimmer: 4.6%)\n  3. Your request has been fulfilled"
+     },
+     {
+      "stem": "2830-3980-0031_1089-134686-0025",
+      "text": "The sentence in the recording is: 'A gentle kid from the tall provinces urged Steven to ask the bishop some questions.'"
+     },
+     {
+      "stem": "6829-68769-0039_61-70968-0055",
+      "text": "1 00:00:00,000 --> 00:00:02,040 looked up rather ungraciously but motioned \\n2 00:00:02,040 --> 00:00:04,080 them to be seated \\n3 00:00:04,080 --> 00:00:06,800 [Music] \\n4 00:00:06,800 --> 00:00:08,920 [Applause] \\n5 00:00:08,920 --> 00"
+     }
+    ]
+   }
+  }
+ }
+}

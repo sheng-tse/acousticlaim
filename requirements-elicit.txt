@@ -1,0 +1,7 @@
+# Extras for the elicitation scripts. Scoring the released outputs needs numpy and scipy alone.
+torch==2.11.0
+transformers==5.5.3
+accelerate>=1.0
+numpy>=1.24
+soundfile>=0.12
+google-genai>=1.0  # scripts/elicit_gemini.py

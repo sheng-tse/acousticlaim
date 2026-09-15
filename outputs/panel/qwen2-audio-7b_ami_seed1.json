@@ -1,0 +1,2462 @@
+{
+ "system": "Qwen2-Audio-7B",
+ "model_id": "Qwen/Qwen2-Audio-7B-Instruct",
+ "corpus": "ami",
+ "seed": 1,
+ "n_clips": 120,
+ "max_new_tokens": 160,
+ "results": {
+  "Qwen2-Audio-7B": {
+   "P0_free": {
+    "prompt": "Describe the recording quality of this audio.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0160471_0160942",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0023009_0023561",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0199684_0200295",
+      "text": "The recording is of low quality and it's noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0037082_0037710",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0205521_0206423",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0025849_0026370",
+      "text": "The recording is of low quality, featuring a monotone female vocal speaking over a wide playback instrumental that consists of groovy bass guitar, punchy kick, shimmering cymbals, and muffled electric guitar melody. It sounds like it's recorded in a large room."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0068895_0069292",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD0010ID_0101447_0101812",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0165829_0166715",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0158196_0158744",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0126301_0127341",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0155631_0155945",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIO084_0052783_0053265",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0063436_0063952",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO087_0042459_0043076",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0148982_0149485",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0190040_0190371",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0025022_0025699",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD0010ID_0155622_0156003",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0071456_0071927",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0013476_0013865",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0172507_0172809",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0057459_0058127",
+      "text": "The recording is of low quality, featuring a monotone male vocal speaking over what can be described as a '40s rock and roll beat,' with an electric guitar playing simple chords, a bass guitar repeating the same pattern as the guitar, and punchy kick and snare hits. The recording is noisy and in mono."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0135522_0136083",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0035355_0036262",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0108057_0109180",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0085039_0085733",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183135_0183441",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0216954_0217512",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0093454_0093931",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD012ME_0168075_0168721",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0076855_0077167",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0137249_0137872",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0148683_0149060",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0226386_0226994",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0016231_0016780",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEO015_0179596_0179920",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0183976_0184292",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0019753_0020065",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0145145_0145782",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0043546_0044062",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0127211_0128210",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0093733_0094033",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0051348_0051744",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0027089_0027568",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0169712_0170288",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEE014_0036119_0036880",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0027036_0027745",
+      "text": "The recording is of low quality, featuring a female speaking in English with a neutral mood. There are some background noises present as well."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0222119_0222777",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160782_0161336",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0026400_0026858",
+      "text": "The recording is of low quality, featuring a noisy environment and multiple people talking simultaneously, making it difficult to hear individual voices clearly."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD011UID_0075919_0076452",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0196176_0196984",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE071_0044972_0045397",
+      "text": "The recording is of low quality and very noisy, featuring a wide angle of a room microphone capturing a crowd talking and laughing."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0122239_0122686",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0040381_0041267",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0152281_0152785",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0044963_0045399",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0146796_0147715",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0218219_0218571",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0129264_0129906",
+      "text": "The recording is of low quality, featuring a flat male vocal talking over some background noise."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0070291_0071373",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0206619_0207514",
+      "text": "The recording is of low quality, featuring a quiet and dull environment with a swinging and resonating sound in the background. The speech is also noisy and muffled."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE071_0144045_0144630",
+      "text": "The recording is of low quality and very noisy, featuring a group of people laughing."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0163884_0164486",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0151479_0152066",
+      "text": "The recording is of low quality and very noisy, almost to the point of being distorted."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0012020_0012646",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEO015_0219578_0219981",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0136202_0136654",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_MEE014_0089370_0089931",
+      "text": "The recording is of low quality, featuring a flat male vocal talking over what sounds like a video game sound. The recording is noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0265828_0266434",
+      "text": "The recording is of low quality, featuring a muffled conversation that's barely audible due to heavy noise."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0068738_0069393",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0190360_0191168",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0051764_0052317",
+      "text": "The recording is of low quality and it's noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0069582_0070774",
+      "text": "The recording is of low quality, featuring a flat male vocal talking over some background noise."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0038740_0039364",
+      "text": "The recording is of low quality, featuring a monotone female vocal speaking over a wide playback instrumental that consists of an echoing electric guitar melody and sustained strings melody. It sounds like it's recorded in a large room."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD012ME_0136138_0136478",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0009603_0010391",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0118872_0119263",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160177_0160605",
+      "text": "The recording is of low quality and very noisy, almost to the point of being distorted."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0139103_0139488",
+      "text": "The recording is of low quality and very noisy, almost to the point of being distorted."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO087_0131316_0132153",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0043448_0043867",
+      "text": "The recording quality is very poor with a lot of noise."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0169604_0169952",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0180250_0180551",
+      "text": "The recording is of low quality and very noisy, almost to the point of being distorted."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0041935_0042279",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEO015_0130021_0130539",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0067520_0067829",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD009PM_0095416_0095856",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0118404_0118899",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0019703_0020121",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0125076_0126004",
+      "text": "The recording is of low quality, featuring a monotonous female voice speaking over a generic impact sound. The recording is noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0131880_0132180",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0021506_0022321",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0092314_0093320",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0012758_0013769",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0014486_0015156",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0005014_0005415",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0085694_0086008",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0090583_0091142",
+      "text": "The recording is of low quality and it's noisy and in mono."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0062874_0064041",
+      "text": "The recording is of low quality, featuring a lot of noise and it sounds like it was recorded with a phone."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0033810_0034240",
+      "text": "The recording is of low quality, featuring a flat male vocal talking over a wide playback instrumental that consists of groovy bass guitar, punchy kick, shimmering cymbals, and short electric guitar licks. It sounds easygoing, chill, and like something you would listen to while chilling at home."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0010963_0011958",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0032552_0032972",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0048678_0048985",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0028144_0028599",
+      "text": "The recording is of low quality and very noisy."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183727_0184471",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0002063_0002511",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0069148_0069726",
+      "text": "The recording is of low quality, featuring a female speaking in English with a sad mood. There are some background noises present as well."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0081740_0082067",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0205438_0205932",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0026135_0026438",
+      "text": "The recording is of low quality, noisy and in mono."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0013037_0013522",
+      "text": "The recording is of low quality and very noisy, almost to the point of being distorted."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0021934_0022335",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0123533_0123878",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0096316_0096672",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0077597_0078132",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0050671_0050993",
+      "text": "The recording is of low quality, mono and noisy."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0097468_0098059",
+      "text": "The recording is of low quality, noisy and mono."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0155341_0156222",
+      "text": "The recording is of low quality, featuring a quiet environment with a single sentence that seems to be spoken by a person with a cold voice."
+     }
+    ]
+   },
+   "P1_numeric": {
+    "prompt": "Describe the recording quality of this audio. Give numeric values where you can.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0160471_0160942",
+      "text": "The recording quality is 8."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0023009_0023561",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0199684_0200295",
+      "text": "The recording quality is 8."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0037082_0037710",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0205521_0206423",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0025849_0026370",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0068895_0069292",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD0010ID_0101447_0101812",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and unclear."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0165829_0166715",
+      "text": "The recording quality is 0 for clarity and 10 for overall quality, indicating it's very clear."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0158196_0158744",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0126301_0127341",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0155631_0155945",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIO084_0052783_0053265",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0063436_0063952",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO087_0042459_0043076",
+      "text": "The recording quality is 0.5."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0148982_0149485",
+      "text": "The recording quality is 7, with a range from 0 (best) to 10 (worst)."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0190040_0190371",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0025022_0025699",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD0010ID_0155622_0156003",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0071456_0071927",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and unclear."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0013476_0013865",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0172507_0172809",
+      "text": "The recording quality is 7 out of 10."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0057459_0058127",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0135522_0136083",
+      "text": "The recording quality is 7, with a range from 0 (low) to 10 (high)."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0035355_0036262",
+      "text": "The recording quality is 7, with some noise present."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0108057_0109180",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0085039_0085733",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183135_0183441",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0216954_0217512",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and unclear."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0093454_0093931",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD012ME_0168075_0168721",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating it is loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0076855_0077167",
+      "text": "The recording quality is 7 out of 10."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0137249_0137872",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0148683_0149060",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0226386_0226994",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0016231_0016780",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEO015_0179596_0179920",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating it is loud and possibly recorded in a noisy environment."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0183976_0184292",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating it is loud and possibly recorded in a noisy environment."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0019753_0020065",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0145145_0145782",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0043546_0044062",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and unclear."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0127211_0128210",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0093733_0094033",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating it is loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0051348_0051744",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0027089_0027568",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating it is loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0169712_0170288",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEE014_0036119_0036880",
+      "text": "The recording quality is 8."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0027036_0027745",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0222119_0222777",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160782_0161336",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0026400_0026858",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD011UID_0075919_0076452",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0196176_0196984",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE071_0044972_0045397",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0122239_0122686",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0040381_0041267",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0152281_0152785",
+      "text": "The recording quality is 7, with a range from 0 (low) to 10 (high)."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0044963_0045399",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0146796_0147715",
+      "text": "The recording quality is 7, with a range from 0 (low) to 10 (high)."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0218219_0218571",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is loud and possibly recorded in a noisy environment."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0129264_0129906",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0070291_0071373",
+      "text": "The recording quality is 5 out of 10, with some noise and it being mono."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0206619_0207514",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE071_0144045_0144630",
+      "text": "The recording quality is 8."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0163884_0164486",
+      "text": "The recording quality is 7."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0151479_0152066",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0012020_0012646",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEO015_0219578_0219981",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0136202_0136654",
+      "text": "The recording quality is 7, with a range from 0 to 10."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_MEE014_0089370_0089931",
+      "text": "The recording quality is 0 for clarity and 10 for being mono, indicating it's loud and muffled."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0265828_0266434",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0068738_0069393",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0190360_0191168",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0051764_0052317",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0069582_0070774",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0038740_0039364",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD012ME_0136138_0136478",
+      "text": "The recording quality is 0 for clarity and 10 for being mono, indicating it's loud and muffled."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0009603_0010391",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0118872_0119263",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160177_0160605",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0139103_0139488",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO087_0131316_0132153",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0043448_0043867",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0169604_0169952",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0180250_0180551",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0041935_0042279",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating it is loud and possibly recorded with low resolution or in low quality."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEO015_0130021_0130539",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0067520_0067829",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD009PM_0095416_0095856",
+      "text": "The recording quality is 0 for clarity and 10 for being mono, indicating it's loud and muffled."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0118404_0118899",
+      "text": "The recording quality is 7 out of 10."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0019703_0020121",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0125076_0126004",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0131880_0132180",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0021506_0022321",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0092314_0093320",
+      "text": "The recording quality is 5 out of 10, with some noise and it being mono."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0012758_0013769",
+      "text": "The recording quality is 7, with a range from 0 (low) to 10 (high)."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0014486_0015156",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0005014_0005415",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating it is very loud and unclear."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0085694_0086008",
+      "text": "The recording quality is 8."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0090583_0091142",
+      "text": "The recording quality is 0.5 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0062874_0064041",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0033810_0034240",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0010963_0011958",
+      "text": "The recording quality is 3/5."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0032552_0032972",
+      "text": "The recording quality is 5 out of 10."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0048678_0048985",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0028144_0028599",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183727_0184471",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0002063_0002511",
+      "text": "The recording quality is 8.5 out of 10."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0069148_0069726",
+      "text": "The recording quality is 7, with a range from 0 (low) to 10 (high)."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0081740_0082067",
+      "text": "The recording quality is 7, with background noise at 3."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0205438_0205932",
+      "text": "The recording quality is 7, with a range from 0 (low) to 10 (high)."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0026135_0026438",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0013037_0013522",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0021934_0022335",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0123533_0123878",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating it's loud and possibly recorded with low fidelity."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0096316_0096672",
+      "text": "The recording quality is 7 on a scale where 0 is very poor and 10 is perfect."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0077597_0078132",
+      "text": "The recording quality is 3 out of 5."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0050671_0050993",
+      "text": "The recording quality is 0 for clarity and 10 for volume, indicating that it is very loud and unclear."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0097468_0098059",
+      "text": "The recording quality is 0 for clarity and 10 for being mono, indicating it's loud and muffled."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0155341_0156222",
+      "text": "The recording quality is 7 on a scale where 10 is the best."
+     }
+    ]
+   },
+   "P2_named": {
+    "prompt": "Report these measured quantities for this recording: the signal-to-noise ratio in dB, the speech-to-reverberation modulation energy ratio, the fundamental frequency mean in Hz, the fundamental frequency standard deviation in Hz, the speaking rate in syllables per second, the number of pauses, the pause rate per minute, the jitter in percent, the shimmer in percent, and the harmonics-to-noise ratio in dB. Give a number for each.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0160471_0160942",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"430\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS_rate\\\": \\\"168\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0023009_0023561",
+      "text": "{\\\"SNR\\\": -20.45, \\\"SRRER\\\": 0.73, \\\"F0_mean\\\": 498.06, \\\"F0_stddev\\\": 3.27, \\\"SRS_rate\\\": 92.0, \\\"PA_count\\\": 12, \\\"PA_rate\\\": 1.53, \\\"Jitter\\\": 10.0, \\\"Shimmer\\\": 10.0, \\\"HRN_ratio\\\": 1.5}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0199684_0200295",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"SRS_rate\\\": \\\"95\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0037082_0037710",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"paseaseq\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0205521_0206423",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"SRS_rate\\\": \\\"95\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0025849_0026370",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"430\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"Speech_rate\\\": \\\"98\\\", \\\"Pauses\\\": \\\"1\\\", \\\"Pause_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"5\\\", \\\"Harmonics_to_noise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0068895_0069292",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"436\\\", \\\"fdist\\\": \\\"10\\\", \\\"srate\\\": \\\"97\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1.01\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD0010ID_0101447_0101812",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1.0\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0165829_0166715",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"F0_mean\\\": \\\"396\\\", \\\"F0_stddev\\\": \\\"4\\\", \\\"Speech_rate\\\": \\\"170\\\", \\\"Pauses\\\": \\\"1\\\", \\\"Pause_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"Harmonics_to_noise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0158196_0158744",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"430\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"98\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"1:16\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0126301_0127341",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0Mean\\\": \\\"470\\\", \\\"F0Deviation\\\": \\\"30\\\", \\\"SRSR\\\": \\\"85\\\", \\\"PAUSEs\\\": \\\"6\\\", \\\"PAMinute\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRatio\\\": \\\"1\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0155631_0155945",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIO084_0052783_0053265",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"473\\\", \\\"fdist\\\": \\\"69\\\", \\\"srate\\\": \\\"150\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"1:15\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0063436_0063952",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRR\\\": \\\"\\\", \\\"F0_mean\\\": \\\"\\\", \\\"F0_stddev\\\": \\\"\\\", \\\"SRS\\\": \\\"\\\", \\\"PAUSE_num\\\": \\\"\\\", \\\"PAUSE_rate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO087_0042459_0043076",
+      "text": "1. The signal-to-noise ratio is 20.54 dB.\n2. The speech-to-reverberation modulation energy ratio is 0.78.\n3. The fundamental frequency mean is 596.04 Hz.\n4. The fundamental frequency standard deviation is 13.26 Hz.\n5. The speaking rate is 173.02 syllables per second.\n6. There are 3 pauses.\n7. The pause rate per minute is 1.86 pauses per minute.\n8. The jitter is 1.5%.\n9. The shimmer is 1.3%.\n10. The harmonics-to-noise ratio is 18.04 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0148982_0149485",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fsd\\\": \\\"45\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prrate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0190040_0190371",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0025022_0025699",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"sre\u793e\u4f1a\u5316\u7387\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"prate\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD0010ID_0155622_0156003",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3.5\n3. Fundamental Frequency Mean (F0): 400 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 89.5 syllables/s\n6. Number of Pauses (NP): 1\n7. Pause Rate (PRM): 0.01 pauses/min\n8. Jitter (JIT): 5%\n9. Shimmer (SHIM): 10%\n10. Harmonics-to-Noise Ratio (HNR): 15 dB"
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0071456_0071927",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRR\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdist\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"paseq\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0013476_0013865",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0172507_0172809",
+      "text": "{\\\"SNR\\\": -3.56, \\\"SRRER\\\": 0.72, \\\"F0_mean\\\": 489.99, \\\"F0_stddev\\\": 3.27, \\\"SRS_rate\\\": 129.99, \\\"PA_count\\\": 1, \\\"PA_rate\\\": 0.00, \\\"Jitter\\\": 10.00, \\\"Shimmer\\\": 10.00, \\\"HRN_ratio\\\": 0.00}"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0057459_0058127",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"SRS\\\": \\\"160\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0135522_0136083",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"436\\\", \\\"fsd\\\": \\\"16\\\", \\\"srate\\\": \\\"92\\\", \\\"pauses\\\": \\\"1\\\", \\\"p\u901f\u7387\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0035355_0036262",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"42\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1.7\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0108057_0109180",
+      "text": "{\\\"SNR\\\": \\\"25\\\", \\\"SRRER\\\": \\\"0.86\\\", \\\"fmean\\\": \\\"473\\\", \\\"fdist\\\": \\\"91\\\", \\\"srate\\\": \\\"153.0\\\", \\\"pauses\\\": \\\"11\\\", \\\"pasear\\\": \\\"1.3\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0085039_0085733",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183135_0183441",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0216954_0217512",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0093454_0093931",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"45\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD012ME_0168075_0168721",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"84\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1.0\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0076855_0077167",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"436\\\", \\\"fdist\\\": \\\"8\\\", \\\"srate\\\": \\\"179\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0137249_0137872",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"p\u901f\u7387\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0148683_0149060",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"436\\\", \\\"fdist\\\": \\\"79\\\", \\\"srate\\\": \\\"150\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1.5\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0226386_0226994",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM ER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdist\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"pasepm\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0016231_0016780",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"Speech_rate\\\": \\\"85\\\", \\\"Pauses\\\": \\\"3\\\", \\\"Pause_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"Harmonics_to_noise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEO015_0179596_0179920",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"175\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0183976_0184292",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"174\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1.5\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0019753_0020065",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"430\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"Speech_rate\\\": \\\"98\\\", \\\"Pauses\\\": \\\"1\\\", \\\"Pause_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"0\\\", \\\"Shimmer\\\": \\\"0\\\", \\\"Harmonics_to_noise\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0145145_0145782",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0043546_0044062",
+      "text": "{\\\"SNR\\\": -3.56, \\\"SRRER\\\": 0.72, \\\"F0_mean\\\": 98.47, \\\"F0_stddev\\\": 1.66, \\\"SRS_rate\\\": 129.99, \\\"PA_count\\\": 1, \\\"PA_rate\\\": 0.00, \\\"Jitter\\\": 10.00, \\\"Shimmer\\\": 10.00, \\\"HRN_ratio\\\": 1.00}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0127211_0128210",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"F0_mean\\\": \\\"473\\\", \\\"F0_stddev\\\": \\\"60\\\", \\\"SRS_rate\\\": \\\"92\\\", \\\"PAUSE_num\\\": \\\"3\\\", \\\"PAUSE_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0093733_0094033",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0051348_0051744",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"473\\\", \\\"fsd\\\": \\\"69\\\", \\\"srate\\\": \\\"150\\\", \\\"pauses\\\": \\\"1\\\", \\\"prrate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0027089_0027568",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"396\\\", \\\"F0_stddev\\\": \\\"4\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.7\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0169712_0170288",
+      "text": "{\\\"SNR\\\": \\\"-20.54\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"396.00\\\", \\\"F0_stddev\\\": \\\"1.98\\\", \\\"SRS\\\": \\\"168.00\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.00\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN\\\": \\\"-10.00\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEE014_0036119_0036880",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0027036_0027745",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"400\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"89\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0222119_0222777",
+      "text": "{\\\"SNR\\\": -20.45, \\\"SRRER\\\": 0.73, \\\"F0_mean\\\": 169.98, \\\"F0_stddev\\\": 3.27, \\\"SRS_rate\\\": 129.99, \\\"PA_count\\\": 1, \\\"PA_rate\\\": 0.00, \\\"Jitter\\\": 10.0, \\\"Shimmer\\\": 10.0, \\\"HRN_ratio\\\": 2.0}"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160782_0161336",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"84\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0026400_0026858",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"480\\\", \\\"fdist\\\": \\\"30\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD011UID_0075919_0076452",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"370\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"Speech_rate\\\": \\\"89\\\", \\\"Pauses\\\": \\\"4\\\", \\\"Pause_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"Harmonics_to_noise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0196176_0196984",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"396\\\", \\\"F0_stddev\\\": \\\"4\\\", \\\"SRS_rate\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.7\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE071_0044972_0045397",
+      "text": "{ \\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"MfMean\\\": \\\"480\\\", \\\"MfStdDev\\\": \\\"60\\\", \\\"SRS\\\": \\\"90\\\", \\\"PAUSEs\\\": \\\"3\\\", \\\"PAMin\\\": \\\"30\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRatio\\\": \\\"10\\\" }"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0122239_0122686",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"300\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"89\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"15\\\", \\\"HNR\\\": \\\"7\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0040381_0041267",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0152281_0152785",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"473\\\", \\\"fsd\\\": \\\"69\\\", \\\"srate\\\": \\\"112\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1.2\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0044963_0045399",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRR\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdist\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"paseq\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0146796_0147715",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"473\\\", \\\"fdist\\\": \\\"69\\\", \\\"srate\\\": \\\"150\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1.5\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0218219_0218571",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"175\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0129264_0129906",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"473\\\", \\\"fdist\\\": \\\"69\\\", \\\"srate\\\": \\\"112\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0070291_0071373",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0Mean\\\": \\\"470\\\", \\\"F0Deviation\\\": \\\"50\\\", \\\"SRS\\\": \\\"89\\\", \\\"PAUSEs\\\": \\\"3\\\", \\\"PAMinute\\\": \\\"1\\\", \\\"Jitter\\\": \\\"10\\\", \\\"Shimmer\\\": \\\"15\\\", \\\"HRatio\\\": \\\"1.5\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0206619_0207514",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"436\\\", \\\"fsd\\\": \\\"7\\\", \\\"srate\\\": \\\"98\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE071_0144045_0144630",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"Speech_rate\\\": \\\"90\\\", \\\"Pauses\\\": \\\"6\\\", \\\"Pause_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"7\\\", \\\"Harmonics_to_noise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0163884_0164486",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"436\\\", \\\"fsd\\\": \\\"16\\\", \\\"srate\\\": \\\"98\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0151479_0152066",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"480\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"93\\\", \\\"pauses\\\": \\\"1\\\", \\\"paseq\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0012020_0012646",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEO015_0219578_0219981",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"400\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"3\\\", \\\"paseq\\\": \\\"1.67\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0136202_0136654",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"120\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_MEE014_0089370_0089931",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"396\\\", \\\"F0_stddev\\\": \\\"4\\\", \\\"SRS\\\": \\\"85\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.75\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0265828_0266434",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"396\\\", \\\"F0_stddev\\\": \\\"48\\\", \\\"Speech_rate\\\": \\\"170\\\", \\\"Pauses\\\": \\\"1\\\", \\\"Pause_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"5\\\", \\\"HRatio\\\": \\\"1\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0068738_0069393",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"45\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1.0\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0190360_0191168",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"SRS_rate\\\": \\\"95\\\", \\\"PA_count\\\": \\\"1\\\", \\\"PA_rate\\\": \\\"0.5\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0051764_0052317",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"400\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"SRS\\\": \\\"80\\\", \\\"PAUSE_num\\\": \\\"3\\\", \\\"PAUSE_rate\\\": \\\"1.67\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRN\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0069582_0070774",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"598\\\", \\\"fdstd\\\": \\\"36\\\", \\\"srate\\\": \\\"84\\\", \\\"pauses\\\": \\\"1\\\", \\\"p\u901f\u7387\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0038740_0039364",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD012ME_0136138_0136478",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0009603_0010391",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM\\\": \\\"\\\", \\\"F0_mean\\\": \\\"\\\", \\\"F0_stddev\\\": \\\"\\\", \\\"SRS\\\": \\\"\\\", \\\"PAUSE_num\\\": \\\"\\\", \\\"PAUSE_rate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0118872_0119263",
+      "text": "{\\\"SNR\\\": \\\"25\\\", \\\"SRR\\\": \\\"0.8\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160177_0160605",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM_ratio\\\": \\\"\\\", \\\"Fundamental_frequencies\\\": {\\\"mean\\\": \\\"\\\", \\\"stddev\\\": \\\"\\\"}, \\\"Speech_rate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"Pause_rate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"Harmonics_to_noise_ratio\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0139103_0139488",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRMER\\\": \\\"\\\", \\\"F0Mean\\\": \\\"\\\", \\\"F0Stdev\\\": \\\"\\\", \\\"SpeechRate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"PauseRate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"HarmonicsToNoise\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO087_0131316_0132153",
+      "text": "{\\\"SNR\\\": \\\"25\\\", \\\"SRR\\\": \\\"0.8\\\", \\\"fmean\\\": \\\"476\\\", \\\"fdist\\\": \\\"30\\\", \\\"srate\\\": \\\"92\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0043448_0043867",
+      "text": "1. Signal-to-Noise Ratio (SNR): 20 dB\n2. Speech-to- Reverberation Modulation Energy Ratio (SREMR): 3\n3. Fundamental Frequency Mean (F0): 450 Hz\n4. Fundamental Frequency Standard Deviation (\u03c3F0): 50 Hz\n5. Speaking Rate (SRS): 80 syllables/s\n6. Number of Pauses (NP): 2\n7. Pause Rate (NPM): 1 pause/min\n8. Jitter (Jitter %): 5%\n9. Shimmer (Shimmer %): 10%\n10. Harmonics-to-Noise Ratio (HNR): 15 dB"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0169604_0169952",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRR\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdist\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"paseq\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0180250_0180551",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"F0_mean\\\": \\\"\\\", \\\"F0_stddev\\\": \\\"\\\", \\\"Speech_rate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"Pause_rate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"Harmonics_to_noise\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0041935_0042279",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"174\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEO015_0130021_0130539",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"400\\\", \\\"fsd\\\": \\\"50\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"3\\\", \\\"p\u901f\u7387\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"7\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0067520_0067829",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"Speech_rate\\\": \\\"160\\\", \\\"Pauses\\\": \\\"4\\\", \\\"Pause_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"8\\\", \\\"Harmonics_to_noise\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD009PM_0095416_0095856",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"480\\\", \\\"fdist\\\": \\\"30\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0118404_0118899",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"400\\\", \\\"fdist\\\": \\\"50\\\", \\\"srate\\\": \\\"89\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0019703_0020121",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"Speech_rate\\\": \\\"95\\\", \\\"Pauses\\\": \\\"1\\\", \\\"Pause_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"Harmonics_to_noise\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0125076_0126004",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"473\\\", \\\"fdist\\\": \\\"69\\\", \\\"srate\\\": \\\"150\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0131880_0132180",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"F0Mean\\\": \\\"\\\", \\\"F0Stdev\\\": \\\"\\\", \\\"SpeechRate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"PauseRate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"HarmonicsToNoise\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0021506_0022321",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdist\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"paseq\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0092314_0093320",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0Mean\\\": \\\"480\\\", \\\"F0Deviation\\\": \\\"30\\\", \\\"SpeechRate\\\": \\\"90\\\", \\\"Pauses\\\": \\\"6\\\", \\\"PauseRate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HarmonicsToNoise\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0012758_0013769",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"paseq\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0014486_0015156",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRM\\\": \\\"\\\", \\\"fmean\\\": \\\"\\\", \\\"fdstd\\\": \\\"\\\", \\\"srate\\\": \\\"\\\", \\\"pauses\\\": \\\"\\\", \\\"paseq\\\": \\\"\\\", \\\"jitter\\\": \\\"\\\", \\\"shimmer\\\": \\\"\\\", \\\"HNR\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0005014_0005415",
+      "text": "{\\\"SNR\\\": \\\"-3.50\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"264.00\\\", \\\"F0_stddev\\\": \\\"1.92\\\", \\\"Speech_rate\\\": \\\"122.00\\\", \\\"Pauses\\\": \\\"11\\\", \\\"Pause_rate\\\": \\\"1.38\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"Harmonics_to_noise\\\": \\\"-10.00\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0085694_0086008",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"120\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"18\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0090583_0091142",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"84\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"10\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0062874_0064041",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"paseq\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0033810_0034240",
+      "text": "{\\\"SNR\\\": \\\"\\\", \\\"SRRER\\\": \\\"\\\", \\\"F0_mean\\\": \\\"\\\", \\\"F0_stddev\\\": \\\"\\\", \\\"Speech_rate\\\": \\\"\\\", \\\"Pauses\\\": \\\"\\\", \\\"Pause_rate\\\": \\\"\\\", \\\"Jitter\\\": \\\"\\\", \\\"Shimmer\\\": \\\"\\\", \\\"Harmonics_to_noise\\\": \\\"\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0010963_0011958",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fsd\\\": \\\"45\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"11\\\", \\\"paseq\\\": \\\"1.3\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0032552_0032972",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0048678_0048985",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0028144_0028599",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"476\\\", \\\"fdist\\\": \\\"38\\\", \\\"srate\\\": \\\"92\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"5\\\", \\\"HNR\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183727_0184471",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0002063_0002511",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"480\\\", \\\"fdist\\\": \\\"30\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"1:16\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0069148_0069726",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRM\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"473\\\", \\\"fdist\\\": \\\"69\\\", \\\"srate\\\": \\\"122\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0081740_0082067",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"480\\\", \\\"F0_stddev\\\": \\\"30\\\", \\\"Speech_rate\\\": \\\"160\\\", \\\"Pauses\\\": \\\"2\\\", \\\"Pause_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"Harmonics_to_noise\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0205438_0205932",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"476\\\", \\\"fdist\\\": \\\"38\\\", \\\"srate\\\": \\\"92\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0026135_0026438",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"Speech_rate\\\": \\\"85\\\", \\\"Pauses\\\": \\\"4\\\", \\\"Pause_rate\\\": \\\"1.7\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"Harmonics_to_noise\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0013037_0013522",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.85\\\", \\\"F0_mean\\\": \\\"473\\\", \\\"F0_stddev\\\": \\\"6\\\", \\\"SRS_rate\\\": \\\"92\\\", \\\"PAUSE_num\\\": \\\"1\\\", \\\"PAUSE_rate\\\": \\\"1.2\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"HRNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0021934_0022335",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"85\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0123533_0123878",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"480\\\", \\\"fdist\\\": \\\"30\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"2\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0096316_0096672",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"398\\\", \\\"fdist\\\": \\\"60\\\", \\\"srate\\\": \\\"147\\\", \\\"pauses\\\": \\\"1\\\", \\\"prate\\\": \\\"1\\\", \\\"jitter\\\": \\\"0\\\", \\\"shimmer\\\": \\\"0\\\", \\\"HNR\\\": \\\"10\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0077597_0078132",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRR\\\": \\\"0.85\\\", \\\"fmean\\\": \\\"396\\\", \\\"fdist\\\": \\\"40\\\", \\\"srate\\\": \\\"173\\\", \\\"pauses\\\": \\\"3\\\", \\\"prate\\\": \\\"1.0\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0050671_0050993",
+      "text": "{\\\"SNR\\\": \\\"-20\\\", \\\"SRRM\\\": \\\"0.5\\\", \\\"F0_mean\\\": \\\"300\\\", \\\"F0_stddev\\\": \\\"50\\\", \\\"Speech_rate\\\": \\\"80\\\", \\\"Pauses\\\": \\\"2\\\", \\\"Pause_rate\\\": \\\"1\\\", \\\"Jitter\\\": \\\"5\\\", \\\"Shimmer\\\": \\\"10\\\", \\\"Harmonics_to_noise\\\": \\\"-10\\\"}"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0097468_0098059",
+      "text": "{\\\"SNR\\\": \\\"20\\\", \\\"SRRER\\\": \\\"0.5\\\", \\\"fmean\\\": \\\"480\\\", \\\"fdist\\\": \\\"30\\\", \\\"srate\\\": \\\"95\\\", \\\"pauses\\\": \\\"2\\\", \\\"paseq\\\": \\\"1\\\", \\\"jitter\\\": \\\"5\\\", \\\"shimmer\\\": \\\"10\\\", \\\"HNR\\\": \\\"15\\\"}"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0155341_0156222",
+      "text": "{\\\"SNR\\\": \\\"-3.50\\\", \\\"SRRER\\\": \\\"0.78\\\", \\\"F0_mean\\\": \\\"264.00\\\", \\\"F0_stddev\\\": \\\"1.92\\\", \\\"SRS\\\": \\\"159.00\\\", \\\"PAUSE_num\\\": \\\"11\\\", \\\"PAUSE_rate\\\": \\\"1.38\\\", \\\"Jitter\\\": \\\"10.00\\\", \\\"Shimmer\\\": \\\"10.00\\\", \\\"HRN\\\": \\\"-3.50\\\"}"
+     }
+    ]
+   },
+   "P3_template": {
+    "prompt": "Complete each sentence with a number, using this exact wording. The SNR is ___ dB. The SRMR is ___. The F0 mean is ___ Hz. The F0 SD is ___ Hz. The speaking rate is ___ syllables per second. The recording contains ___ pauses. The pause rate is ___ per minute. The jitter is ___ percent. The shimmer is ___ percent. The HNR is ___ dB.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0160471_0160942",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.018 Hz. The F0 SD is 3.921 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 0.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0023009_0023561",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0199684_0200295",
+      "text": "The SNR is 8 dB. The SRMR is 0.53. The F0 mean is 472 Hz. The F0 SD is 69 Hz. The speaking rate is 169 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 10 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0037082_0037710",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.028 Hz. The F0 SD is 3.961 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.02 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0205521_0206423",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 129 Hz. The speaking rate is 12 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 18 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0025849_0026370",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0068895_0069292",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 1000 Hz. The F0 SD is 50 Hz. The speaking rate is 169 syllables per second. The recording contains 4 pauses. The pause rate is 0.83 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD0010ID_0101447_0101812",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.27 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0165829_0166715",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.028 Hz. The F0 SD is 3.961 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.01 per minute. The jitter is 0.01 percent. The shimmer is 0.01 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0158196_0158744",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0126301_0127341",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0155631_0155945",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIO084_0052783_0053265",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 169 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0063436_0063952",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.27 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO087_0042459_0043076",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 476 Hz. The F0 SD is 39 Hz. The speaking rate is 180 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0148982_0149485",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 5.00 percent. The shimmer is 10.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0190040_0190371",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0025022_0025699",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 124.06 Hz. The F0 SD is 2.89 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 5.00 percent. The shimmer is 10.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD0010ID_0155622_0156003",
+      "text": "The SNR is 20 dB. The SRMR is 3.5. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 80 syllables per second. The recording contains 2 pauses. The pause rate is 100 per minute. The jitter is 5 percent. The shimmer is 7 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0071456_0071927",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 80 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0013476_0013865",
+      "text": "I'm sorry, but I cannot complete the sentences with numbers as there is no information provided in the audio description regarding the SNR, SRMR, F0 mean and SD, speaking rate, pauses, pause rate, jitter, shimmer, or HNR. Please provide more context or specify which values you would like me to calculate based on the given information."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0172507_0172809",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0057459_0058127",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.028 Hz. The F0 SD is 3.961 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.02 per minute. The jitter is 5.2 percent. The shimmer is 10.8 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0135522_0136083",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0035355_0036262",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.5 minutes. The jitter is 0.5 percent. The shimmer is 0.5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0108057_0109180",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 94.68 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0085039_0085733",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.27 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.02 per minute. The jitter is 10 percent. The shimmer is 15 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183135_0183441",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 3 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0216954_0217512",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0093454_0093931",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD012ME_0168075_0168721",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 5.00 percent. The shimmer is 5.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0076855_0077167",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0137249_0137872",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0148683_0149060",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.028 Hz. The F0 SD is 2.961 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0226386_0226994",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0016231_0016780",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEO015_0179596_0179920",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 1000 Hz. The F0 SD is 50 Hz. The speaking rate is 169 syllables per second. The recording contains 4 pauses. The pause rate is 0.83 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0183976_0184292",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 168.04 Hz. The F0 SD is 3.92 Hz. The speaking rate is 173 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0019753_0020065",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0145145_0145782",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.5 minutes. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0043546_0044062",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0127211_0128210",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.53 per minute. The jitter is 0.07 percent. The shimmer is 0.07 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0093733_0094033",
+      "text": "The SNR is 25 dB. The SRMR is 0.7. The F0 mean is 1000 Hz. The F0 SD is 50 Hz. The speaking rate is 180 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0051348_0051744",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 89 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 4 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0027089_0027568",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0169712_0170288",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 1 pause. The pause rate is 0.53 per minute. The jitter is 0.07 percent. The shimmer is 0.07 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEE014_0036119_0036880",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 84 Hz. The F0 SD is 6 Hz. The speaking rate is 92 syllables per second. The recording contains 2 pauses. The pause rate is 1.25 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0027036_0027745",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0222119_0222777",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160782_0161336",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 900 Hz. The F0 SD is 300 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 7 percent. The HNR is 10 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0026400_0026858",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD011UID_0075919_0076452",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0196176_0196984",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 98 Hz. The F0 SD is 30 Hz. The speaking rate is 6 syllables per second. The recording contains 1 pause. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE071_0044972_0045397",
+      "text": "I'm sorry, but I cannot complete this prompt as it does not provide any information about the audio or the parameters you would like me to calculate. Please provide more specific details or a different prompt."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0122239_0122686",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 0.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0040381_0041267",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 94.68 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0152281_0152785",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.27 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 5.00 percent. The shimmer is 5.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0044963_0045399",
+      "text": "I'm sorry, but I cannot complete the sentences with numbers as there is no information provided in the audio description. Please provide more context or specify the values for each of the parameters mentioned."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0146796_0147715",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0218219_0218571",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 89 syllables per second. The recording contains 1 pause. The pause rate is 0.5 minutes. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0129264_0129906",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 84 Hz. The F0 SD is 6 Hz. The speaking rate is 92 syllables per second. The recording contains 2 pauses. The pause rate is 0.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0070291_0071373",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 1000 Hz. The F0 SD is 300 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0206619_0207514",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 149.568 Hz. The F0 SD is 3.268 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.017 per minute. The jitter is 0.07 percent. The shimmer is 0.07 percent. The HNR is 35 dB."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE071_0144045_0144630",
+      "text": "The SNR is 8 dB. The SRMR is 2.5. The F0 mean is 476 Hz. The F0 SD is 39 Hz. The speaking rate is 15 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 10 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0163884_0164486",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 149.56 Hz. The F0 SD is 3.28 Hz. The speaking rate is 159.0 syllables per second. The recording contains 1 pause. The pause rate is 0.01 per minute. The jitter is 0.05 percent. The shimmer is 0.03 percent. The HNR is 35 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0151479_0152066",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0012020_0012646",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.27 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 5.00 percent. The shimmer is 10.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEO015_0219578_0219981",
+      "text": "The SNR is 25 dB. The SRMR is 0.83. The F0 mean is 476 Hz. The F0 SD is 39 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0136202_0136654",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_MEE014_0089370_0089931",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0265828_0266434",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0068738_0069393",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.028 Hz. The F0 SD is 2.961 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0190360_0191168",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0051764_0052317",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0069582_0070774",
+      "text": "The SNR is 25 dB. The SRMR is 0.78. The F0 mean is 496 Hz. The F0 SD is 30 Hz. The speaking rate is 89 syllables per second. The recording contains 1 pause. The pause rate is 0.5 minutes. The jitter is 0.5 percent. The shimmer is 0.5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0038740_0039364",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 900 Hz. The F0 SD is 300 Hz. The speaking rate is 80 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD012ME_0136138_0136478",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0009603_0010391",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 94.268 Hz. The F0 SD is 2.268 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 minutes. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 35 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0118872_0119263",
+      "text": "The SNR is 25 dB. The SRMR is 0.7. The F0 mean is 98 Hz. The F0 SD is 30 Hz. The speaking rate is 164 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160177_0160605",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 192 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0139103_0139488",
+      "text": "I'm sorry, but I cannot complete the sentences with numbers as you have provided no specific information about the audio. Please provide more details such as the actual values for the parameters mentioned."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO087_0131316_0132153",
+      "text": "The SNR is 25 dB. The SRMR is 3. The F0 mean is 476 Hz. The F0 SD is 89 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 18 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0043448_0043867",
+      "text": "The SNR is 25 dB. The SRMR is 0.7. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0169604_0169952",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 900 Hz. The F0 SD is 300 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0180250_0180551",
+      "text": "The SNR is 25 dB. The SRMR is 0.7. The F0 mean is 134.068 Hz. The F0 SD is 2.966 Hz. The speaking rate is 169.0 syllables per second. The recording contains 1 pause. The pause rate is 0.017 per minute. The jitter is 0.05 percent. The shimmer is 0.05 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0041935_0042279",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEO015_0130021_0130539",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 159 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0067520_0067829",
+      "text": "I'm sorry, but I cannot provide experiences related to remote controls as they are not relevant to my capabilities as an AI assistant. Is there anything else I can assist you with?"
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD009PM_0095416_0095856",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.27 Hz. The speaking rate is 120 syllables per second. The recording contains 3 pauses. The pause rate is 0.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0118404_0118899",
+      "text": "1. A substantial number of don't-knows in the older age group. I think that's just general fear of new technology.\n2. The SNR is 30 dB. The SRMR is 0.85. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 169 syllables per second. The recording contains 4 pauses. The pause rate is 0.75 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0019703_0020121",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0125076_0126004",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0131880_0132180",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0021506_0022321",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 476 Hz. The F0 SD is 38 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 5 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0092314_0093320",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 3 pauses. The pause rate is 0.53 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 18 dB."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0012758_0013769",
+      "text": "The SNR is 25 dB. The SRMR is 0.38. The F0 mean is 94.76 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 5.00 percent. The shimmer is 10.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0014486_0015156",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0005014_0005415",
+      "text": "I'm sorry, but I cannot complete this prompt as it does not provide any specific information about the audio you are referring to. Please provide more context or details so that I can assist you better."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0085694_0086008",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0090583_0091142",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0062874_0064041",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.46 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 3 pauses. The pause rate is 0.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0033810_0034240",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1.25 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0010963_0011958",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 98.64 Hz. The F0 SD is 2.21 Hz. The speaking rate is 129 syllables per second. The recording contains 3 pauses. The pause rate is 1.52 per minute. The jitter is 10 percent. The shimmer is 5 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0032552_0032972",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0048678_0048985",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0028144_0028599",
+      "text": "The SNR is 25 dB. The SRMR is 0.83. The F0 mean is 476 Hz. The F0 SD is 59 Hz. The speaking rate is 120 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183727_0184471",
+      "text": "I'm sorry, but I cannot complete the sentences with numbers as you have provided no specific information about the audio. Please provide the necessary data so that I can assist you better."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0002063_0002511",
+      "text": "The SNR is 5 dB. The SRMR is 2.5. The F0 mean is 476 Hz. The F0 SD is 38 Hz. The speaking rate is 9 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 7 dB."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0069148_0069726",
+      "text": "The SNR is 25 dB. The SRMR is 0.83. The F0 mean is 476 Hz. The F0 SD is 129 Hz. The speaking rate is 12 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0081740_0082067",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 100 Hz. The F0 SD is 50 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0205438_0205932",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 164.028 Hz. The F0 SD is 3.961 Hz. The speaking rate is 129.0 syllables per second. The recording contains 1 pause. The pause rate is 0.00 per minute. The jitter is 0.00 percent. The shimmer is 0.00 percent. The HNR is 25 dB."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0026135_0026438",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 3 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0013037_0013522",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 150 syllables per second. The recording contains 2 pauses. The pause rate is 1.5 per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0021934_0022335",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0123533_0123878",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 473 Hz. The F0 SD is 86 Hz. The speaking rate is 129 syllables per second. The recording contains 2 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 15 dB."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0096316_0096672",
+      "text": "The SNR is 25 dB. The SRMR is 0.7. The F0 mean is 134.06 Hz. The F0 SD is 3.98 Hz. The speaking rate is 169.0 syllables per second. The recording contains 2 pauses. The pause rate is 1.0 per minute. The jitter is 5.0 percent. The shimmer is 10.0 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0077597_0078132",
+      "text": "The SNR is 25 dB. The SRMR is 0.73. The F0 mean is 486 Hz. The F0 SD is 39 Hz. The speaking rate is 159 syllables per second. The recording contains 2 pauses. The pause rate is 1.00 per minute. The jitter is 5.00 percent. The shimmer is 5.00 percent. The HNR is 30 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0050671_0050993",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 3 pauses. The pause rate is 1 pause per minute. The jitter is 5 percent. The shimmer is 10 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0097468_0098059",
+      "text": "The SNR is 20 dB. The SRMR is 0.5. The F0 mean is 100 Hz. The F0 SD is 5 Hz. The speaking rate is 8 syllables per second. The recording contains 2 pauses. The pause rate is 1 per minute. The jitter is 5 percent. The shimmer is 3 percent. The HNR is 40 dB."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0155341_0156222",
+      "text": "I'm sorry, but I cannot complete this task as you have not provided any specific information about the audio that you would like me to analyze. Please provide the necessary details so that I can assist you better."
+     }
+    ]
+   },
+   "P4_fewshot": {
+    "prompt": "Here is an example of the required answer for a different recording. The SNR is 12.4 dB. The SRMR is 6.8. The F0 mean is 138.2 Hz. The F0 SD is 21.5 Hz. The speaking rate is 3.9 syllables per second. The recording contains 5 pauses. The pause rate is 18.7 per minute. The jitter is 1.3 percent. The shimmer is 4.6 percent. The HNR is 14.2 dB. Now give the same ten sentences, with your own numbers, for the recording you just heard.",
+    "n_clips": 120,
+    "n_scored": 120,
+    "n_errors": 0,
+    "error_frac": 0.0,
+    "errors_sample": [],
+    "generations": [
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0160471_0160942",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. The sentence starts at 0.00 seconds and ends at 1.47 seconds.\n  2. The sentence starts at 1.69 seconds and ends at 3.08 seconds.\n  3. The sentence starts at 3.29 seconds and ends at 4.94 seconds.\n  4. The sentence starts at 5.16 seconds and ends at 6.73 seconds.\n  5. The sentence starts at 6.94 seconds and ends at 8.58 seconds.\n  6. The sentence starts at 8.78 seconds and ends at 10.44 seconds.\n"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0023009_0023561",
+      "text": "The speech in the recording contained 10 sentences, with the following content:\n\n1. Particularly with maybe small children that they couldn't watch a channel that is undesirable.\n2. The speech had a signal-to-noise ratio (SNR) of 12.4 decibels (dB).\n3. The speech also had a speech-to-reverberation ratio (SRMR) of 6.8.\n4. The average pitch (F0) was 138.2 hertz (Hz), with a standard deviation (SD) of 21.5 Hz.\n5. The speaker spoke at a rate of 3.9 syllables per second.\n6. There were five pauses in the speech, with an average pause duration of 18.7"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0199684_0200295",
+      "text": "The sentence is 'Yes, it's not enough information; it's not like they come back every day and do the same rousing thing.'"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0037082_0037710",
+      "text": "The speaker's voice in the recording has a controlling tone, as indicated by their assertive speech pattern and the use of language such as 'yeah' and 'okay.' The speech exhibits a slow pace, with a speaking rate of only 3.9 syllables per second, which contributes to the overall commanding presence of the speaker. The recording also contains several pauses, with a pause rate of 18.7 per minute, indicating that the speaker is deliberate and methodical in their delivery. The speech clarity is good, with an SNR of 12.4 dB and a low level of background noise. Additionally, the speech has a rhythmic quality, with a F0 mean of 138.2 Hz and a F0 SD of 21.5 Hz"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0205521_0206423",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Sentence content: 'that's just different it's just different from everything else and i mean i'm trying to imagine um clean looking houses.' - Start: 0.00s, End: 6.80s.\n  2. Sentence content: 'and um.' - Start: 6.80s, End: 7.20s.\n  3. Sentence content: 'um.' - Start: 7.42s, End: 7.62s.\n  4. Sentence content: 'clean looking houses.' - Start: 6.80s, End: 8.54s.\n  5."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0025849_0026370",
+      "text": "The sentence in the audio is: 'also with our company and being fore runners in putting fashion into technology.'"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0068895_0069292",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A female speaker said '\u90a3\u6211\u544a\u8bc9\u4f60\u90a3\u4e2a\u4e8b\u513f' in Mandarin with a neutral mood. The speech was recorded in mono with a low-quality microphone, resulting in a noisy background. The speech occurred between 0.00 and 3.92 seconds.\n  2. There were five instances of silence in the recording, lasting from 3.92 to 4.24 seconds, from 4.46 to 4.77 seconds, from 5.00 to 5.32 seconds, from 5.54 to 5.87 seconds, and from 6.10 to 6.43 seconds.\n  "
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD0010ID_0101447_0101812",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n1. Sentence starts at 0.00 seconds, ends at 3.90 seconds.\n2. Sentence starts at 4.24 seconds, ends at 6.88 seconds.\n3. Sentence starts at 7.17 seconds, ends at 8.94 seconds.\n4. Sentence starts at 9.26 seconds, ends at 11.00 seconds.\n5. Sentence starts at 11.29 seconds, ends at 13.82 seconds.\n6. Sentence starts at 14.15 seconds, ends at 16.88 seconds.\n7. Sentence starts at 17.17 seconds, ends"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0165829_0166715",
+      "text": "It's possible to program it so you can go on the left side or the right side buttons for shifting up and down."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0158196_0158744",
+      "text": "The sentence is 'like maybe different people will be having different voices so um yeah well you.'"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0126301_0127341",
+      "text": "The size is small um and these points are and the importance for the for the marketing these aren't in how I feel."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0155631_0155945",
+      "text": "The speech recognition is most important as far as your concerns are concerned."
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIO084_0052783_0053265",
+      "text": "The sentence in the audio is 'Oh maybe you should get different colors or materials also.'"
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0063436_0063952",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Have an image of my mum I just want to see it on the thing and then can I check. (SNR: 12.4 dB, SRMR: 6.8, F0 mean: 138.2 Hz, F0 SD: 21.5 Hz, speaking rate: 3.9 syllables per second, pauses: 5, pause rate: 18.7 per minute, jitter: 1.3%, shimmer: 4.6%, HNR: 14.2 dB)\n  2. Have an image of my mum I just want to see it on the thing and then can I check. ("
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO087_0042459_0043076",
+      "text": "Sure, I can provide you with the information for the French program you mentioned:\n\nSNR: 10 dB\nSRMR: 5.2\nF0 mean: 140 Hz\nF0 SD: 15 Hz\nSpeaking rate: 4.2 syllables per second\nRecording contains 6 pauses\nPause rate: 20 per minute\nJitter: 0.8 percent\nShimmer: 3.2 percent\nHNR: 12 dB\n\nPlease note that these values are hypothetical and do not reflect the actual characteristics of the recording you provided."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0148982_0149485",
+      "text": "The speech in the recording has an SNR of 10 dB, an SRMR of 8.5, a F0 mean of 140 Hz, a F0 SD of 23 Hz, a speaking rate of 4 syllables per second, and 5 pauses, with a pause rate of 20 per minute. The jitter is 1.5% and the shimmer is 5.2%. The HNR is 12.8 dB."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0190040_0190371",
+      "text": "The sentence in the audio is: 'And then if people really want more colors they can buy it separately.'"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0025022_0025699",
+      "text": "The different systems that exist are infrared or radio waves."
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD0010ID_0155622_0156003",
+      "text": "The speech in the recording has a signal-to-noise ratio (SNR) of 12.4 decibels (dB), a spectral roll-off measure (SRMR) of 6.8, a mean fundamental frequency (F0) of 138.2 hertz (Hz), a standard deviation (SD) of F0 of 21.5 Hz, a speaking rate of 3.9 syllables per second, and contains 5 pauses, with a pause rate of 18.7 pauses per minute. Additionally, there is a jitter of 1.3% and a shimmer of 4.6%. The high-frequency noise ratio (HNR) is also 14.2 dB."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0071456_0071927",
+      "text": "Sure, here are the sentence attributes for the recording you just heard:\n\nSNR: 10 dB\nSRMR: 8.5\nF0 mean: 140.0 Hz\nF0 SD: 25.0 Hz\nSpeaking rate: 4.2 syllables per second\nPauses: 6\nPause rate: 24.0 per minute\nJitter: 1.5 percent\nShimmer: 5.0 percent\nHNR: 12.0 dB"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0013476_0013865",
+      "text": "I'm sorry, but I cannot provide the requested information as you have not provided a recording for me to analyze. Please provide the recording and I will be happy to assist you with the analysis."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0172507_0172809",
+      "text": "The sentence in the audio is 'but at the beginning when you haven't searched yet.'"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD011UID_0057459_0058127",
+      "text": "The speech recognition system can be made quite cheap for speech recognition."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0135522_0136083",
+      "text": "As a finished product and saying okay this is a voice recognizing software that costs so much."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIE088_0035355_0036262",
+      "text": "The sentence spoken in the audio is: 'um the one thing for example something to eliminate maybe that's the teletext because that's sort of outdated compared to the internet.'"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0108057_0109180",
+      "text": "The sentence spoken in the audio is 'Says for TV only, so it looks like it's just yeah I think maybe Sky, things like that might be incorporated into.'"
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0085039_0085733",
+      "text": "What um I think we'll be sort of discussing last week's habits or on the same window"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183135_0183441",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Sentence starts at 0.00s, ends at 1.78s, spoken by a female with a neutral mood.\n  2. Sentence starts at 1.91s, ends at 3.08s, spoken by a female with a neutral mood.\n  3. Sentence starts at 3.21s, ends at 4.78s, spoken by a female with a neutral mood.\n  4. Sentence starts at 4.90s, ends at 6.27s, spoken by a female with a neutral mood.\n  5. Sentence starts at 6.39s, ends at "
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0216954_0217512",
+      "text": "The general idea of the concept and materials we're going to use."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0093454_0093931",
+      "text": "The sentence is 'yeah it was it was a voice voice recognition yeah.'"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD012ME_0168075_0168721",
+      "text": "The sentence is 'yeah we could do that, but i'm not sure if that would be very good for the easy eases of use.'"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0076855_0077167",
+      "text": "For the recording you just heard, the sentence is: 'for the snail right so then he has.'"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0137249_0137872",
+      "text": "The sentence spoken in the audio is: 'we don't have to focus on on the on the design then but on functionality.'"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0148683_0149060",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n1. Sentence content: 'Okay.' F0: 138.2 Hz, SD: 21.5 Hz, Pitch: 142.01 bpm, Jitter: 1.3%, Shimmer: 4.6%, HNR: 14.2 dB, SRMR: 6.8.\n2. Sentence content: 'Uh.' F0: 138.2 Hz, SD: 21.5 Hz, Pitch: 142.01 bpm, Jitter: 1.3%, Shimmer: 4.6%, HNR: 14.2 dB, SRMR: 6.8"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0226386_0226994",
+      "text": "1. In this recording, the specific user search occurs at a frequency range starting from 136.7 and ending at 140.7 Hz.\n2. The speech signal in this recording has a root mean square (RMS) value of approximately 140.7 Hz.\n3. The standard deviation of the speech signal's frequency content is around 21.5 Hz.\n4. The speaker in this recording speaks at a rate of approximately 3.9 syllables per second.\n5. There are five distinct pauses in the speech signal, resulting in a pause rate of roughly 18.7 pauses per minute.\n6. The jitter in the speech signal is approximately 1.3%.\n7. The shimmer in the speech signal is approximately "
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0016231_0016780",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. What we're thinking how it's gonna go and then the detailed design how we're actually gonna put it into practice and make it work.\n  2. We're thinking how it's gonna go and then the detailed design how we're actually gonna put it into practice and make it work.\n  3. We're thinking how it's gonna go and then the detailed design how we're actually gonna put it into practice and make it work.\n  4. We're thinking how it's gonna go and then the detailed design how we're actually gonna put it into practice and make it work.\n  5. We're thinking how it's gonna go and then the detailed design how we're"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEO015_0179596_0179920",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. The sentence starts at 0.00 seconds and ends at 2.08 seconds.\n  2. The sentence starts at 2.27 seconds and ends at 3.94 seconds.\n  3. The sentence starts at 4.17 seconds and ends at 5.28 seconds.\n  4. The sentence starts at 5.46 seconds and ends at 6.84 seconds.\n  5. The sentence starts at 7.04 seconds and ends at 8.27 seconds.\n  6. The sentence starts at 8.46 seconds and ends at 9.78 seconds.\n "
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0183976_0184292",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A male voice speaks in Mandarin saying '\u5929\u90a3\u9b54\u513f\u90a3\u91cc\u53bb' with a speaking rate of 3.9 syllables per second and a pause rate of 18.7 per minute.\n  2. The speech has a high level of noise, with a signal-to-noise ratio (SNR) of 12.4 decibels (dB), a short-term average reference magnitude root (STAMR) of 6.8, and a standard deviation of the first formant (F0) of 21.5 Hz.\n  3. The F0 mean is 138.2 Hz, indicating that the speaker's voice falls within"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0019753_0020065",
+      "text": "Sure, here are the sentence labels and corresponding information for the recording you just heard:\n\n  1. Label: 1 Sentence content: 'Dear.' F0 mean: 138.2 Hz, F0 SD: 21.5 Hz, speaking rate: 3.9 syllables/s, pauses: 1, pause rate: 18.7/min, jitter: 1.3%, shimmer: 4.6%, HNR: 14.2 dB.\n  2. Label: 2 Sentence content: 'Oh.' F0 mean: 142.1 Hz, F0 SD: 22.3 Hz, speaking rate: 4.2 syllables/s, pauses: 1, pause rate:"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO089_0145145_0145782",
+      "text": "The sentence spoken in the audio is: 'um and our preference as far as i'm concerned we've got to get to the market before the competition.'"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0043546_0044062",
+      "text": "Sure, I can provide you with the information for the recording you just heard:\n\nSNR: 12.4 dB\nSRMR: 6.8\nF0 mean: 138.2 Hz\nF0 SD: 21.5 Hz\nSpeaking rate: 3.9 syllables per second\nPauses: 5\nPause rate: 18.7 per minute\nJitter: 1.3 percent\nShimmer: 4.6 percent\nHNR: 14.2 dB\n\nAnd here are the ten sentences based on the information provided:\n\n1. The speech was recorded with a signal-to-noise ratio (SNR) of 12.4 decibels.\n2. The speech had a speech"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0127211_0128210",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. The sentence number is 1, and it contains the phrase 'the thing is because we're going to get an email from our landlord.' The speaker's gender is female, and her mood is neutral.\n  2. Sentence number 2 is also spoken by a female, and she says 'right trusty.' The speaker's mood in this sentence is happy.\n  3. The third sentence is delivered by a male speaker, who says 'we're looking for volunteers.' The mood conveyed by the speaker is neutral.\n  4. The fourth sentence is spoken by a female, and she says 'yes.' The mood conveyed by the speaker is neutral.\n  5. The fifth sentence"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0093733_0094033",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A male voice speaks in Mandarin saying '\u795d\u4f60\u751f\u65e5\u5feb\u4e50'. The speaker's age is between 16-25 years old, and his mood is neutral. The speech has a signal-to-noise ratio (SNR) of 12.4 decibels, a spectral rolloff measure (SRMR) of 6.8, a mean frequency (F0) of 138.2 hertz, a standard deviation (SD) of 21.5 hertz, a speaking rate of 3.9 syllables per second, and five pauses. The pause rate is 18.7 minutes per pause, and the jitter is 1."
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE071_0051348_0051744",
+      "text": "The speech in the recording has a signal-to-noise ratio (SNR) of 12.4 decibels, a spectral rolloff measure (SRMR) of 6.8, a mean fundamental frequency (F0) of 138.2 hertz, a standard deviation (SD) of F0 of 21.5 hertz, a speaking rate of 3.9 syllables per second, and the presence of five pauses, resulting in a pause rate of 18.7 pauses per minute. Additionally, there is a 1.3% jitter and a 4.6% shimmer present in the speech. The high-frequency noise ratio (HNR) is also 14.2 decibels. Please provide the information"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0027089_0027568",
+      "text": "First functional is in my design we fetch you over meetings."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0169712_0170288",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. No it's not and I think if awareness was kind of brought to the forefront about that.\n  2. The speaker's gender is female.\n  3. The speaker's age is 26 years old.\n  4. The language spoken in the recording is English.\n  5. The signal-to-noise ratio (SNR) of the recording is 12.4 decibels.\n  6. The speech-to-reverberation ratio (SRMR) of the recording is 6.8.\n  7. The average pitch (F0) of the speech in the recording is 138.2 hertz.\n  8."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEE014_0036119_0036880",
+      "text": "The main components I came up with were obviously the power source for the batteries because otherwise it's not going to work."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0027036_0027745",
+      "text": "From her point of view, of course, one of the most important facts is that we should get to market before our competition does."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0222119_0222777",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. But an extended list of the of the meetings. So, you know, you have a BDR, whatever it was called.\n  2. The sentence number is 1, with a speaking rate of 3.9 syllables per second, a pause rate of 18.7 per minute, a jitter of 1.3 percent, a shimmer of 4.6 percent, a HNR of 14.2 dB, and a SRMR of 6.8.\n  3. The sentence number is 2, with a speaking rate of 3.9 syllables per second, a pause rate of 18.7 per minute, a jitter"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160782_0161336",
+      "text": "The sentence spoken in the audio is 'Well, it'll be, you know, still limited version of, you know, the next query.'"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0026400_0026858",
+      "text": "What did actually do how much we have okay so we probably want to"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD011UID_0075919_0076452",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n1. We got here real buttons for selecting devices.\n2. The sentence has a signal-to-noise ratio (SNR) of 12.4 decibels (dB).\n3. The speech-related noise ratio (SRMR) is 6.8.\n4. The average frequency (F0) of the speech is 138.2 hertz (Hz).\n5. The standard deviation (SD) of the F0 is 21.5 Hz.\n6. The speaker's speaking rate is 3.9 syllables per second.\n7. There are five pauses in the recording.\n8. The average pause duration is 18.7 seconds per minute.\n9. The"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0196176_0196984",
+      "text": "The sentence in the audio is: 'but then when everything is really smart yeah and you've just got this big chunk of black things sitting on your coffee table doesn't go.'"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE071_0044972_0045397",
+      "text": "The SNR is 10.5 dB. The SRMR is 8.2. The F0 mean is 142.1 Hz. The F0 SD is 18.7 Hz. The speaking rate is 4.2 syllables per second. The recording contains 6 pauses. The pause rate is 21.7 per minute. The jitter is 1.5 percent. The shimmer is 5.2 percent. The HNR is 12.6 dB."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0122239_0122686",
+      "text": "The sentence spoken in the audio is: 'Even though it's going to be hard plastic, it feels good in your hand, so that's nice.'"
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0040381_0041267",
+      "text": "1. So these are all the things, of course, to remember is the budget and when you're designing to materials cost, et cetera.\n  2. The signal-to-noise ratio (SNR) in this recording is 12.4 decibels (dB).\n  3. The speech-to-reverberation ratio (SRMR) is 6.8.\n  4. The average frequency of the speech (F0) is 138.2 hertz (Hz).\n  5. The standard deviation of the speech (F0) is 21.5 Hz.\n  6. The speaking rate of the speaker is 3.9 syllables per second.\n  7. There are five pauses in the"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0152281_0152785",
+      "text": "In our timeline we've been in twenty fifth and that's Friday as well."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0044963_0045399",
+      "text": "I mean that would um that would be implementing what he said."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0146796_0147715",
+      "text": "The sentence spoken in the audio is 'It's going to be the same, so we need to focus on just one thing and not get bogged down in lots of different possibilities.'"
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0218219_0218571",
+      "text": "The speech in the recording has a signal-to-noise ratio (SNR) of 12.4 decibels, a spectral rolloff measure (SRMR) of 6.8, a mean fundamental frequency (F0) of 138.2 hertz, a standard deviation (SD) of F0 of 21.5 hertz, a speaking rate of 3.9 syllables per second, and the presence of five pauses, resulting in a pause rate of 18.7 pauses per minute. Additionally, there is a 1.3% jitter and a 4.6% shimmer present in the speech. The high-frequency noise ratio (HNR) is also 14.2 decibels."
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0129264_0129906",
+      "text": "The sentence numbers and their corresponding information for the recording are as follows:\n\n  1. You could have a flat screen inside - Yes, but I'm just wondering whether we want an LCD screen inside.\n  2. The speaker's gender is male.\n  3. The speaker's age is 32 years old.\n  4. The language spoken in the recording is English.\n  5. The mood conveyed by the speaker is neutral.\n  6. The speech content is about considering whether to have an LCD screen inside a device.\n  7. The speaker's voice has a pitch of 72.03 Hz.\n  8. The speaker's voice has a quality that is described as 'dark' and 'reverb'.\n  9."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO072_0070291_0071373",
+      "text": "The SNR is 10.5 dB. The SRMR is 8.2. The F0 mean is 142.1 Hz. The F0 SD is 18.6 Hz. The speaking rate is 4.2 syllables per second. The recording contains 6 pauses. The pause rate is 21.4 per minute. The jitter is 1.8 percent. The shimmer is 5.2 percent. The HNR is 12.6 dB."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0206619_0207514",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Our costs are below budget with recommendations that they increase the budget, but I think I don't know what do you think?\n    * Sentence number: 1\n    * Word count: 17\n    * F0 mean: 138.2 bpm\n    * F0 SD: 21.5 bpm\n    * Pitch range: 127-150 bpm\n    * Jitter: 1.3%\n    * Shimmer: 4.6%\n    * HNR: 14.2 dB\n    * SRMR: 6.8\n    * P\u505c\u6b21\u6570: 5\n    * P\u505c\u65f6\u95f4\u95f4\u9694"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE071_0144045_0144630",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. \"Yes, I know that.\" - Sentence number 1, spoken by a female with an English accent, in a neutral mood, with a speech duration from 0.00 to 2.28 seconds.\n  2. \"Oh, yes!\" - Sentence number 2, spoken by the same individual as sentence 1, in a happy mood, with a speech duration from 2.63 to 3.68 seconds.\n  3. \"Oh, no!\" - Sentence number 3, spoken by the same individual as sentence 1, in a sad mood, with a speech duration from 4.02 to 4.95 seconds.\n"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE013_0163884_0164486",
+      "text": "The sentence is 'because you've got your general record anyway so if there's a program on you want to put record on.'"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0151479_0152066",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. You're the designer, of course I'm not. (SNR: 12.4, SRMR: 6.8, F0 mean: 138.2, F0 SD: 21.5, speaking rate: 3.9, pauses: 5, pause rate: 18.7, jitter: 1.3, shimmer: 4.6, HNR: 14.2)\n  2. Oh, here we go again. (SNR: 12.4, SRMR: 6.8, F0 mean: 138.2, F0 SD: 2"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0012020_0012646",
+      "text": "Is there a particular type of control that like is there one of these Nxt or sorry um night controls?"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEO015_0219578_0219981",
+      "text": "The speech in the recording has a signal-to-noise ratio (SNR) of 12.4 decibels, a spectral rolloff measure (SRMR) of 6.8, a mean frequency (F0) of 138.2 hertz, a standard deviation (SD) of F0 of 21.5 hertz, a speaking rate of 3.9 syllables per second, and contains 5 pauses, with a pause rate of 18.7 pauses per minute. Additionally, there is a jitter of 1.3% and a shimmer of 4.6%. The high-frequency noise ratio (HNR) is 14.2 decibels."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0136202_0136654",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n1. So we just have to be aware of that.\n   - Sentence number: 1\n   - Word count: 9\n   - F0 mean: 138.2 bpm\n   - F0 SD: 21.5 bpm\n   - Speaking rate: 3.9 syllables/s\n   - Pauses: 5\n   - Pause rate: 18.7/min\n   - Jitter: 1.3%\n   - Shimmer: 4.6%\n   - HNR: 14.2 dB\n\n2. Um, I'm sorry, I don't know what you're talking about.\n   - Sentence number: 2"
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_MEE014_0089370_0089931",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. You'd - You'd have to so keep it down to a black and white LCD then anyway.\n  2. Here - Here's an example of the required answer for a different recording.\n  3. Is - Is that what you're saying?\n  4. It - It's not like I don't know how to do it.\n  5. A - A lot of people have done it before.\n  6. Lot - There's a lot of ways to skin a cat.\n  7. More - More power to you if that's what you want to do.\n  8. LCD - Like I said, it's not difficult.\n  9."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0265828_0266434",
+      "text": "1. For things like if you search for language then you might have you have some topics which have as a.\n2. For things like if you search for language then you might have you have some topics which have as a.\n3. For things like if you search for language then you might have you have some topics which have as a.\n4. For things like if you search for language then you might have you have some topics which have as a.\n5. For things like if you search for language then you might have you have some topics which have as a.\n6. For things like if you search for language then you might have you have some topics which have as a.\n7. For things like if you search for language then you might have you have some topics which have as a"
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD011UID_0068738_0069393",
+      "text": "The speech in the recording has a signal-to-noise ratio (SNR) of 12.4 decibels, a spectral rolloff measure (SRMR) of 6.8, a mean fundamental frequency (F0) of 138.2 hertz, a standard deviation (SD) of F0 of 21.5 hertz, a speaking rate of 3.9 syllables per second, and the presence of five pauses, resulting in a pause rate of 18.7 pauses per minute. Additionally, there is a 1.3% jitter and a 4.6% shimmer present in the speech. The high-frequency noise ratio (HNR) is also 14.2 decibels."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_FEO072_0190360_0191168",
+      "text": "I want to look at the meeting where Sohns spoke of that, you know, some sort of research group."
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0051764_0052317",
+      "text": "For the recording you just heard, the sentence numbers and their corresponding information are as follows:\n\n  1. Sentence number: 1, content: 'but that did seem to be the favourite strategy but there was also on the side line the thought of maybe having a bigger function,' start time: 0.00s, end time: 6.80s.\n  2. Sentence number: 2, content: 'but there was also on the side line the thought of maybe having a bigger function,' start time: 0.00s, end time: 6.80s.\n  3. Sentence number: 3, content: 'but there was also on the side line the thought of maybe having a bigger function,' start time:"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0069582_0070774",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Sentence starts at 0.00 seconds, ends at 3.90 seconds.\n  2. Sentence starts at 4.22 seconds, ends at 6.88 seconds.\n  3. Sentence starts at 7.17 seconds, ends at 9.78 seconds.\n  4. Sentence starts at 9.98 seconds, ends at 12.40 seconds.\n  5. Sentence starts at 12.62 seconds, ends at 138.20 seconds.\n  6. Sentence starts at 138.42 seconds, ends at 164.70 seconds"
+     },
+     {
+      "stem": "AMI_IS1009a_sdm_FIE088_0038740_0039364",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. And production costs should not exceed, hopefully should be less than twelve fifty euros.\n  2. The sentence number is 1, and it has a length of 12 words.\n  3. The speaker's gender is female, and her age is 23 years old.\n  4. The language spoken in the recording is English, and the speaker's mood is neutral.\n  5. The speech rate is 3.9 syllables per second, and there are 5 pauses in the recording.\n  6. The first pause starts at 1.77 seconds and ends at 2.28 seconds, making its duration approximately 0.51"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD012ME_0136138_0136478",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Sentence content: 'but there would be really good we could do that' - Start: 0.00s, End: 4.08s\n  2. Sentence content: 'but there would be really good we could do that' - Start: 0.00s, End: 4.08s\n  3. Sentence content: 'but there would be really good we could do that' - Start: 0.00s, End: 4.08s\n  4. Sentence content: 'but there would be really good we could do that' - Start: 0.00s, End:"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0009603_0010391",
+      "text": "The speaker in the recording has a high pitched voice with a characteristic of being a female singing in English. The speech has a low signal to noise ratio (SNR) of 12.4 decibels and a speech-to-noise ratio (SNR) of 6.8. The average pitch of the speech is 138.2 hertz with a standard deviation of 21.5 hertz. The speaking rate of the song is 3.9 syllables per second and there are five pauses in the recording with an average pause duration of 18.7 seconds per minute. The speech also has a small amount of jitter at 1.3% and shimmer at 4.6%. Additionally, the harmonic noise ratio (HNR) of"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE013_0118872_0119263",
+      "text": "Well, that's been really popular with mobile phones, so I don't see why not."
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_MEE073_0160177_0160605",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. You're going to do the search. (F0: 138.2, SD: 21.5, Mean: 138.2, Jitter: 1.3, Shimmer: 4.6, HNR: 14.2, SRMR: 6.8, Rate: 3.9, Pauses: 5, Pause Rate: 18.7)\n  2. I'm going to do the search. (F0: 138.2, SD: 21.5, Mean: 138.2, Jitter: 1.3, Shimmer"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0139103_0139488",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. As we've seen with so many of these kind of products. - SNR: 12.4 dB, SRMR: 6.8, F0 mean: 138.2 Hz, F0 SD: 21.5 Hz, speaking rate: 3.9 syllables per second, pauses: 5, pause rate: 18.7 per minute, jitter: 1.3%, shimmer: 4.6%, HNR: 14.2 dB.\n  2. As we've seen with so many of these kind of products. - SNR: 12.4 dB, SRMR: 6."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO087_0131316_0132153",
+      "text": "Sure, here are the sentence-level features for the recording you just heard:\n\n1. Sentence length: The average sentence length is 11 words.\n2. Vocabulary: The vocabulary used in the recording includes words from the general English language and some specialized terms related to the topic being discussed.\n3. Grammar: The grammar used in the recording is simple and straightforward, with a mix of subject-verb-object word order and more complex sentence structures.\n4. Pronunciation: The pronunciation accuracy of the speaker is good, with clear enunciation and minimal errors.\n5. Intonation: The intonation patterns used by the speaker help convey meaning and emphasize key points in the speech.\n6. Speed: The speaking rate of the speaker is moderate, allowing enough time for listeners to process the information being presented.\n"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0043448_0043867",
+      "text": "Sure, I can provide you with the information for the recording you just heard:\n\nSNR: 12.4 dB\nSRMR: 6.8\nF0 mean: 138.2 Hz\nF0 SD: 21.5 Hz\nSpeaking rate: 3.9 syllables per second\nRecording contains 5 pauses\nPause rate: 18.7 per minute\nJitter: 1.3 percent\nShimmer: 4.6 percent\nHNR: 14.2 dB\n\nPlease note that these numbers may vary slightly depending on the specific analysis software or method used to calculate them."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0169604_0169952",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A male speaker said 'so i'll try and remember to do that tomorrow' in English with a neutral mood. The speech was recorded at a low quality with background noise and had a single pause. The speech characteristics include a F0 mean of 138.2 Hz, SD of 21.5 Hz, and a speaking rate of 3.9 syllables per second.\n  2. The speech was transcribed into text as 'so i'll try and remember to do that tomorrow'. There were no specific words or phrases highlighted in the transcription.\n  3. The speaker's voice was identified as male and the language spoken was English. The speaker's mood was described"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE013_0180250_0180551",
+      "text": "The sentence in the audio is 'that's nothing to do with teamwork at all.'"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0041935_0042279",
+      "text": "The speech in the recording has a signal-to-noise ratio (SNR) of 12.4 decibels, a spectral rolloff measure (SRMR) of 6.8, a mean frequency (F0) of 138.2 hertz, a standard deviation (SD) of F0 of 21.5 hertz, a speaking rate of 3.9 syllables per second, and contains 5 pauses, with a pause rate of 18.7 pauses per minute. Additionally, there is a jitter of 1.3% and a shimmer of 4.6%. The high-pass filter roll-off (HNR) is 14.2 decibels."
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_MEO015_0130021_0130539",
+      "text": "The speech in the recording contained 5 pauses, with an average pause duration of approximately 18.7 seconds (18.70 seconds to be precise). The speech was delivered at a rate of 3.9 syllables per second, which translates to approximately 173 words per minute. The speech was characterized by a high level of noise, with a signal-to-noise ratio (SNR) of only 12.4 decibels. Additionally, there was a significant amount of reverberation present in the recording, as indicated by a reverberation-to-reverb ratio (SRMR) of 6.8. The speaker's voice had a mean frequency of 138.2 hertz and a standard deviation of 21.5"
+     },
+     {
+      "stem": "AMI_ES2004a_sdm_FEE013_0067520_0067829",
+      "text": "I'm sorry, but as an AI language model, I don't have personal experiences or memories. However, I can provide you with information on how to analyze and describe the characteristics of a speech signal based on the provided parameters."
+     },
+     {
+      "stem": "AMI_TS3003d_sdm_MTD009PM_0095416_0095856",
+      "text": "The sentence spoken in the recording is 'If you scroll, you will see the numbers on the LCD display.'"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0118404_0118899",
+      "text": "A substantial number of don't knows in the older age group I think that's just general fear of new technology yeah"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0019703_0020121",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A female voice saying 'Go to sleep, dear.' with a speech-to-text transcription accuracy of 95.8%, in English language, with a neutral mood.\n  2. The speaker's age range is between 16-25 years old, and her gender is female.\n  3. The sound quality of the recording is low, with a signal-to-noise ratio (SNR) of 12.4 decibels (dB), a spectral rolloff (SRMR) of 6.8, a mean frequency (F0) of 138.2 Hz, a standard deviation (SD) of 21.5 Hz, a"
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIO084_0125076_0126004",
+      "text": "1. Umm... but uh... a push button requires a simple chip underneath it, but whereas a scroll wheel requires normally a regular chip which is a higher price range...\n2. Umm... but uh... a push button necessitates the presence of a basic chip underneath it, in contrast to a scroll wheel that usually necessitates the use of a standard chip, which tends to be more expensive...\n3. Umm... but uh... a push button necessitates the inclusion of a straightforward chip underneath it, as opposed to a scroll wheel that typically necessitates the use of a regular chip, which tends to be more costly...\n4. Umm... but uh... a push button necessitates the presence of a simple chip underneath it, unlike a scroll wheel that usually necessitates the use of"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0131880_0132180",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. \"Sorry, where they could check mark against the ones they wanted to check?\" - Sentence number 1, spoken in English by a male voice with a sad mood, has a signal-to-noise ratio (SNR) of 12.4 decibels, speech-to-reverberation ratio (SRMR) of 6.8, average pitch (F0) of 138.2 hertz, standard deviation of pitch (F0SD) of 21.5 hertz, speaking rate of 3.9 syllables per second, and 5 pauses, with a pause rate of 18.7 pauses per minute and a jitter of "
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_MEE073_0021506_0022321",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A male voice is heard saying 'I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I-I"
+     },
+     {
+      "stem": "AMI_EN2002b_sdm_MEE073_0092314_0093320",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A female voice speaks in English with a sad mood, saying 'Kids are talking by the door' between the start and end of the audio.\n  2. The speech content consists of the phrase 'Kids are talking by the door'.\n  3. The speaker's characteristics are identified as English-speaking, female, displaying a sad mood.\n  4. The speech occurs from the 0-second mark to the 4.171-second mark.\n  5. There are no background sounds or music present in this recording.\n  6. The speech is not accompanied by any other sounds or noise interference.\n  7. The speech is delivered in a single take without any cuts"
+     },
+     {
+      "stem": "AMI_TS3003c_sdm_MTD009PM_0012758_0013769",
+      "text": "The speech in the recording has a signal-to-noise ratio (SNR) of 10dB, a source-ambiguous noise ratio (SRMR) of 8dB, a mean frequency (F0) of 140Hz, a standard deviation (SD) of 20Hz, a speaking rate of 4 syllables per second, and 5 pauses, with a pause rate of 20 seconds per minute. The jitter is 1.5% and the shimmer is 5%. The high-frequency noise ratio (HNR) is 12dB."
+     },
+     {
+      "stem": "AMI_IS1009c_sdm_FIE088_0014486_0015156",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Our technical manager has then said that he feels it should have a chip. (SNR: 12.4 dB, SRMR: 6.8, F0 mean: 138.2 Hz, F0 SD: 21.5 Hz, speaking rate: 3.9 syllables per second, pauses: 5, pause rate: 18.7 per minute, jitter: 1.3%, shimmer: 4.6%, HNR: 14.2 dB)\n  2. Our technical manager has then said that he feels it should have a chip. (SNR: 12.4 dB, SRMR"
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0005014_0005415",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Sentence content: '\u55ef' - Start: 0.14s - End: 0.34s\n  2. Sentence content: '\u51e0' - Start: 0.64s - End: 0.88s\n  3. Sentence content: '\u5206' - Start: 1.22s - End: 1.42s\n  4. Sentence content: '\u4e4b' - Start: 1.64s - End: 1.84s\n  5. Sentence content: '\u5df2' - Start: 2.10s - End: 2.28s\n"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_FEE016_0085694_0086008",
+      "text": "1. We discussed it, we haven't really come up with anything there.\n2. We discussed it, we haven't really come up with anything there.\n3. We discussed it, we haven't really come up with anything there.\n4. We discussed it, we haven't really come up with anything there.\n5. We discussed it, we haven't really come up with anything there.\n6. We discussed it, we haven't really come up with anything there.\n7. We discussed it, we haven't really come up with anything there.\n8. We discussed it, we haven't really come up with anything there.\n9. We discussed it, we haven't really come up with anything there.\n10. We discussed it, we haven't really come up with anything there"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0090583_0091142",
+      "text": "The sentence in the audio is 'cos then it's about the amount that each if you have to kind of call a new class and then they will do it fine.'"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_MEE014_0062874_0064041",
+      "text": "The sentence that best fits the provided information is: \"And thou, that word would last for um well, I don't know, I'm not entirely sure how long it would last, but I've never seen.\""
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0033810_0034240",
+      "text": "The easiest thing to do is display how you want it. I can do it."
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0010963_0011958",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. \"Okay well I think we've introduced ourselves so the functional requirements ah is is part of my goal but one would pass right to the second slide.\" - Sentence number 1, spoken by a male speaker with an English accent, age range between 16-25 years old, in a neutral mood.\n  2. \"Okay well I think we've introduced ourselves so the functional requirements ah is is part of my goal but one would pass right to the second slide.\" - The transcription of the speech for this sentence is identical to the first one provided.\n  3. \"Okay well I think we've introduced ourselves so the functional requirements ah is is part of my goal but one would"
+     },
+     {
+      "stem": "AMI_ES2004d_sdm_MEE014_0032552_0032972",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. Just to the front of the, we have our dining room.\n  2. We don't have any other rooms in this house.\n  3. There's only one entrance to the house.\n  4. The dining room has a big window that looks out onto the garden.\n  5. We usually have dinner in the dining room.\n  6. The kitchen is located next to the dining room.\n  7. There's no need to go through the living room to get to the dining room.\n  8. The dining room is where we have guests stay when they visit us.\n  9. We often have family gatherings in the dining room.\n  "
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0048678_0048985",
+      "text": "The sentence in the audio is 'but it might be a good idea to make a docking station.'"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0028144_0028599",
+      "text": "The sentence in the audio is: 'rather than the the current function looking through of remote controls.'"
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIE088_0183727_0184471",
+      "text": "I think we we did in more than one respect and so I think we did very well here."
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0002063_0002511",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n1. A female voice is heard saying 'to get every time' in English with a neutral mood. The speech segment starts at 0.00 seconds and ends at 2.28 seconds.\n2. There are no other speakers or sound elements present in this recording.\n3. The signal-to-noise ratio (SNR) of the recording is 12.4 decibels (dB).\n4. The speech-to-relation-melody ratio (SRMR) of the recording is 6.8.\n5. The average frequency (F0) of the speech is 138.2 Hz, with a standard deviation (SD) of 21.5 Hz.\n6"
+     },
+     {
+      "stem": "AMI_ES2004c_sdm_FEE016_0069148_0069726",
+      "text": "1 00:00:00,000 --> 00:00:02,000 could people put standard batteries in \\n2 00:00:02,000 --> 00:00:04,000 but with this you know they could leave \\n3 00:00:04,000 --> 00:00:06,000 it in the sunlight for solar charging \\n4 00:00:06,000 --> 00:00:08,000 or the two things not compatible"
+     },
+     {
+      "stem": "AMI_ES2004b_sdm_FEE016_0081740_0082067",
+      "text": "Sure, here are the sentence numbers and their corresponding information for the recording you just heard:\n\n1. Sentence starts at 0.00s, ends at 1.08s.\n2. Sentence starts at 1.37s, ends at 2.28s.\n3. Sentence starts at 2.50s, ends at 3.28s.\n4. Sentence starts at 3.48s, ends at 4.27s.\n5. Sentence starts at 4.47s, ends at 5.28s.\n6. Sentence starts at 5.46s, ends at 6.28s.\n7. Sentence starts at 6.48s, ends at 7"
+     },
+     {
+      "stem": "AMI_EN2002d_sdm_FEO070_0205438_0205932",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n1. Sentence starts at 0.00s, ends at 1.47s.\n2. Sentence starts at 1.69s, ends at 3.90s.\n3. Sentence starts at 3.99s, ends at 5.49s.\n4. Sentence starts at 5.69s, ends at 7.28s.\n5. Sentence starts at 7.50s, ends at 8.98s.\n6. Sentence starts at 9.18s, ends at 10.73s.\n7. Sentence starts at 10.92s, ends at 12"
+     },
+     {
+      "stem": "AMI_EN2002a_sdm_FEO072_0026135_0026438",
+      "text": "I'd like to search for that user."
+     },
+     {
+      "stem": "AMI_IS1009d_sdm_FIO089_0013037_0013522",
+      "text": "The sentence challenge was at that point, but it was successfully completed."
+     },
+     {
+      "stem": "AMI_TS3003a_sdm_MTD009PM_0021934_0022335",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n1. Um okay what are we going to do? (SNR: 12.4 dB, SRMR: 6.8, F0 mean: 138.2 Hz, F0 SD: 21.5 Hz, speaking rate: 3.9 syllables per second, pauses: 5, pause rate: 18.7 per minute, jitter: 1.3%, shimmer: 4.6%, HNR: 14.2 dB)\n2. Um okay what are we going to do? (SNR: 12.4 dB, SRMR: 6.8, F0 mean: 138.2"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD012ME_0123533_0123878",
+      "text": "The sentence spoken in the audio is 'Besides that I think the market for forty plus is like.'"
+     },
+     {
+      "stem": "AMI_IS1009b_sdm_FIO089_0096316_0096672",
+      "text": "1. Changing modes is nothing for us, but people who...\n2. Changing modes is nothing for us, but people who...\n3. Changing modes is nothing for us, but people who...\n4. Changing modes is nothing for us, but people who...\n5. Changing modes is nothing for us, but people who...\n6. Changing modes is nothing for us, but people who...\n7. Changing modes is nothing for us, but people who...\n8. Changing modes is nothing for us, but people who...\n9. Changing modes is nothing for us, but people who...\n10. Changing modes is nothing for us, but people who..."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE073_0077597_0078132",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n  1. A female voice speaks in Mandarin saying '\u55ef\u90a3\u4f60\u770b\u4f60\u633a\u6f02\u4eae\u7684' with a perceived speech quality score of 3.9 on a scale from 1 to 5, where 5 indicates the highest quality. The speech has a signal-to-noise ratio (SNR) of 12.4 decibels (dB), a spectral rolloff measure (SRMR) of 6.8, a mean frequency (F0) of 138.2 hertz (Hz), a standard deviation (SD) of 21.5 Hz, a speaking rate of 3.9 syllables per second, and 5 pauses observed in the recording. The pause"
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0050671_0050993",
+      "text": "The sentence numbers and their corresponding information for the provided recording are as follows:\n\n1. The sentence starts at 0.00 seconds and ends at 3.90 seconds.\n2. The sentence starts at 4.24 seconds and ends at 6.88 seconds.\n3. The sentence starts at 7.17 seconds and ends at 8.94 seconds.\n4. The sentence starts at 9.26 seconds and ends at 11.00 seconds.\n5. The sentence starts at 11.29 seconds and ends at 13.00 seconds.\n6. The sentence starts at 13.29 seconds and ends at 15.00 seconds.\n7. The sentence starts at 1"
+     },
+     {
+      "stem": "AMI_TS3003b_sdm_MTD0010ID_0097468_0098059",
+      "text": "The chip controls the infrared bulb and perhaps a normal bulb."
+     },
+     {
+      "stem": "AMI_EN2002c_sdm_MEE071_0155341_0156222",
+      "text": "I'm sorry, but I cannot provide the requested information as you have not provided a specific recording for me to analyze. Please provide the recording and I will do my best to assist you."
+     }
+    ]
+   }
+  }
+ }
+}
